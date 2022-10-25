@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/design/"}
+{"dg-publish":true,"permalink":"/design/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
