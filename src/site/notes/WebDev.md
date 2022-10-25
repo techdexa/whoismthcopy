@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-dev/"}
+{"dg-publish":true,"permalink":"/web-dev/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
