@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pkms/"}
+{"dg-publish":true,"permalink":"/pkms/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
