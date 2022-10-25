@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/"}
+{"dg-publish":true,"permalink":"/programming/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
