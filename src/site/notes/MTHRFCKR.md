@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mthrfckr/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/mthrfckr/","tags":"gardenEntry","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
