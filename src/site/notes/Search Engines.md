@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/search-engines/"}
+{"dg-publish":true,"permalink":"/search-engines/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
