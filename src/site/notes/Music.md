@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/music/"}
+{"dg-publish":true,"permalink":"/music/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
