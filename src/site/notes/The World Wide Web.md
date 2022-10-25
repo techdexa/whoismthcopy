@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world-wide-web/"}
+{"dg-publish":true,"permalink":"/the-world-wide-web/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
