@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bookmrks-mthrfckr/"}
+{"dg-publish":true,"permalink":"/bookmrks-mthrfckr/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
