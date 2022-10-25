@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/osint/"}
+{"dg-publish":true,"permalink":"/osint/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
