@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-and-os-related/"}
+{"dg-publish":true,"permalink":"/computer-and-os-related/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
