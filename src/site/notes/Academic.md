@@ -9,7 +9,6 @@
 - [BASE](https://www.base-search.net/)
 - [Citeseerx](https://citeseerx.ist.psu.edu/index;jsessionid=619038F42B97B7B14D3D7D1EF8BA289B)
 - [Copyscape Plagiarism Checker - Duplicate Content Detection Software](https://www.copyscape.com/)
-- [[https://www.cccmypath.org/uPortal/f/u7859l1s1000/normal/render.uP#session_state=fe5d7586-21c2-44e9-9e1b-19509decc737&code=24e56c0f-b3f4-4ef0-9b09-510b3f5e911d.fe5d7586-21c2-44e9-9e1b-19509decc737.1a9e2586-6f11-4403-8d0b-8f07b75d1ab8|https://www.cccmypath.org/uPortal/f/u7859l1s1000/normal/render.uP#session_state=fe5d7586-21c2-44e9-9e1b-19509decc737&code=24e56c0f-b3f4-4ef0-9b09-510b3f5e911d.fe5d7586-21c2-44e9-9e1b-19509decc737.1a9e2586-6f11-4403-8d0b-8f07b75d1ab8]]
 - [Dimensions](https://app.dimensions.ai/discover/publication)
 - [Free Online Legal Research | Lexis® Web](http://lexisweb.com/)
 - [Google Colaboratory](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)
