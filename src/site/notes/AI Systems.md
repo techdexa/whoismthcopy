@@ -21,5 +21,5 @@
 - [Luminance | The AI Platform for the Legal Profession](https://www.luminance.com/)
 - [Mark Copy - Product Hunt](https://www.markcopy.ai/product-hunt?ref=producthunt)
 - [OpenText](https://www.opentext.de/)
-- [[https://rytr.me/#pricing|https://rytr.me/#pricing]]
+- https://rytr.me/#pricing
 - [Write With Transformer](https://transformer.huggingface.co/)
