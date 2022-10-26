@@ -43,7 +43,7 @@
 - [A Markdown Editor for the 21st Century](https://www.zettlr.com/)
 - [Agenda - Date-focused Note Taking.](https://agenda.com/)
 - [cryo file manager](https://cryonet.io/?ref=producthunt)
-- [Note taking and mind mapping combined in one app](https://brainio.com/#/)
+- [[https://brainio.com/#/|https://brainio.com/#/]]
 - [Notenik Home](https://notenik.app/)
 - [Tinderbox: The Tool For Notes](http://www.eastgate.com/Tinderbox/index.html)
 ### Online
@@ -82,7 +82,7 @@
 - [You need a wiki](https://youneedawiki.com/app)
 ### Packages
 - [Argdown](https://argdown.org/)
-- [cotoami/cotoami: Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.](https://github.com/cotoami/cotoami#flow-timeline-and-stock-structured-content)
+- [[https://github.com/cotoami/cotoami#flow-timeline-and-stock-structured-content|https://github.com/cotoami/cotoami#flow-timeline-and-stock-structured-content]]
 - [Index - Archivy](https://archivy.github.io/)
 - [jKanban - Javascript plugin for Kanban boards](https://www.riccardotartaglia.it/jkanban/?ref=producthunt)
 - [Neuron Zettelkasten](https://neuron.zettel.page/)
@@ -185,7 +185,7 @@
 - [Using journalctl - The Ultimate Guide To Logging](https://www.loggly.com/ultimate-guide/using-journalctl)
 - [WorkFlowy](https://workflowy.com/)
 ## Obsidian
-- [[@bbchase/obsidian resources](%5B@bbchase/obsidian%20resources) - anagora.org](https://anagora.org/@bbchase/obsidian-resources)
+- [[[@bbchase/obsidian resources|[@bbchase/obsidian resources]] - anagora.org](https://anagora.org/@bbchase/obsidian-resources)
 - [A Guide to Obsidian: Local, Markdown-Powered Networked Notes - SitePoint](https://www.sitepoint.com/obsidian-beginner-guide/)
 - [agreatfool/obsidian-utils: Command line tools to help obsidian stuff](https://github.com/agreatfool/obsidian-utils)
 - [basilioss/obsidian-scrapers: Get information from link for Obsidian](https://github.com/basilioss/obsidian-scrapers)
