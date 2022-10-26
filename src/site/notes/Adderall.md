@@ -7,7 +7,7 @@
 - [“Adderall is Definitely Not a Drug”: Justifications for the Illegal Use of ADHD Stimulants](http://www.tandfonline.com/doi/full/10.3109/10826080902858334)
 - [A randomized double-blind trial of paroxetine and/or dextroamphetamine and problem-focused therapy for attention-deficit/hyperactivity disorder in adults - PubMed](https://pubmed.ncbi.nlm.nih.gov/16669726/)
 - [ADDERALL INDUCED DILATED CARDIOMYOPATHY IN AN ADULT MALE WITH ADHD](https://linkinghub.elsevier.com/retrieve/pii/S0735109721036809)
-- [[Amphetamine-Dextroamphetamine) Toxicity](https://linkinghub.elsevier.com/retrieve/pii/S193897361300024X|Adderall® (Amphetamine-Dextroamphetamine) Toxicity]]
+- [Amphetamine-Dextroamphetamine) Toxicity](https://linkinghub.elsevier.com/retrieve/pii/S193897361300024X|Adderall® (Amphetamine-Dextroamphetamine)
 - [Adult ADHD Medications and Their Cardiovascular Implications](http://www.hindawi.com/journals/cric/2016/2343691)
 - [Amph](https://cdn.preterhuman.net/texts/drugs/amph.fun)
 - [Amphetam](https://cdn.preterhuman.net/texts/drugs/amphetam)
@@ -26,7 +26,7 @@
 - [Effectiveness and Tolerability of Tomoxetine in Adults With Attention Deficit Hyperactivity Disorder](http://psychiatryonline.org/doi/abs/10.1176/ajp.155.5.693)
 - [Efficacy and Safety of Dexmethylphenidate Extended-Release Capsules in Adults with Attention-Deficit/Hyperactivity Disorder](https://linkinghub.elsevier.com/retrieve/pii/S0006322306009541)
 - [Efficacy and safety of dexmethylphenidate extended-release capsules in adults with attention-deficit/hyperactivity disorder - PubMed](https://pubmed.ncbi.nlm.nih.gov/17137560/)
-- [[adderall XR) in the management of attention-deficit/hyperactivity disorder in adolescent patients: A 4-week, randomized, double-blind, placebo-controlled, parallel-group study](https://linkinghub.elsevier.com/retrieve/pii/S0149291806000518|Efficacy and safety of mixed amphetamine salts extended release (adderall XR) in the management of attention-deficit/hyperactivity disorder in adolescent patients: A 4-week, randomized, double-blind, placebo-controlled, parallel-group study]]
+- [adderall XR) in the management of attention-deficit/hyperactivity disorder in adolescent patients](https://linkinghub.elsevier.com/retrieve/pii/S0149291806000518|Efficacy and safety of mixed amphetamine salts extended release (adderall XR)
 - [Efficacy of a Mixed Amphetamine Salts Compound in Adults With Attention-Deficit/Hyperactivity Disorder](http://archpsyc.jamanetwork.com/article.aspx?doi=10.1001%2Farchpsyc.58.8.775)
 - [Efficacy of Adderall and methylphenidate in attention deficit hyperactivity disorder: a drug–placebo and drug–drug response curve analysis of a naturalistic study](https://academic.oup.com/ijnp/article-lookup/doi/10.1017/S1461145702002845)
 - [Efficacy of Modafinil Compared to Dextroamphetamine for the Treatment of Attention Deficit Hyperactivity Disorder in Adults](http://www.liebertpub.com/doi/10.1089/cap.2000.10.311)
@@ -50,7 +50,7 @@
 - [The Effects of Amphetamine and Methamphetamine on the Release of Norepinephrine, Dopamine and Acetylcholine From the Brainstem Reticular Formation](https://www.frontiersin.org/article/10.3389/fnana.2019.00048/full)
 - [The Neuropsychology of Amphetamine and Opiate Dependence: Implications for Treatment](http://link.springer.com/10.1007/s11065-007-9033-y)
 - [The pharmacology of amphetamine and methylphenidate: Relevance to the neurobiology of attention-deficit/hyperactivity disorder and other psychiatric comorbidities](https://linkinghub.elsevier.com/retrieve/pii/S0149763417308072)
-- [[MDMA, ‘Ecstasy’), methamphetamine and d-amphetamine](https://www.degruyter.com/document/doi/10.1515/bc.2011.016/html|The ugly side of amphetamines: short- and long-term toxicity of 3,4-methylenedioxymethamphetamine (MDMA, ‘Ecstasy’), methamphetamine and d-amphetamine]]
+- [MDMA](https://www.degruyter.com/document/doi/10.1515/bc.2011.016/html|The ugly side of amphetamines: short- and long-term toxicity of 3,4-methylenedioxymethamphetamine (MDMA, ‘Ecstasy’)
 - [Toxicity of amphetamines: an update](http://link.springer.com/10.1007/s00204-012-0815-5)
 - [Toxicity of amphetamines: an update - PubMed](https://pubmed.ncbi.nlm.nih.gov/22392347/)
 - [Treatment for amphetamine withdrawal](https://doi.wiley.com/10.1002/14651858.CD003021.pub2)
