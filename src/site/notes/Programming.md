@@ -41,7 +41,7 @@
 ## Git
 ### AWESOME
 - [Awesome Resources | A collection of awesome resources added by many contributors to help others find resources material about different programming langauges and frameworks.](https://shahednasser.github.io/awesome-resources)
-- [Awesome Search](https://awesomelists.top/#/)
+- [[https://awesomelists.top/#/|https://awesomelists.top/#/]]
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
 - [GitHub - abdelhai/awesome-bots: Awesome Links about bots.](https://github.com/abdelhai/awesome-bots)
 - [GitHub - ad-si/awesome-lego: Curated list of awesome LEGO resources](https://github.com/ad-si/awesome-lego)
@@ -429,7 +429,7 @@
 - [Git](https://raindrop.io/whoisdsmith/git-22103088)
 - [GitBook - Where software teams break knowledge silos.](https://www.gitbook.com/)
 - [GitExplorer](https://gitexplorer.com/)
-- [GitHub - Ademking/happydia: Happydia (Happy-Social-Media) is a browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feeds.](https://github.com/Ademking/happydia)
+- [[Happy-Social-Media) is a browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feeds.](https://github.com/Ademking/happydia|GitHub - Ademking/happydia: Happydia (Happy-Social-Media) is a browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feeds.]]
 - [GitHub - ayoy/fontedit: A desktop app to import, edit and export fonts as byte arrays for use in embedded systems](https://github.com/ayoy/fontedit)
 - [GitHub - bijij/ViewImage: Extension to re-implement the "View Image" and "Search by image" buttons into google images.](https://github.com/bijij/ViewImage)
 - [GitHub - chrissimpkins/codeface: Typefaces for source code beautification](https://github.com/chrissimpkins/codeface)
@@ -439,20 +439,20 @@
 - [GitHub - digitaldisarray/OSINT-Tools: Some of my favorite OSINT tools.](https://github.com/digitaldisarray/OSINT-Tools)
 - [GitHub - DIYgod/RSSHub: 🍰 Everything is RSSible](https://github.com/DIYgod/RSSHub)
 - [GitHub - Emupedia/emupedia.github.io: The purpose of Emupedia is to serve as a nonprofit meta-resource, hub and community for those interested mainly in video game preservation which aims to digitally collect, archive and preserve games and software to make them available online accessible by a user-friendly UI that simulates several retro operating systems for educational purposes.](https://github.com/Emupedia/emupedia.github.io)
-- [GitHub - fireeye/commando-vm: Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com](https://github.com/fireeye/commando-vm)
+- [[Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com](https://github.com/fireeye/commando-vm|GitHub - fireeye/commando-vm: Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com]]
 - [GitHub - gavinsharp/SuperStop: SuperStop](https://github.com/gavinsharp/SuperStop)
 - [GitHub - GitSquared/sherlock-js: Find usernames across over 170 social networks - Fast & flexible remake of sdushantha/sherlock](https://github.com/GitSquared/sherlock-js)
 - [GitHub - Hack-with-Github/Powerful-Plugins: Powerful plugins and add-ons for hackers](https://github.com/Hack-with-Github/Powerful-Plugins)
 - [GitHub - Ibit-to/google-unlocked: Google Unlocked browser extension uncensor google search results](https://github.com/Ibit-to/google-unlocked)
 - [GitHub - internetarchive/wayback-machine-webextension: A web browser extension for Chrome, Firefox, Edge, and Safari 14.](https://github.com/internetarchive/wayback-machine-webextension)
 - [GitHub - iojw/socialscan: Check email address and username availability on online platforms with 100% accuracy](https://github.com/iojw/socialscan)
-- [GitHub - jay0lee/got-your-back: Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.](https://github.com/jay0lee/got-your-back)
+- [[GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.](https://github.com/jay0lee/got-your-back|GitHub - jay0lee/got-your-back: Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.]]
 - [GitHub - jswanner/DontFuckWithPaste: Google Chrome extension that prevents the blocking of pasting into input fields](https://github.com/jswanner/DontFuckWithPaste)
 - [GitHub - keitharm/myTube: Youtube without all the bloat](https://github.com/keitharm/mytube)
 - [GitHub - lawfx/YoutubeNonStop: Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?](https://github.com/lawfx/YoutubeNonStop)
 - [GitHub - new-xkit/XKit: Fork of XKit, the extension framework for Tumblr](https://github.com/new-xkit/XKit)
 - [GitHub - nid666/PiracyArchive: A complete backup of the Reddit r/Piracy sub](https://github.com/nid666/PiracyArchive)
-- [GitHub - nZEDb/nZEDb: nZEDb - a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.](https://github.com/nZEDb/nZEDb)
+- [[2011) | NNTP / Usenet / Newsgroup indexer.](https://github.com/nZEDb/nZEDb]]
 - [GitHub - PetterKraabol/Twitch-Chat-Downloader: Download chat messages from past broadcasts on Twitch](https://github.com/PetterKraabol/Twitch-Chat-Downloader)
 - [GitHub - rahiel/archiveror: Archiveror will help you preserve the webpages you love. 💾](https://github.com/rahiel/archiveror)
 - [GitHub - sindresorhus/caprine: Elegant Facebook Messenger desktop app](https://github.com/sindresorhus/caprine)
@@ -760,7 +760,7 @@
 - [PunchClock](https://github.com/panicinc/PunchClock)
 - [PureLayout](https://github.com/PureLayout/PureLayout)
 - [pybrain](https://github.com/pybrain/pybrain)
-- [PyFunceble](https://pyfunceble.github.io/#/)
+- [[https://pyfunceble.github.io/#/|https://pyfunceble.github.io/#/]]
 - [pyphi](https://github.com/wmayner/pyphi)
 - [pyreco](https://github.com/Mondego/pyreco)
 - [pyrecovery](https://github.com/grp/pyrecovery)
@@ -1038,7 +1038,7 @@
 - [JS Bin](https://jsbin.com/?html,output)
 - [Just For Fun](https://justforfun.io/)
 - [Kore - An easy to use web platform for C and Python](https://kore.io/)
-- [musicForProgramming();](https://musicforprogramming.net/latest/)
+- [[);](https://musicforprogramming.net/latest/|musicForProgramming();]]
 - [pkg.go.dev](https://pkg.go.dev/?utm_source=godoc)
 - [Teknik](https://www.teknik.io/)
 - [The Go Play Space](https://goplay.space/)
@@ -1056,7 +1056,7 @@
 - [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com/)
 - [RegEx Library](https://uibakery.io/regex-library)
 - [RegexBuddy: Learn, Create, Understand, Test, Use and Save Regular Expression](https://www.regexbuddy.com/)
-- [Regulex：JavaScript Regular Expression Visualizer](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
+- [[https://jex.im/regulex/#!flags=&re=^(a|b]]*%3F%24)
 - [Rubular](https://rubular.com/)
 - [Setup | magic-regexp](https://regexp.dev/getting-started/setup)
 - [Welcome | magic-regexp](https://regexp.dev/)
@@ -1074,7 +1074,7 @@
 - [Homebrew Formulae](https://formulae.brew.sh/)
 - [shell.how - How this shell command works?](https://www.shell.how/)
 - [@olaolum/scaffy - npm](https://www.npmjs.com/package/@olaolum/scaffy?ref=producthunt)
-- [0nn0/terminal-mac-cheatsheet: List of my most used commands and shortcuts in the terminal for Mac](https://github.com/0nn0/terminal-mac-cheatsheet#shortcuts)
+- [[https://github.com/0nn0/terminal-mac-cheatsheet#shortcuts|https://github.com/0nn0/terminal-mac-cheatsheet#shortcuts]]
 - [3v4l.org - online PHP shell with 250+ PHP versions](https://3v4l.org/)
 - [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/)
 - [A good terminal experience with iTerm2 and ZSH on macOS | by Julien Ponge | Medium](https://jponge.medium.com/a-good-terminal-experience-with-iterm2-and-zsh-on-macos-439c106aa22d)
