@@ -24,7 +24,7 @@
 ## Cloud
 - [GronCloud](https://groncloud.com/products?ref=producthunt)
 - [Linode Manager](https://cloud.linode.com/linodes)
-- [Microsoft Azure](https://portal.azure.com/#home)
+- [[https://portal.azure.com/#home|https://portal.azure.com/#home]]
 ## Dashboards
 ### Dashboard Tools
 - [Analyticsportfolio.com](https://analyticsportfolio.com/)
@@ -110,7 +110,7 @@
 - [Unstoppable Domains](https://unstoppabledomains.com/)
 - [WebsiteHydra - Website Hosting Solutions by Secure Dragon LLC.](https://websitehydra.com/)
 - [Weebly](https://weebly.com/)
-- [x10hosting - Free Web hosting Web Hosting For The Masses](https://x10hosting.com/#features)
+- [[https://x10hosting.com/#features|https://x10hosting.com/#features]]
 ## HTML & CSS
 - [A react component to display event in a vertical timeline format](https://reactjsexample.com/a-react-component-to-display-event-in-a-vertical-timeline-format/)
 - [Amino: Live CSS Editor](https://aminoeditor.com/)
@@ -149,7 +149,7 @@
 - [GitHub - public-apis/public-apis: A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 - [Integrate the IFTTT API with the Spotify API - Pipedream](https://pipedream.com/apps/ifttt/integrations/spotify)
 - [Intellexer – Text Mining Solutions for Everyone](https://www.intellexer.com/)
-- [Microsoft Azure](https://portal.azure.com/Error/UE_404?aspxerrorpath=%2F#home)
+- [[https://portal.azure.com/Error/UE_404?aspxerrorpath=%2F#home|https://portal.azure.com/Error/UE_404?aspxerrorpath=%2F#home]]
 - [n0shake/Public-APIs: 📚 A public list of APIs from round the web.](https://github.com/n0shake/Public-APIs)
 - [NocoDB | Turns your SQL database into a Nocode platform. Free & Open Source.](https://www.nocodb.com/)
 - [Overview - My Workspace](https://web.postman.co/workspace/My-Workspace~17584f92-4718-4f95-8dc2-c1c5cdd9d09e/overview?workspaceOnboarding=show)
@@ -162,7 +162,7 @@
 - [Web API | Spotify for Developers](https://developer.spotify.com/documentation/web-api/)
 - [Youtube to Mp3 Converter Api](https://api.vevioz.com/)
 ### Automation
-- [42wim/matterbridge: bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)](https://github.com/42wim/matterbridge)
+- [[mattermost not required!)](https://github.com/42wim/matterbridge|42wim/matterbridge: bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)]]
 - [A Global Leader in Intelligent Automation & RPA | Automation Anywhere](https://www.automationanywhere.com/)
 - [Abhishek says...](https://integrately.com/?ref=pxwtps)
 - [ActiveWorkflow - Turn complex requirements to workflows without leaving the comfort of your technology stack.](https://www.activeworkflow.org/)
@@ -174,7 +174,7 @@
 - [balenaHub: an easier way to find and publish fleets and projects for edge devices](https://hub.balena.io/what-is-balenahub)
 - [Bardeen | Automate your repetitive tasks with one click](https://www.bardeen.ai/)
 - [bip.io - For People and Robots](https://bip.io/)
-- [BrowserAutomationStudio: Chrome automation solution.](https://bablosoft.com/shop/BrowserAutomationStudio#screenshots)
+- [[https://bablosoft.com/shop/BrowserAutomationStudio#screenshots|https://bablosoft.com/shop/BrowserAutomationStudio#screenshots]]
 - [Build & scale high value integrations | tray.io](https://tray.io/)
 - [Butternut - Keep control of your automation](https://butternut.tech/integrations)
 - [Butternut | Keep control of your automation](https://butternut.tech/)
@@ -193,12 +193,12 @@
 - [Fusebit - Build integrations for your app with ease](https://fusebit.io/)
 - [Google Apps Scripts Collection - The Best Google Scripts](http://www.labnol.org/internet/google-scripts/28281)
 - [Hammerspoon](http://www.hammerspoon.org/)
-- [Home](https://pingme.lmno.pk/#/)
+- [[https://pingme.lmno.pk/#/|https://pingme.lmno.pk/#/]]
 - [Home - Cognifirm](https://cognifirm.com/)
 - [Home | Packal](http://www.packal.org/)
-- [How I track my life with Integromat, Airtable, Shortcuts and Timing (et al) - Web - Automators Talk](https://talk.automators.fm/t/how-i-track-my-life-with-integromat-airtable-shortcuts-and-timing-et-al/5507/31)
+- [[et al) - Web - Automators Talk](https://talk.automators.fm/t/how-i-track-my-life-with-integromat-airtable-shortcuts-and-timing-et-al/5507/31|How I track my life with Integromat, Airtable, Shortcuts and Timing (et al) - Web - Automators Talk]]
 - [Huginn: An Open-Source, Self-Hosted IFTTT - DZone Web Dev](https://dzone.com/articles/huginn-an-open-source-self-hosted-ifttt)
-- [Hybrid Integration Platform (HIP) | APIANT](https://apiant.com/index)
+- [[HIP) | APIANT](https://apiant.com/index]]
 - [Instantly follow up on Facebook Lead Ads and act while the lead is hot](https://www.stargate365.com/)
 - [Integration, automation, & API management | Martini | Toro Cloud](https://www.torocloud.com/martini)
 - [Integromat - Automate your workflow](https://www.integromat.com/en)
@@ -234,7 +234,7 @@
 - [Try Diagram - The most complete Nocode API builder](https://www.ondiagram.com/)
 - [TypedWebhook.tools: a tool to test webhooks and generate payload types](https://typedwebhook.tools/)
 - [Unito: Build and Optimize Workflows Across Tools and Teams](https://unito.io/)
-- [webMethods.io Integration](https://www.softwareag.cloud/site/product/webmethods-io-integration.html#/)
+- [[https://www.softwareag.cloud/site/product/webmethods-io-integration.html#/|https://www.softwareag.cloud/site/product/webmethods-io-integration.html#/]]
 - [What is a Webhook?](https://ifttt.com/explore/what-is-a-webhook)
 - [Workflow Automation & App Integration Software | ZapUp by 500apps](https://zapup.com/)
 - [Workflow Tips for Beginners | Sayz Lim](https://sayzlim.net/workflow-tips-beginners)
@@ -272,15 +272,15 @@
 - [00 - Start here - Obsidian Publish](https://publish.obsidian.md/hub/00+-+Start+here)
 - [Automate Your Life](https://automatelife.net/)
 - [Automators Talk](https://talk.automators.fm/)
-- [Best Shortcuts (iOS) (@Best_Shortcuts)](https://twitter.com/Best_Shortcuts)
-- [Charty (@chartyios)](https://twitter.com/chartyios)
-- [Data Jar (@datajarapp)](https://twitter.com/datajarapp)
-- [Drafts (@draftsapp)](https://twitter.com/draftsapp)
+- [[iOS) (@Best_Shortcuts)](https://twitter.com/Best_Shortcuts|Best Shortcuts (iOS) (@Best_Shortcuts)]]
+- [[@chartyios)](https://twitter.com/chartyios|Charty (@chartyios)]]
+- [[@datajarapp)](https://twitter.com/datajarapp|Data Jar (@datajarapp)]]
+- [[@draftsapp)](https://twitter.com/draftsapp|Drafts (@draftsapp)]]
 - [Drafts Community](https://forums.getdrafts.com/)
 - [Drafts Directory: Drafts Directory](https://actions.getdrafts.com/)
 - [Drafts Script Reference](https://scripting.getdrafts.com/)
 - [GitHub: Where the world builds software](https://github.com/)
-- [GizmoPack (@GizmoPack)](https://twitter.com/GizmoPack)
+- [[@GizmoPack)](https://twitter.com/GizmoPack|GizmoPack (@GizmoPack)]]
 - [Home](https://docs.getdrafts.com/)
 - [Home](https://yarnpkg.com/)
 - [Homepage](https://www.matthewcassinelli.com/)
@@ -290,14 +290,14 @@
 - [https://www.reddit.com/r/shortcuts/](https://www.reddit.com/r/shortcuts)
 - [https://www.reddit.com/r/ToolboxPro/](https://www.reddit.com/r/ToolboxPro)
 - [ifttt - npm search](https://www.npmjs.com/search?q=ifttt)
-- [IFTTT (@IFTTT)](https://twitter.com/IFTTT)
+- [[@IFTTT)](https://twitter.com/IFTTT|IFTTT (@IFTTT)]]
 - [IFTTT projects](https://www.hackster.io/ifttt)
-- [Mac Power Users (@macpowerusers)](https://twitter.com/macpowerusers)
+- [[@macpowerusers)](https://twitter.com/macpowerusers|Mac Power Users (@macpowerusers)]]
 - [MacStories](https://www.macstories.net/tag/shortcuts)
 - [MPU Talk](https://talk.macpowerusers.com/)
 - [Newest 'ifttt' Questions](https://stackoverflow.com/questions/tagged/ifttt)
 - [npm](https://www.npmjs.com/)
-- [Obsidian (@obsdmd)](https://twitter.com/obsdmd)
+- [[@obsdmd)](https://twitter.com/obsdmd|Obsidian (@obsdmd)]]
 - [Product Hunt – The best new products in tech.](https://www.producthunt.com/search)
 - [Pushcut - Help & Support: Automation Server](https://www.pushcut.io/support_automation_server.html)
 - [Pushcut - Help & Support: Notifications, Shortcuts & Triggers](https://www.pushcut.io/support_notifications.html)
@@ -305,20 +305,20 @@
 - [Pushcut - Help & Support: Widgets](https://www.pushcut.io/support_widgets.html)
 - [Pushcut - Notification Guides & Examples](https://www.pushcut.io/guides_notifications.html)
 - [Pushcut - Widget Guides & Examples](https://www.pushcut.io/guides_widgets.html)
-- [pushcut.io (@pushcut_app)](https://twitter.com/pushcut_app)
-- [Rosemary Orchard (@RosemaryOrchard)](https://twitter.com/RosemaryOrchard)
+- [[@pushcut_app)](https://twitter.com/pushcut_app|pushcut.io (@pushcut_app)]]
+- [[@RosemaryOrchard)](https://twitter.com/RosemaryOrchard|Rosemary Orchard (@RosemaryOrchard)]]
 - [RoutineHub](https://routinehub.co/)
-- [RoutineHub (@routinehub)](https://twitter.com/routinehub)
-- [shareshortcuts (@shareshortcuts)](https://twitter.com/shareshortcuts)
-- [Shortcutify (@shortcutify)](https://twitter.com/shortcutify)
-- [Shortcuts Gallery (@siri_shortcuts)](https://twitter.com/siri_shortcuts)
+- [[@routinehub)](https://twitter.com/routinehub|RoutineHub (@routinehub)]]
+- [[@shareshortcuts)](https://twitter.com/shareshortcuts|shareshortcuts (@shareshortcuts)]]
+- [[@shortcutify)](https://twitter.com/shortcutify|Shortcutify (@shortcutify)]]
+- [[@siri_shortcuts)](https://twitter.com/siri_shortcuts|Shortcuts Gallery (@siri_shortcuts)]]
 - [ShortcutsGallery.com - Download and share Siri Shortcuts](https://shortcutsgallery.com/)
 - [Sourcegraph](https://sourcegraph.com/search)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [Taio - Markdown & Text Actions](https://taio.app/)
-- [Taio (@TaioApp)](https://twitter.com/TaioApp)
+- [[@TaioApp)](https://twitter.com/TaioApp|Taio (@TaioApp)]]
 - [Tools](https://toolboxpro.app/tools)
-- [UpdateKit API for Shortcuts (@UpdateKit)](https://twitter.com/UpdateKit)
+- [[@UpdateKit)](https://twitter.com/UpdateKit|UpdateKit API for Shortcuts (@UpdateKit)]]
 - [UpdateKit API v1 • Mike Beasley](https://www.mikebeas.com/updatekit-api/v1)
 ### RSS
 #### RSS Tools
@@ -336,7 +336,7 @@
 - [★ Reeder](https://reederapp.com/)
 - [BazQux Reader](https://bazqux.com/)
 - [Cappuccinoapp.com](https://cappuccinoapp.com/)
-- [Drop Feeds – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds)
+- [[en-US)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds|Drop Feeds – Get this Extension for 🦊 Firefox (en-US)]]
 - [Feed Reader](https://feedreader.com/)
 - [Feedbin](https://feedbin.com/)
 - [Feedbro - RSS Feed Reader with built-in Rule Engine](https://nodetics.com/feedbro)
@@ -348,10 +348,10 @@
 - [Fraidycat](https://fraidyc.at/)
 - [GitHub - feedjira/feedjira: A feed parsing library](https://github.com/feedjira/feedjira)
 - [GitHub - felfele/feeds: A completely free and independent mobile RSS reader with no algorithmic timeline](https://github.com/felfele/feeds)
-- [GitHub - FredJul/Flym: Flym News Reader is a light Android feed reader (RSS/Atom)](https://github.com/FredJul/Flym)
+- [[RSS/Atom)](https://github.com/FredJul/Flym|GitHub - FredJul/Flym: Flym News Reader is a light Android feed reader (RSS/Atom)]]
 - [GitHub - jtanza/rufus: Rufus - fetches the paper for you!](https://github.com/jtanza/rufus)
 - [GitHub - lawzava/mynews: Personalized news feed parser & broadcast](https://github.com/lawzava/mynews)
-- [GitHub - lwindolf/liferea: Liferea (Linux Feed Reader), a news reader for GTK/GNOME](https://github.com/lwindolf/liferea)
+- [[Linux Feed Reader), a news reader for GTK/GNOME](https://github.com/lwindolf/liferea|GitHub - lwindolf/liferea: Liferea (Linux Feed Reader), a news reader for GTK/GNOME]]
 - [GitHub - martinrotter/rssguard: RSS Guard is simple feed reader which supports web-based feed services.](https://github.com/martinrotter/rssguard)
 - [GitHub - nkanaev/yarr: yet another rss reader](https://github.com/nkanaev/yarr)
 - [GitHub - Ranchero-Software/NetNewsWire: RSS reader for macOS and iOS.](https://github.com/Ranchero-Software/NetNewsWire)
@@ -409,7 +409,7 @@
 - [How to Create an RSS Feed for Your Site From Scratch](https://www.makeuseof.com/tag/how-to-create-an-rss-feed-for-your-site-from-scratch)
 - [How to Create an RSS Feed for Your Site From Scratch](https://www.makeuseof.com/tag/how-to-create-an-rss-feed-for-your-site-from-scratch/amp/)
 - [How to generate an RSS feed for your blog](https://www.contentful.com/blog/2021/03/05/generate-blog-rss-feed-with-javascript-and-netlify/)
-- [How to Set up an RSS Feed in 2022: Food for Thought](https://www.cloudwards.net/how-to-set-up-an-rss-feed/#setting-up-an-rss-feed)
+- [[https://www.cloudwards.net/how-to-set-up-an-rss-feed/#setting-up-an-rss-feed|https://www.cloudwards.net/how-to-set-up-an-rss-feed/#setting-up-an-rss-feed]]
 - [Ino Reader](https://www.inoreader.com/)
 - [Kill the Newsletter!](https://www.kill-the-newsletter.com/)
 - [Mail Chimp](https://mailchimp.com/)
@@ -478,7 +478,7 @@
 - [Static Site Boilerplate](https://staticsiteboilerplate.com/)
 - [Staticman](https://staticman.net/)
 - [WikiSuite | Software](https://wikisuite.org/Software)
-- [With YunoHost, you can easily manage a server for your friends, association or enterprise. Learn more • YunoHost](https://yunohost.org/#/?ref=producthunt)
+- [[https://yunohost.org/#/?ref=producthunt|https://yunohost.org/#/?ref=producthunt]]
 ## SEO Tools
 - [Ahrefs](https://ahrefs.com/)
 - [Bing](https://www.bing.com/toolbox/webmaster)
@@ -490,7 +490,7 @@
 - [Nibbler](https://nibbler.silktide.com/)
 - [Pageglimpse.com](https://www.pageglimpse.com/)
 - [QuickSprout](https://www.quicksprout.com/)
-- [Search Engine Optimization (SEO) Tools](https://seositecheckup.com/tools)
+- [[SEO) Tools](https://seositecheckup.com/tools|Search Engine Optimization (SEO) Tools]]
 - [Seotoolsforexcel.com](https://seotoolsforexcel.com/)
 - [Serpstat](https://serpstat.com/)
 - [SimilarWeb](https://www.similarweb.com/)
@@ -532,7 +532,7 @@
 - [Laravel Forge - Laravel Hosting & Instant PHP Servers](https://forge.laravel.com/)
 - [NethServer – operating system for the Linux enthusiast](https://www.nethserver.org/)
 - [Nextcloud - Issuing OCC Commands without installing sudo](https://blog.lukebtaylor.com/posts/nextcloud-issuing-occ-commands-without-installing-sudo/)
-- [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx#?)
+- [[https://www.digitalocean.com/community/tools/nginx#?|https://www.digitalocean.com/community/tools/nginx#?]]
 - [olaris / olaris-server](https://gitlab.com/olaris/olaris-server)
 - [OmniOS Community Edition](https://omnios.org/)
 - [Optimized NGINX Web Server](https://webinoly.com/)
@@ -580,7 +580,7 @@
 - [Codeberg Pages - static pages for your projects](https://codeberg.page/)
 - [Create a site with markdown - Docusaurus Tutorial | Web Production | Zatta - Production studio of web, video, and various things](https://zatta.link/en/web/docusaurus-how-to.html)
 - [DriveToWeb - Host websites on Google Drive and Microsoft OneDrive](https://www.drv.tw/)
-- [Dustin Smith (@whoisdsmith) / Espresso](https://rocketespresso.ml/whoisdsmith)
+- [[@whoisdsmith) / Espresso](https://rocketespresso.ml/whoisdsmith|Dustin Smith (@whoisdsmith) / Espresso]]
 - [Eleventy, a simpler static site generator](https://www.11ty.dev/?ref=producthunt)
 - [Grav - A Modern Flat-File CMS | Grav CMS](https://getgrav.org/)
 - [Hosting Static Web Pages | Replit Docs](https://docs.replit.com/hosting/hosting-web-pages)
@@ -605,7 +605,7 @@
 - [Vepp | Your Friendly Panel for Website & Server Management](https://www.vepp.com/)
 - [WHMCS Themes & Templates - WHMCS.Design](https://whmcs.design/)
 - [WordOps - High performance WordPress stack with a few keystrokes](https://wordops.net/)
-- [Array Builder](Array%20Builder)(https://www.arraybuilder.com/)
+- [[Array Builder|Array Builder]](https://www.arraybuilder.com/)
 - [3 tools to convert Markdown to lovely HTML | Web Production | Zatta - Production studio of web, video, and various things](https://zatta.link/en/web/top3-tools-for-convert-markdown-to-html.html)
 - [About weho.st | wehost](https://weho.st/)
 - [about.me | your personal homepage](https://about.me/)
@@ -615,7 +615,7 @@
 - [AppGyver](https://www.appgyver.com/)
 - [Appizy: Convert spreadsheet to web app](https://www.appizy.com/)
 - [Astro | Build faster websites](https://astro.build/)
-- [Azure Static Web Apps – App Service | Microsoft Azure](https://azure.microsoft.com/en-us/services/app-service/static/#overview)
+- [[https://azure.microsoft.com/en-us/services/app-service/static/#overview|https://azure.microsoft.com/en-us/services/app-service/static/#overview]]
 - [Best Free Website Builder Software 2021](https://mobirise.com/)
 - [Build & operate businesses without code | Makerpad](https://www.makerpad.co/)
 - [Bulk URL HTTP Status Code, Header & Redirect Checker | httpstatus.io](https://httpstatus.io/)
@@ -627,7 +627,7 @@
 - [Clone Zone - an online cloning tool](http://clonezone.link/)
 - [Cockpit](https://getcockpit.com/)
 - [CodeMyUI](https://codemyui.com/?ref=producthunt)
-- [Content Security Policy (CSP) Evaluator](https://csper.io/evaluator)
+- [[CSP) Evaluator](https://csper.io/evaluator|Content Security Policy (CSP) Evaluator]]
 - [Control-WebPanel [CWP] – Free Linux Web Hosting Control Panel](https://control-webpanel.com/)
 - [Coolify](https://coolify.io/)
 - [Create a Free Website | Free Website Builder | W3Schools.com](https://www.w3schools.com/spaces)
@@ -635,7 +635,7 @@
 - [Create a Free Website, Free Website Builder | Olitt.com](https://www.olitt.com/)
 - [Create a Website for Free. Tilda Website Builder](https://tilda.cc/)
 - [Create beautiful image or Videos of your code](https://recoded.netlify.app/?ref=producthunt)
-- [Cronit | Online cronjobs - Recurring task scheduling](https://cronit.app/#features)
+- [[https://cronit.app/#features|https://cronit.app/#features]]
 - [Cyotek WebCopy - Copy websites locally for offline browsing • Cyotek](https://www.cyotek.com/cyotek-webcopy)
 - [Dashboard - n8n.io](https://app.n8n.io/dashboard)
 - [Dashboard | TrackMyBacklink.com - Track Your Existing Links](https://trackmybacklink.com/dashboard)
@@ -663,7 +663,7 @@
 - [Free Web Hosting with PHP, MySQL and cPanel](https://aeonfree.com/)
 - [Free, Easy & Simple Website Builder : [2022]](https://8b.com/)
 - [Geekflare Tools for Security, Performance, DNS, IP, Hosting and SEO](https://gf.dev/toolbox)
-- [Get Started -devlopr](https://devlopr.netlify.app/get-started#/)
+- [[https://devlopr.netlify.app/get-started#/|https://devlopr.netlify.app/get-started#/]]
 - [getmeli/meli: Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.](https://github.com/getmeli/meli)
 - [Git-based CMS for Hugo, Next.js, Gatsby, Jekyll, Nuxt.js, Hexo, Eleventy, Docusaurus, Gridsome and more.](https://forestry.io/)
 - [Glide – Create apps & websites without code.](https://www.glideapps.com/)
@@ -702,7 +702,7 @@
 - [Specctr | Home](https://specctr.com/cloud/home)
 - [SSL For Free - Free SSL Certificates in Minutes](https://www.sslforfree.com/)
 - [Start a Website](https://app.dorik.com/start)
-- [Static Site Generators Explained](https://bejamas.io/discovery/static-site-generators/#what-is-a-static-site)
+- [[https://bejamas.io/discovery/static-site-generators/#what-is-a-static-site|https://bejamas.io/discovery/static-site-generators/#what-is-a-static-site]]
 - [sujaykundu777/devlopr-jekyll: Launch your Static Jekyll Site/Blog in minutes built for developers.](https://github.com/sujaykundu777/devlopr-jekyll)
 - [Talium](https://talium.co/)
 - [TeaVM](http://teavm.org/)
@@ -733,7 +733,7 @@
 - [Website Uptime Monitoring Service & Free Status Pages - Pulsetic](https://pulsetic.com/)
 - [Welcome to DNSTools!](https://dnstools.ws/)
 - [Welcome to Retype - Generate, publish, and share documentation](https://retype.com/)
-- [With YunoHost, you can easily manage a server for your friends, association or enterprise. Learn more • YunoHost](https://yunohost.org/#/)
+- [[https://yunohost.org/#/|https://yunohost.org/#/]]
 - [wpengine/faustjs: Faust.js - The Headless WordPress Framework](https://github.com/wpengine/faustjs)
 - [x10hosting - Free Web hosting Web Hosting For The Masses](https://x10hosting.com/)
 - [ZeroNet: Decentralized websites using Bitcoin cryptography and the BitTorrent network](https://zeronet.io/)
@@ -743,7 +743,7 @@
 - [6 Self-hosted Light-weight Tools to Monitor Servers](https://geekflare.com/self-hosted-server-monitoring)
 - [Better Stack](https://betterstack.com/)
 - [Check server: Check host - online website monitoring](https://check-host.net/)
-- [Free (Cookie) Compliance Monitor | Datastreams](https://www.datastreams.io/compliance-monitor?mtm_campaign=producthunt&ref=producthunt)
+- [[Cookie) Compliance Monitor | Datastreams](https://www.datastreams.io/compliance-monitor?mtm_campaign=producthunt&ref=producthunt]]
 - [Grafana: The open observability platform | Grafana Labs](https://grafana.com/)
 - [Home - Superblocks](https://app.superblocks.com/home)
 - [Log Harvestor](https://app.logharvestor.com/)
@@ -753,7 +753,7 @@
 - [Prometheus - Monitoring system & time series database](https://prometheus.io/)
 - [Scrape and Monitor Data from Any Website with No…](https://www.browse.ai/?ref=freeStuffDev)
 - [Sensorpad: Monitoring for Data Pipelines and Cron Jobs](https://sensorpad.io/)
-- [Setup | Datadog](https://app.datadoghq.com/account/login?next=%2Faccount%2Fsettings#api)
+- [[https://app.datadoghq.com/account/login?next=%2Faccount%2Fsettings#api|https://app.datadoghq.com/account/login?next=%2Faccount%2Fsettings#api]]
 - [statping/statping: Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.](https://github.com/statping/statping)
 - [SyAgent - Easy server monitoring](https://syagent.com/)
 - [Account Watchdog — DeHashed](https://dehashed.com/monitor)
@@ -794,7 +794,7 @@
 - [DNS Performance - Compare the speed and uptime of enterprise and commercial DNS services | DNSPerf](https://www.dnsperf.com/dns-providers-list/)
 - [Drift](https://drift.maxleiter.com/)
 - [extension.dev - Custom Extensions](https://extension.dev/)
-- [Free Tools for Network, DevOps and Site Reliability Engineers(SRE): Site24x7](https://www.site24x7.com/tools.html)
+- [[SRE): Site24x7](https://www.site24x7.com/tools.html|Free Tools for Network, DevOps and Site Reliability Engineers(SRE): Site24x7]]
 - [Free Video Hosting | Abyss.to](https://abyss.to/)
 - [fullog | Modern Frontend Platform](https://fullog.io/?ref=producthunt)
 - [Google Domains - My domains](https://domains.google.com/registrar?_ga=2.152367161.1814506313.1659221389-1393227452.1659221389&hl=en&pli=1)
@@ -810,13 +810,13 @@
 - [Open VSX Registry](https://open-vsx.org/)
 - [Open Web Analytics](https://www.openwebanalytics.com/)
 - [Preload, prefetch and other tags: what they do and when to use them](https://3perf.com/blog/link-rels)
-- [Raito | Mini Markdown CMS ✨📝 | Raito](https://arnaud.at/raito?ref=producthunt#/)
+- [[https://arnaud.at/raito?ref=producthunt#/|https://arnaud.at/raito?ref=producthunt#/]]
 - [Totally rocking websites | httpster](https://httpster.net/2022/may/)
 - [Truegit - A Blogging Platform Powered by Git](https://truegit.io/)
 - [Vite](https://vitejs.dev/)
 - [WebDev Resources](https://siegblink.github.io/webdev-resources/)
 - [Webhook Infrastructure and Tooling - Hookdeck](https://hookdeck.com/)
-- [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/#!/0c3f60d4-a527-4bf1-b1a7-e1e4be87f32b)
+- [[https://webhook.site/#!/0c3f60d4-a527-4bf1-b1a7-e1e4be87f32b|https://webhook.site/#!/0c3f60d4-a527-4bf1-b1a7-e1e4be87f32b]]
 - [WeWeb | Build scalable frontends, no coding required](https://www.weweb.io/)
 - [whoisdsmith - Dashboard - Codeberg.org](https://codeberg.org/)
 - [Write better marketing copy faster with AI.](https://headlime.com/)
