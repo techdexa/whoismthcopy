@@ -32,7 +32,7 @@
 - [regex101: build, test, and debug regex](https://regex101.com/)
 - [Sizzy — The last developer tool you need.](https://sizzy.co/)
 - [Take Your Github Repository To The Next Level 🚀️ - DEV Community](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge)
-- [The ultimate Cheat sheets compilation (200+) - 🔥🎁 / Roadmap to dev 🚀 - DEV Community](https://dev.to/worldindev/the-ultimate-compilation-of-cheat-sheets-100-268g)
+- [[200+) - 🔥🎁 / Roadmap to dev 🚀 - DEV Community](https://dev.to/worldindev/the-ultimate-compilation-of-cheat-sheets-100-268g|The ultimate Cheat sheets compilation (200+) - 🔥🎁 / Roadmap to dev 🚀 - DEV Community]]
 - [This Connection Is Not Private](https://www.aerobatic.com/)
 - [What is Azure Static Web Apps? | Microsoft Docs](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
 - [Whatdoestheinternetthink.net - What does the internet think?](http://www.whatdoestheinternetthink.net/)
@@ -42,7 +42,7 @@
 - [Browse Public Dutch Discord Servers](https://discordservers.com/search/dutch)
 - [DISBOARD](https://disboard.org/)
 - [disboard.org/nl/search](https://disboard.org/nl/search)
-- [Discord History search (script)](https://dht.chylex.com/)
+- [[script)](https://dht.chylex.com/|Discord History search (script)]]
 - [Discord Lookup](https://discord.id/)
 - [Discord.st](https://discord.st/)
 - [DiscordBee - Public Discord Server List](https://discordbee.com/servers?q=dutch)
@@ -59,7 +59,7 @@
 - [Social Telegram Directory - Telegramic](https://telegramic.org/)
 - [Telegram Channels: A list of 2400+ channels in English](https://telegramchannels.me/channels)
 - [Telegram Groups List](https://tgram.io/)
-- [Telegram Search. Find Telegram Channels, Bots & Groups.](https://xtea.io/ts_en.html#gsc.tab=0)
+- [[https://xtea.io/ts_en.html#gsc.tab=0|https://xtea.io/ts_en.html#gsc.tab=0]]
 - [Telegram Search. Search for posts](https://tgstat.com/search)
 - [Telegram: Contact @direct_llinks](https://t.me/direct_llinks)
 - [Telegram: Contact @TGMoviesBot](https://t.me/TGMoviesBot)
@@ -89,19 +89,19 @@
 - [Casey Schwartz: The Disillusions of an Adderall World](https://lithub.com/casey-schwartz-the-disillusions-of-an-adderall-world/)
 - [Do You Have a Prescription for that Adderall?](https://opaliving.medium.com/do-you-have-a-prescription-for-that-adderall-80c20e7a3244)
 - [Dr Jekylls Hangover | Quitting Adderall](http://quittingadderall.com/dr-jekylls-hangover)
-- [Generation Adderall (Published 2016)](https://www.nytimes.com/2016/10/16/magazine/generation-adderall-addiction.html)
-- [Hello, Brains! A Life Spent Helping Others Understand A.D.H.D. Online (Published 2021)](https://www.nytimes.com/2021/02/22/style/self-care/adhd-youtube.html?searchResultPosition=37)
+- [[Published 2016)](https://www.nytimes.com/2016/10/16/magazine/generation-adderall-addiction.html|Generation Adderall (Published 2016)]]
+- [[Published 2021)](https://www.nytimes.com/2021/02/22/style/self-care/adhd-youtube.html?searchResultPosition=37|Hello, Brains! A Life Spent Helping Others Understand A.D.H.D. Online (Published 2021)]]
 - [How to Weather the Ongoing Adderall Shortage](https://lifehacker.com/how-to-weather-the-ongoing-adderall-shortage-1849391633)
 - [I Was Addicted To Adderall For A Decade. What Was I Chasing?](https://www.buzzfeednews.com/article/caseyschwartzauthor/adderall-addiction-college-attention-a-love-story)
 - [My First Addiction Was The Happiest Time Of My Life](https://medium.com/@ash.taralynn/my-first-addiction-was-the-happiest-time-of-my-life-8c723446013b)
-- [NIH Commonly Abused Drugs](https://nida.nih.gov/research-topics/commonly-used-drugs-charts#pcp)
+- [[https://nida.nih.gov/research-topics/commonly-used-drugs-charts#pcp|https://nida.nih.gov/research-topics/commonly-used-drugs-charts#pcp]]
 - [One Year of Taking Adderall to Help with Writing & Focus](https://chrisguillebeau.com/adderall)
 - [Raging Adderall](https://healthcareinamerica.us/raging-adderall-b28a90747074)
 - [Raging Adderall](https://healthcareinamerica.us/raging-adderall-b28a90747074?gi=6374912f2d63)
 - [Startup Cerebral Soared on Easy Adderall Prescriptions. That Was Its Undoing. - WSJ](https://www.wsj.com/amp/articles/cerebral-adderall-adhd-prescribe-11654705250?mod=latest_headlines)
 - [The Age of Distracti-pression](https://www.nytimes.com/2022/07/09/style/medication-depression-anxiety-adhd.html)
 - [What a Lifetime of Adderall Does to Your Brain](https://medium.com/mel-magazine/what-a-lifetime-of-adderall-does-to-your-brain-5beba7c2af7e)
-- [When Getting High Is a Hobby, Not a Habit (Published 2021)](https://www.nytimes.com/2021/01/12/books/review/drug-use-for-grown-ups-carl-l-hart.html?searchResultPosition=44)
+- [[Published 2021)](https://www.nytimes.com/2021/01/12/books/review/drug-use-for-grown-ups-carl-l-hart.html?searchResultPosition=44|When Getting High Is a Hobby, Not a Habit (Published 2021)]]
 #### Data
 - [Everything you need to know about SMS analytics | Textline Blog](https://www.textline.com/blog/sms-analytics)
 - [frustrated robot | frustrated robot](https://www.frustratedrobot.com/)
@@ -119,7 +119,7 @@
 - [🐸](https://froggi.es/)
 - [👋 — Bane Sullivan](https://banesullivan.com/)
 - [040code](https://040code.github.io/)
-- [0xAX (@0xAX) / Twitter](https://twitter.com/0xAX)
+- [[@0xAX) / Twitter](https://twitter.com/0xAX|0xAX (@0xAX) / Twitter]]
 - [1unicorn2](https://blog.oneunicorn.com/)
 - [53 Bytes // Justin Beckwith](http://jbeckwith.com/)
 - [A privacy-first, open-source knowledge base](https://logseq.com/)
@@ -136,7 +136,7 @@
 - [Adam Pritchard's blog and miscellany](https://crypti.cc/)
 - [Adi's website](https://adi.pizza/)
 - [Advies en zo - Meedenken en -doen](http://adviesenzo.nl/)
-- [afc163 (@afc163) / Twitter](https://twitter.com/afc163)
+- [[@afc163) / Twitter](https://twitter.com/afc163|afc163 (@afc163) / Twitter]]
 - [Agniva](https://agniva.me/)
 - [Ahmet Alp Balkan](https://ahmet.dev/)
 - [Aidan Follestad's Site](https://af.codes/)
@@ -145,17 +145,17 @@
 - [Alan Donovan](https://alandonovan.net/)
 - [aleksandra.codes](https://aleksandra.codes/)
 - [Alessandro Ros](https://alessandroros.com/)
-- [Alex 🇺🇦💙💛 (@quasilyte) / Twitter](https://twitter.com/quasilyte)
+- [[@quasilyte) / Twitter](https://twitter.com/quasilyte|Alex 🇺🇦💙💛 (@quasilyte) / Twitter]]
 - [Alex Eagle](http://alexeagle.github.io/)
 - [Alex Gaynor](https://alexgaynor.net/)
 - [Alex Page](https://alexpage.dev/)
 - [Alex Rodionov – Medium](http://medium.com/@p0deje)
 - [Alex Rudenko](https://alex-rudenko.com/)
-- [Alex Sharov (@AskAlexSharov) / Twitter](https://twitter.com/AskAlexSharov)
+- [[@AskAlexSharov) / Twitter](https://twitter.com/AskAlexSharov|Alex Sharov (@AskAlexSharov) / Twitter]]
 - [Alex Weininger](https://alexweininger.com/)
 - [Alexander Borsuk: Software Engineer, MScEng, co-founder of Organic Maps, VibroBox & MAPS.ME](https://alex.bio/)
 - [Alexey Palazhchenko on about.me](https://about.me/alexey.palazhchenko)
-- [Alon Zakai (@kripken) / Twitter](https://twitter.com/kripken)
+- [[@kripken) / Twitter](https://twitter.com/kripken|Alon Zakai (@kripken) / Twitter]]
 - [Alvaro Trigo | Portfolio](http://alvarotrigo.com/)
 - [Amin Alaee](https://aminalaee.dev/)
 - [Amruth Pillai - Resume on the Web](https://www.amruthpillai.com/)
@@ -167,21 +167,21 @@
 - [Anduin Xue](https://anduin.aiursoft.com/)
 - [Andy's Blog](https://andschwa.com/)
 - [ankane.org](https://ankane.org/)
-- [Anna 🏳️‍⚧️ #blm (@addaleax) / Twitter](https://twitter.com/addaleax)
+- [[@addaleax) / Twitter](https://twitter.com/addaleax|Anna 🏳️‍⚧️ #blm (@addaleax) / Twitter]]
 - [Ansible is Simple IT Automation](http://www.ansible.com/)
 - [Anton Davydov ·](http://davydovanton.com/)
 - [Apuntes Inchequeables](https://facundoolano.github.io/)
 - [ArgyleInk](https://nerdy.dev/)
 - [ariya.io](https://ariya.io/)
-- [Arkadii Ivanov (@arkann1985) / Twitter](https://twitter.com/arkann1985)
+- [[@arkann1985) / Twitter](https://twitter.com/arkann1985|Arkadii Ivanov (@arkann1985) / Twitter]]
 - [Arman Bilge](https://www.armanbilge.com/)
-- [Armon Dadgar (@armon) / Twitter](http://twitter.com/armon)
+- [[@armon) / Twitter](http://twitter.com/armon|Armon Dadgar (@armon) / Twitter]]
 - [arpit456jain | Twitter, Facebook | Linktree](https://linktr.ee/arpit456jain)
 - [arrival](https://anuken.github.io/)
 - [Articles | Eric Fritz](http://www.eric-fritz.com/)
 - [Articles about Ruby, Rails, JavaScript, and more. By Nando Vieira.](https://nandovieira.com/)
 - [Artin's Blog](https://bytem.io/)
-- [Artur Arseniev (@artur_arseniev) / Twitter](https://twitter.com/artur_arseniev)
+- [[@artur_arseniev) / Twitter](https://twitter.com/artur_arseniev|Artur Arseniev (@artur_arseniev) / Twitter]]
 - [Ask and Learn - greatghoul's blog](https://anl.gg/)
 - [Aston Zhang](https://www.astonzhang.com/)
 - [astro automata](https://astroautomata.com/)
@@ -197,7 +197,7 @@
 - [Ben Frederickson](https://www.benfrederickson.com/)
 - [Ben McCann](http://www.benmccann.com/)
 - [Ben's front door page](https://imbushuo.net/)
-- [Benjamin Coe (@BenjaminCoe) / Twitter](https://twitter.com/benjamincoe)
+- [[@BenjaminCoe) / Twitter](https://twitter.com/benjamincoe|Benjamin Coe (@BenjaminCoe) / Twitter]]
 - [Benoît Grélard](https://benoit.works/)
 - [Better Call Saghul](https://bettercallsaghul.com/)
 - [BIGTREETECH | Makes 3D Printing within Reach | Official Website](https://www.bigtree-tech.com/)
@@ -215,12 +215,12 @@
 - [Brad Cornes](https://bradley.dev/)
 - [Brad Fitzpatrick [bradfitz.com]](https://bradfitz.com/)
 - [brandtbucher - Overview](https://brandtbucher.com/)
-- [Brent Shaffer (@bshaffer) / Twitter](https://twitter.com/bshaffer)
+- [[@bshaffer) / Twitter](https://twitter.com/bshaffer|Brent Shaffer (@bshaffer) / Twitter]]
 - [Brenton Wiernik](https://wiernik.org/)
 - [Bret Fisher - Docker Mastery and Kubernetes Mastery](https://www.bretfisher.com/)
 - [Brian McFee](https://brianmcfee.net/)
 - [Briandavidvaughn](http://www.briandavidvaughn.com/)
-- [Brilliantly wrong (blog by Alex Rogozhnikov)](https://arogozhnikov.github.io/)
+- [[blog by Alex Rogozhnikov)](https://arogozhnikov.github.io/|Brilliantly wrong (blog by Alex Rogozhnikov)]]
 - [Brillout](https://brillout.com/)
 - [Builder.io - Drag and drop experience builder](https://www.builder.io/)
 - [Cal Stephens — Portfolio](https://calstephens.tech/)
@@ -258,12 +258,12 @@
 - [CyberUni](https://www.youtube.com/channel/UCNHNzeu22sYaBraG3WrdqlA)
 - [Daishi Kato's blog](https://blog.axlight.com/)
 - [Daisuke Maki – Medium](https://medium.com/@lestrrat)
-- [Damian Edwards 🇦🇺🇬🇧🇺🇸 (@DamianEdwards) / Twitter](http://damianedwards.com/)
+- [[@DamianEdwards) / Twitter](http://damianedwards.com/|Damian Edwards 🇦🇺🇬🇧🇺🇸 (@DamianEdwards) / Twitter]]
 - [Damodar Lohani | Mentor, Trainer & Tech Consultantr | Damodar Lohani](https://dlohani.com.np/)
-- [Daniel Agar (dagar.ca)](http://dagar.ca/)
+- [[dagar.ca)](http://dagar.ca/|Daniel Agar (dagar.ca)]]
 - [Daniel D. Sjoberg](https://www.danieldsjoberg.com/)
 - [Daniel Martí - mvdan.cc](https://mvdan.cc/)
-- [Daniel Rosenwasser (@drosenwasser) / Twitter](https://twitter.com/drosenwasser)
+- [[@drosenwasser) / Twitter](https://twitter.com/drosenwasser|Daniel Rosenwasser (@drosenwasser) / Twitter]]
 - [Danilo Woznica - Design-driven developer](https://danilowoz.com/)
 - [DAPPLION](https://dapplion.github.io/)
 - [Dario Nieuwenhuis](https://dirba.io/)
@@ -276,13 +276,13 @@
 - [DEMO2017, by Deafdive](https://deafdive.bandcamp.com/releases)
 - [Denis Isidoro](https://denisidoro.github.io/)
 - [Denys Dovhan](https://denysdovhan.com/)
-- [Dessalines (@dessalines@mastodon.social)](https://mastodon.social/@dessalines)
+- [[@dessalines@mastodon.social)](https://mastodon.social/@dessalines|Dessalines (@dessalines@mastodon.social)]]
 - [Devblog of @kdy1](https://kdy1.dev/)
 - [Dimforge Home | Dimforge](https://dimforge.com/)
-- [dion (Dion) - velog](https://www.idion.dev/)
+- [[Dion) - velog](https://www.idion.dev/|dion (Dion) - velog]]
 - [distanz.ch - home](https://distanz.ch/)
-- [Distributed Traces, Logs & Errors (tracing, monitoring, observability, APM)](https://uptrace.dev/)
-- [dodyg (@dodyg) / Twitter](https://twitter.com/dodyg)
+- [[tracing, monitoring, observability, APM)](https://uptrace.dev/|Distributed Traces, Logs & Errors (tracing, monitoring, observability, APM)]]
+- [[@dodyg) / Twitter](https://twitter.com/dodyg|dodyg (@dodyg) / Twitter]]
 - [Don't Panic](https://commaok.xyz/)
 - [Donne Martin](http://donnemartin.com/)
 - [dooboolab](https://dooboolab.com/)
@@ -319,13 +319,13 @@
 - [Filippo Valsorda](https://filippo.io/)
 - [Fissionlabs](https://fissionlabs.io/)
 - [Flavio F Lima - Developer](https://flavioflima.com/)
-- [Florian Roth ⚡ (@cyb3rops) / Twitter](https://twitter.com/cyb3rops)
+- [[@cyb3rops) / Twitter](https://twitter.com/cyb3rops|Florian Roth ⚡ (@cyb3rops) / Twitter]]
 - [Flutter 4 Fun](https://flutter4fun.com/)
 - [fnordig.de](https://fnordig.de/)
 - [fonsp.com](https://fonsp.com/)
 - [foolord.com](http://foolord.com/)
 - [Francisco Souza](https://fsouza.blog/)
-- [François Chollet (@fchollet) / Twitter](https://twitter.com/fchollet)
+- [[@fchollet) / Twitter](https://twitter.com/fchollet|François Chollet (@fchollet) / Twitter]]
 - [Fred K. Schott](https://www.fredkschott.com/)
 - [Frederik Bolding](https://frederikbolding.com/)
 - [Free and Easy Game-Making App | GDevelop](https://gdevelop.io/)
@@ -341,13 +341,13 @@
 - [George Mamadashvili](https://mamaduka.com/)
 - [Georgios Konstantopoulos | CTO & Research Partner at Paradigm](https://gakonst.com/)
 - [GitHub - akaszynski/resume: Alex Kaszynski's Public Resume](https://github.com/akaszynski/resume)
-- [GitHub - PySimpleGUI/PySimpleGUI: Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples for Machine Learning(OpenCV Integration, Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs - PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.](https://www.pysimplegui.com/)
+- [[in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples for Machine Learning(OpenCV Integration, Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs - PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.](https://www.pysimplegui.com/|GitHub - PySimpleGUI/PySimpleGUI: Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples for Machine Learning(OpenCV Integration, Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs - PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.]]
 - [Gourav Goyal - Personal site and blog](https://gourav.io/)
 - [green.sapphi.red](https://green.sapphi.red/)
 - [greweb.me](https://greweb.me/)
 - [Grimler.se](https://grimler.se/)
 - [Growing with the Web](http://www.growingwiththeweb.com/)
-- [Guilherme Rambo (@_inside) / Twitter](https://twitter.com/_inside)
+- [[@_inside) / Twitter](https://twitter.com/_inside|Guilherme Rambo (@_inside) / Twitter]]
 - [Gunnar Morling](https://www.morling.dev/)
 - [Hadley Wickham](http://hadley.nz/)
 - [Hadrien Croubois](http://hadriencroubois.com/)
@@ -484,7 +484,7 @@
 - [Jelle Zijlstra](https://www.quora.com/profile/Jelle-Zijlstra)
 - [Jenny Bryan](https://jennybryan.org/)
 - [Jeremy Herve | That's me. And my blog. In English and in French.](https://jeremy.hu/)
-- [Jeremy Ruston (@Jermolene) / Twitter](http://twitter.com/Jermolene)
+- [[@Jermolene) / Twitter](http://twitter.com/Jermolene|Jeremy Ruston (@Jermolene) / Twitter]]
 - [Jeremybarbet](http://www.jeremybarbet.com/)
 - [Jesse Szwedko · Jesse Szwedko](http://jesseszwedko.com/)
 - [Jim Crist-Harif](https://jcristharif.com/)
@@ -508,10 +508,10 @@
 - [JP Simard - Swift Developer](https://www.jpsim.com/)
 - [Jpillora](https://jpillora.com/)
 - [Julia Silge](https://juliasilge.com/)
-- [Julien Chaumond (@julien_c) / Twitter](https://twitter.com/julien_c)
+- [[@julien_c) / Twitter](https://twitter.com/julien_c|Julien Chaumond (@julien_c) / Twitter]]
 - [Julien Schmidt](https://julienschmidt.com/)
 - [Julius Busecke](http://www.juliusbusecke.com/)
-- [justjavac (@justjavac) / Twitter](https://twitter.com/justjavac)
+- [[@justjavac) / Twitter](https://twitter.com/justjavac|justjavac (@justjavac) / Twitter]]
 - [Kamil Ogórek](https://kamilogorek.com/)
 - [KATTCORP LTD.](https://katt.dev/)
 - [Kazuho's Weblog](http://blog.kazuhooku.com/)
@@ -538,7 +538,7 @@
 - [Lachlan Miller](https://lachlan-miller.me/)
 - [Land of Unknwon](https://unknwon.io/)
 - [Lazar Nikolov - Developer, designer, course creator.](https://nikolovlazar.com/)
-- [Lea Verou – Life at the bleeding edge (of web standards)](http://lea.verou.me/)
+- [[of web standards)](http://lea.verou.me/|Lea Verou – Life at the bleeding edge (of web standards)]]
 - [Leandro Moreira](https://leandromoreira.com/)
 - [Learn Go Programming](https://blog.learngoprogramming.com/)
 - [Learn In-Demand Skills. Get Hired. Advance Your Career. | Zero To Mastery](https://zerotomastery.io/)
@@ -557,7 +557,7 @@
 - [Lianmin Zheng](http://lmzheng.net/)
 - [lidel | Marcin Rataj](https://lidel.org/)
 - [line37](https://line37.com/)
-- [Liran Tal | Ruby Lockfile Injection 😮💎 (@liran_tal) / Twitter](https://twitter.com/liran_tal)
+- [[@liran_tal) / Twitter](https://twitter.com/liran_tal|Liran Tal ]]
 - [Logan McAnsh](https://mcan.sh/)
 - [long2ice's homepage](https://www.long2ice.io/)
 - [Lost in Technopolis](http://www.newartisans.com/)
@@ -593,7 +593,7 @@
 - [Máximo Mussini · Máximo Mussini](http://maximomussini.com/)
 - [mbonnin's blog | rabbits, computer science and the meaning of life](https://mbonnin.net/)
 - [MEEDU.APP - Educación online](https://meedu.app/)
-- [messense (Messense Lv) on Keybase](https://keybase.io/messense)
+- [[Messense Lv) on Keybase](https://keybase.io/messense|messense (Messense Lv) on Keybase]]
 - [Metaklass](http://www.metaklass.org/)
 - [Mfridman](https://mfridman.com/)
 - [Michael Osthege](https://mosthege.net/)
@@ -601,7 +601,7 @@
 - [Michał Pierzchała](https://www.buymeacoffee.com/thymikee)
 - [Michal Strehovský: home](http://migeel.sk/)
 - [Miguel de Icaza](http://tirania.org/blog)
-- [Miguel Solorio (@miguelsolorio_) / Twitter](https://twitter.com/miguelsolorio_)
+- [[@miguelsolorio_) / Twitter](https://twitter.com/miguelsolorio_|Miguel Solorio (@miguelsolorio_) / Twitter]]
 - [Mike Perham](https://www.mikeperham.com/)
 - [mikecao.com](https://mikecao.com/)
 - [mingrammer's note](https://mingrammer.com/)
@@ -633,12 +633,12 @@
 - [Nuclearsandwich!](http://nuclearsandwich.com/)
 - [Official](https://xraph.com/)
 - [Oleg Grenrus - @phadej](https://oleg.fi/)
-- [orhun(8)](https://orhun.dev/)
+- [[8)](https://orhun.dev/|orhun(8)]]
 - [Oscar Dowson](https://odow.github.io/)
 - [Paco Coursey](https://paco.me/)
 - [pajlada.se](https://pajlada.se/)
 - [pan.blog](https://blog.pan93.com/)
-- [Panayiotis Lipiridis (Lipis) · lipis.dev](https://lipis.dev/)
+- [[Lipis) · lipis.dev](https://lipis.dev/|Panayiotis Lipiridis (Lipis) · lipis.dev]]
 - [Parcel – The zero configuration build tool for the web.](https://parceljs.org/)
 - [patak | patak](https://patak.dev/)
 - [Patrick Collins](https://www.youtube.com/c/patrickcollins)
@@ -653,7 +653,7 @@
 - [Philip Jägenstedt](https://foolip.org/)
 - [Philipp's Tech Blog](https://heckel.io/)
 - [philschmid blog](https://www.philschmid.de/)
-- [Phuoc Nguyen (@nghuuphuoc) / Twitter](https://twitter.com/nghuuphuoc)
+- [[@nghuuphuoc) / Twitter](https://twitter.com/nghuuphuoc|Phuoc Nguyen (@nghuuphuoc) / Twitter]]
 - [Pierre-Louis Guidez](https://guidez.pl/)
 - [Pietro Albini](https://www.pietroalbini.org/)
 - [PIHRT.NET - Home](http://pihrt.net/)
@@ -677,7 +677,7 @@
 - [redth.codes](http://redth.codes/)
 - [Resume](https://daniloab.github.io/)
 - [revolunet.com](https://revolunet.com/)
-- [Rich Harris (@Rich_Harris) / Twitter](https://twitter.com/rich_harris)
+- [[@Rich_Harris) / Twitter](https://twitter.com/rich_harris|Rich Harris (@Rich_Harris) / Twitter]]
 - [Rijk van Zanten](https://rijks.website/)
 - [Ritchie Vink](https://www.ritchievink.com/)
 - [Rob Wu's home page](https://robwu.nl/)
@@ -691,27 +691,27 @@
 - [Roj](https://roj.is-a.dev/)
 - [Romain Beaumont](http://rom1504.fr/)
 - [Romain Tartière](https://romain.blogreen.org/)
-- [Ronan Sandford (ronan.eth) - Ronan Sandford's Personal Website](https://ronan.eth.limo/)
+- [[ronan.eth) - Ronan Sandford's Personal Website](https://ronan.eth.limo/|Ronan Sandford (ronan.eth) - Ronan Sandford's Personal Website]]
 - [Ruby on Rails Screencasts - RailsCasts](http://railscasts.com/)
 - [Running Page](https://yihong.run/)
 - [Ryan Dahl](http://tinyclouds.org/)
-- [Sage ⚡️ (@thesegunadebayo) / Twitter](https://twitter.com/thesegunadebayo)
+- [[@thesegunadebayo) / Twitter](https://twitter.com/thesegunadebayo|Sage ⚡️ (@thesegunadebayo) / Twitter]]
 - [SAMEER NAIK](http://www.damagehead.com/)
 - [Samuel Colvin](http://scolvin.com/)
-- [Samy Pessé (@SamyPesse) / Twitter](https://twitter.com/SamyPesse)
+- [[@SamyPesse) / Twitter](https://twitter.com/SamyPesse|Samy Pessé (@SamyPesse) / Twitter]]
 - [Samyak Sarnayak](https://samyaks.xyz/)
 - [Sanity, Inc. · sanity, inc.](https://www.sanityinc.com/)
 - [Santiago Soler](https://www.santisoler.com/)
 - [Santos Gallegos](https://stsewd.dev/)
-- [Satyajit Sahoo (@satya164) / Twitter](https://twitter.com/@satya164)
+- [[@satya164) / Twitter](https://twitter.com/@satya164|Satyajit Sahoo (@satya164) / Twitter]]
 - [Schalk Neethling – Medium](https://medium.com/@schalkneethling)
 - [Schwarz IT](https://www.it.schwarz/)
 - [Screeb - Product-Led User Research [Try for Free Today]](https://screeb.app/)
 - [seanmonstar](https://seanmonstar.com/)
-- [Security Automation (SOAR) for Everyone](https://www.demisto.com/)
+- [[SOAR) for Everyone](https://www.demisto.com/|Security Automation (SOAR) for Everyone]]
 - [SeisMan](https://seisman.info/)
-- [seladb (@seladb) / Twitter](https://twitter.com/seladb)
-- [Serhii Kulykov 🇺🇦 (@serhiikulykov) / Twitter](https://twitter.com/serhiikulykov)
+- [[@seladb) / Twitter](https://twitter.com/seladb|seladb (@seladb) / Twitter]]
+- [[@serhiikulykov) / Twitter](https://twitter.com/serhiikulykov|Serhii Kulykov 🇺🇦 (@serhiikulykov) / Twitter]]
 - [Seth Michael Larson](https://sethmlarson.dev/)
 - [Shahed Nasser's Blog - Shahed Nasser](https://blog.shahednasser.com/)
 - [Shane’s Blog](http://shaneneuville.com/)
@@ -726,7 +726,7 @@
 - [sobolevn's personal blog](https://sobolevn.me/)
 - [Software Engineering](http://damienbod.com/)
 - [Sofware Development](https://robertohuertas.com/)
-- [Solomon Hykes (@solomonstre) / Twitter](https://twitter.com/solomonstre)
+- [[@solomonstre) / Twitter](https://twitter.com/solomonstre|Solomon Hykes (@solomonstre) / Twitter]]
 - [sorrycc's website](https://sorrycc.com/)
 - [squat](https://squat.ai/)
 - [Standup Jack](https://standupjack.com/)
@@ -734,7 +734,7 @@
 - [Stephen Celis](http://stephencelis.com/)
 - [Stephen Roller](http://stephenroller.com/)
 - [Steve Macenski](https://www.steve.macenski.com/)
-- [steve mao (@MaoStevemao) / Twitter](https://twitter.com/MaoStevemao)
+- [[@MaoStevemao) / Twitter](https://twitter.com/MaoStevemao|steve mao (@MaoStevemao) / Twitter]]
 - [sunfishcode's blog](https://blog.sunfishcode.online/)
 - [SWHarden.com - The personal website of Scott W Harden](https://swharden.com/)
 - [Sympolymathesy, by Chris Krycho](https://www.chriskrycho.com/)
@@ -742,7 +742,7 @@
 - [SZW - 博客园](https://szw.cnblogs.com/)
 - [t11s](https://xn--2-kmb.com/)
 - [Takuya Matsuyama](https://www.craftz.dog/)
-- [Tao X (@hewigovens) / Twitter](https://twitter.com/hewigovens)
+- [[@hewigovens) / Twitter](https://twitter.com/hewigovens|Tao X (@hewigovens) / Twitter]]
 - [Tapas Adhikary – writer, youtuber, creator, mentor](https://tapasadhikary.com/)
 - [Technical Blog of Richard Hughes – Blog about geeky stuff](https://blogs.gnome.org/hughsie)
 - [The blog of Peter Evans](https://peterevans.dev/)
@@ -760,7 +760,7 @@
 - [These are the wrong sort of bees](http://www.romange.com/)
 - [Thinkmill](http://www.thinkmill.com.au/)
 - [thirty-four](https://jeffy.info/)
-- [Thomas Lively (@tlively52) / Twitter](https://twitter.com/tlively52)
+- [[@tlively52) / Twitter](https://twitter.com/tlively52|Thomas Lively (@tlively52) / Twitter]]
 - [Thomas Müller](https://tom94.net/)
 - [Thorsten Ball - Home](https://thorstenball.com/)
 - [Tianon's Ramblings ✿](https://tianon.xyz/)
@@ -817,8 +817,8 @@
 - [XINTAO](https://xinntao.github.io/)
 - [Xinzhao's Blog](https://xinzhao.me/)
 - [Yihui Xie | 谢益辉](https://yihui.org/)
-- [YK aka CS Dojo 📺🐦 (@ykdojo) / Twitter](https://twitter.com/ykdojo)
-- [yoann padioleau (@yoann_padioleau) / Twitter](https://twitter.com/yoann_padioleau)
+- [[@ykdojo) / Twitter](https://twitter.com/ykdojo|YK aka CS Dojo 📺🐦 (@ykdojo) / Twitter]]
+- [[@yoann_padioleau) / Twitter](https://twitter.com/yoann_padioleau|yoann padioleau (@yoann_padioleau) / Twitter]]
 - [Yoni Goldberg](https://www.goldbergyoni.com/)
 - [Zeon Federated](https://zeonfederated.com/)
 - [Zero ASIC](https://www.zeroasic.com/)
@@ -854,7 +854,7 @@
 - [The OSINT Toolkit](https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9)
 - [What The OSINT!](https://medium.com/what-the-osint)
 #### OSINT Blogs
-- [The OSINTions OSINT Wiki](The%20OSINTions%20OSINT%20Wiki)(https://theosintion.com/wiki/doku.php?id=home)
+- [[The OSINTions OSINT Wiki|The OSINTions OSINT Wiki]](https://theosintion.com/wiki/doku.php?id=home)
 - [@hatless1der | Blog](https://hatless1der.com/)
 - [0xrishabh](https://blog.0xrishabh.dev/)
 - [4n6link.com](https://4n6link.com/)
@@ -1036,7 +1036,7 @@
 - [Zero To Hero: Web3.0 and Solidity Development Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap)
 - [Zerodaylab.com](https://zerodaylab.com/)
 - [ZK Learning Resources](https://learn.0xparc.org/)
-- [[index](%5Bindex) - anagora.org](https://anagora.org/index)
+- [[[index|[index]] - anagora.org](https://anagora.org/index)
 - [23 Tools To Make Your Life As A Developer A Lot Easier](https://link.medium.com/VyTBQY2S4mb)
 - [A Prototype of Pivot Searching - IEEE Spectrum](https://spectrum.ieee.org/a-prototype-of-pivot-searching)
 - [About the site | beepb00p](https://beepb00p.xyz/site.html)
@@ -1070,7 +1070,7 @@
 - [Jupiter Broadcasting](https://www.jupiterbroadcasting.com/)
 - [Karl Broman](https://kbroman.org/)
 - [krystalgamer's Blog](https://krystalgamer.github.io/index.html)
-- [learn-anything/blogs: Awesome Blogs](https://github.com/learn-anything/blogs#ios)
+- [[https://github.com/learn-anything/blogs#ios|https://github.com/learn-anything/blogs#ios]]
 - [life logging « julian.digital](https://julian.digital/activity/life-logging)
 - [Lifelogging: This is your life, on the record | New Scientist](https://www.newscientist.com/round-up/lifelogging)
 - [mac4n6.com](https://www.mac4n6.com/)
@@ -1145,5 +1145,5 @@
 ### Instagram
 - [Bibliogram](https://bibliogram.art/)
 ### Reddit
-- [- Reddit saved posts and comments manager](https://updoot.app/app#_)
+- [[https://updoot.app/app#_|https://updoot.app/app#_]]
 ---
