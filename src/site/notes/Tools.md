@@ -337,3 +337,18 @@
 - [Smodin: Multi-lingual Writing Assistance | English](https://smodin.io/)
 - [WordHippo!](https://www.wordhippo.com/)
 ---
+
+
+
+## Tools
+- [Filebase | Decentralized Storage Made Easy](https://filebase.com/?ref=freeStuffDev)
+- [Firefiles - Login](https://usefirefiles.vercel.app/login)
+- [Omatsuri](https://omatsuri.app/)
+- [Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)
+- [[2021)](https://www.saashub.com/best-developer-tools-software|The best Developer Tools Software based on 38,560 factors (2021)]]
+- [[https://asciiflow.com/#/|https://asciiflow.com/#/]]
+- [Copy.ai: Write better marketing copy and content with AI](https://www.copy.ai/)
+- [Hugging Face – The AI community building the future.](https://huggingface.co/)
+- [Penpot - Design Freedom for Teams](https://penpot.app/)
+- [Untitled - WebSequenceDiagrams](https://www.websequencediagrams.com/)
+---
