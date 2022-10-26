@@ -26,3 +26,16 @@
 - [Timeline Vue](https://codesandbox.io/s/n094ypklvl)
 - [Vertical timeline and json](https://processwire.com/talk/topic/5523-vertical-timeline-and-json/)
 - [What are the trending open source and SaaS tools that developers use in 2022?](https://stackshare.io/tools/trending)
+
+
+
+## Misc
+- [Best XML Viewer Online](https://jsonformatter.org/xml-viewer)
+- [Big Number Calculator](https://defuse.ca/big-number-calculator.htm)
+- [Epoch Converter - Unix Timestamp Converter](https://www.epochconverter.com/)
+- [EPUB.to](https://epub.to/)
+- [Free Online Proofreader: Grammar Check, Plagiarism Detection, and more](https://www.paperrater.com/)
+- [HTML Sanitizer Tool](https://defuse.ca/html-sanitize.htm)
+- [Melobytes.com - Music inspiration apps](https://melobytes.com/en)
+- [Meta](https://miraheze.org/)
+- [[Jupyter Notebook)](https://jupyter.org/|Project Jupyter (Jupyter Notebook)]]
