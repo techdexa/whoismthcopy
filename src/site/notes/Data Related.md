@@ -68,7 +68,7 @@
 - [SAP Software & Solutions](https://www.sap.com/)
 - [Self-service BI & Analytics Software – Zoho Analytics](https://www.zoho.com/analytics)
 - [Self-Service Data Analytics Platform](https://www.alteryx.com/)
-- [Talend Data Preparation — Self-service in the cloud or on premises](https://www.talend.com/products/data-preparation#free-)
+- [[https://www.talend.com/products/data-preparation#free-|https://www.talend.com/products/data-preparation#free-]]
 - [Targit.com](https://www.targit.com/)
 - [Tellius.com](https://www.tellius.com/)
 - [ThoughtSpot](https://www.thoughtspot.com/)
@@ -100,7 +100,7 @@
 - [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie)
 - [Mozenda](https://www.mozenda.com/)
 - [Octoparse](https://www.octoparse.com/)
-- [OutWit Docs: Extract Document Collections (pdf,doc,xls...) - Free Download](https://www.outwit.com/products/docs)
+- [[pdf,doc,xls...) - Free Download](https://www.outwit.com/products/docs|OutWit Docs: Extract Document Collections (pdf,doc,xls...) - Free Download]]
 - [OutWit Hub - Find, grab and organize all kinds of data and media from online sources.](https://www.outwit.com/products/hub)
 - [Portia](https://scrapinghub.com/portia)
 - [PROWEBSCRAPER](https://prowebscraper.com/)
@@ -130,7 +130,7 @@
 - [SchemaCrawler](https://www.schemacrawler.com/)
 - [State of Databases 2022](https://stateofdb.com/)
 ### Graphs
-- [Datacopia - Data Visualization Reimagined.](https://datacopia.com/#/)
+- [[https://datacopia.com/#/|https://datacopia.com/#/]]
 - [Gephi - The Open Graph Viz Platform](https://gephi.github.io/)
 - [Home](https://rawgraphs.io/)
 - [Koia Data Analysis](https://www.koia.io/intro/index.html)
@@ -146,7 +146,7 @@
 - [Convert Excel time to UTC time](https://gist.github.com/erikvullings/825283249a5b4617d0f36bcba4fa8be8)
 - [ConvertCSV APIs](https://www.convertcsv.io/?ref=producthunt)
 - [CSV Schema](https://csv-schema.surge.sh/)
-- [csvspecs/awesome-csv: Awesome Comma-Separated Values (CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s) - Libraries & Tools](https://github.com/csvspecs/awesome-csv)
+- [[CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s) - Libraries & Tools](https://github.com/csvspecs/awesome-csv|csvspecs/awesome-csv: Awesome Comma-Separated Values (CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s) - Libraries & Tools]]
 - [data organization](https://kbroman.org/dataorg/)
 - [Excel Formula Generator - Excel Formula AI Bot](https://excelformulabot.com/)
 - [Flatfile Data Onboarding for Product Managers](https://flatfile.com/teams/product/?ref=ph_home&utm_campaign=producthunt-display_q1-2022-flatfile-promotion-march&utm_content=traffic&utm_medium=display&utm_source=partner&utm_term=product-experience-mofu_variant-1)
@@ -271,9 +271,9 @@
 - [Vortex](https://www.dotmatics.com/products/vortex)
 - [WarmMachine](https://www.warmmachine.org/)
 - [XML Editor, JSON Editor, Code Generator, Data Integration and Web Services Toolkit](https://www.liquid-technologies.com/)
-- [Zenobase](https://zenobase.com/#/)
+- [[https://zenobase.com/#/|https://zenobase.com/#/]]
 ## Facebook
-- [About Structured Messages (JSON) for Messenger | Facebook Business Help Center](https://www.facebook.com/business/help/1646890868956360)
+- [[JSON) for Messenger | Facebook Business Help Center](https://www.facebook.com/business/help/1646890868956360]]
 - [Analyse your Personal Facebook Data with Python | by emmy adigun | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/analyse-your-personal-facebook-data-with-python-5d877e556692)
 - [DoubleText - Facebook Messenger and WhatsApp Analyzer](https://app.doubletext.me/messenger?aid=FaNmb6AqNe48GOpIAj3Ij-&ref=producthunt)
 - [Download and Analyse Your Facebook Messenger Data | by June Tao Ching | Towards Data Science](https://towardsdatascience.com/download-and-analyse-your-facebook-messenger-data-6d1b49404e09)
@@ -303,7 +303,7 @@
 - [ZeeZide GmbH](https://zeezide.de/en/products/past/)
 ## Journal
 - [glimpses - A simple and minimal journal app for windows](https://getglimpses.com/)
-- [JournalFlow - Keep a journal in your favorite messaging app.](https://www.journalflow.com/#features)
+- [[https://www.journalflow.com/#features|https://www.journalflow.com/#features]]
 - [Life History App](https://lifehistory.app/app/main/upload-files)
 - [LifeHistoryApp.com - MyHistory](http://www.lifehistoryapp.com/myhistory.html)
 - [Lifelogging / Quantified Self | Lifestream Blog](http://lifestreamblog.com/lifelogging)
@@ -316,7 +316,7 @@
 - [GPS Visualizer](https://www.gpsvisualizer.com/)
 - [KartaView](https://kartaview.org/landing)
 - [Location History Visualizer | Heatmap](https://locationhistoryvisualizer.com/heatmap/)
-- [Location History Visualizer Pro](https://locationhistoryvisualizer.com/#about)
+- [[https://locationhistoryvisualizer.com/#about|https://locationhistoryvisualizer.com/#about]]
 - [Location profiling tool by DataThings](https://demo.datathings.com/lumo/)
 - [MyGeodata Cloud - GIS Data Warehouse, Converter, Maps](https://mygeodata.cloud/)
 - [OpenLayers - Welcome](https://openlayers.org/)
@@ -324,7 +324,7 @@
 - [The Top 1,025 Geolocation Open Source Projects on Github](https://awesomeopensource.com/projects/geolocation)
 - [The Top 146 Gps Location Open Source Projects on Github](https://awesomeopensource.com/projects/gps-location)
 ## Text Messages
-- [Convert a single Excel file (one text per row) into separate text files. A function in R.](https://gist.github.com/benmarwick/9278490)
+- [[one text per row) into separate text files. A function in R.](https://gist.github.com/benmarwick/9278490|Convert a single Excel file (one text per row) into separate text files. A function in R.]]
 - [Convert each row of a spreadsheet into a .txt or .xml file? | MrExcel Message Board](https://www.mrexcel.com/board/threads/convert-each-row-of-a-spreadsheet-into-a-txt-or-xml-file.593439)
 - [Convert Excel file to Text file](https://python-forum.io/thread-28239.html)
 - [Export each Row to unique Txt file | MrExcel Message Board](https://www.mrexcel.com/board/threads/export-each-row-to-unique-txt-file.279737)
@@ -337,5 +337,5 @@
 - [vba - Saving a Excel File into .txt format without quotes - Stack Overflow](https://stackoverflow.com/questions/11501531/saving-a-excel-file-into-txt-format-without-quotes)
 - [VBA - Write to Text File - Automate Excel](https://www.automateexcel.com/vba/write-to-text-file)
 - [VBA write to a text file from Excel Range Excel](https://analysistabs.com/vba/write-to-text-file-from-excel-range)
-- [Write Data to a Text File using Excel VBA (In Easy Steps)](https://www.excel-easy.com/vba/examples/write-data-to-text-file.html)
+- [[In Easy Steps)](https://www.excel-easy.com/vba/examples/write-data-to-text-file.html|Write Data to a Text File using Excel VBA (In Easy Steps)]]
 ---
