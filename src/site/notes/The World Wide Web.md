@@ -24,14 +24,14 @@
 - [CyberPunk Network](https://cyberpunk.xyz/)
 - [Cybersole](https://cybersole.io/)
 - [da.gd: help](https://da.gd/help)
-- [de🔸digger find public files in Google Drive](https://www.dedigger.com/#gsc.tab=0)
+- [[https://www.dedigger.com/#gsc.tab=0|https://www.dedigger.com/#gsc.tab=0]]
 - [DeepDyve - Instant access to the journals you need.](https://www.deepdyve.com/)
 - [DeepDyve - Unlimited Access to Peer-Reviewed Journals](https://www.deepdyve.com/)
 - [Dig Deeper](https://digdeeper.club/)
 - [DIY Book Scanner](https://www.diybookscanner.org/)
 - [Encyclopedia Of Undead : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/EncyclopediaOfUndead/mode/2up)
 - [Encyclopedia Of Vampire Mythology : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/EncyclopediaOfVampireMythologypdf/mode/2up)
-- [Feed Creator (RSS Generator) · FiveFilters.org](https://createfeed.fivefilters.org/)
+- [[RSS Generator) · FiveFilters.org](https://createfeed.fivefilters.org/|Feed Creator (RSS Generator) · FiveFilters.org]]
 - [GDRIVE GUIDES – Telegram](https://t.me/s/gdriveguides)
 - [GitHub Archive Program | Preserving open source software for future generations](https://archiveprogram.github.com/)
 - [Home](https://stealth.org/)
@@ -302,7 +302,7 @@
 - [Origin](https://origin.com/)
 - [OSINT & SOCMINT TOOLING](https://osint.support/)
 - [rethinkdns](https://bravedns.com/)
-- [SaveFrom.net helper](https://en.savefrom.net/user.php?helper=userjs#download)
+- [[https://en.savefrom.net/user.php?helper=userjs#download|https://en.savefrom.net/user.php?helper=userjs#download]]
 - [Snowflake](https://snowflake.com/)
 - [Tampermonkey](https://tampermonkey.net/)
 - [Tampermonkey.com](https://tampermonkey.com/)
@@ -375,7 +375,7 @@
 - [URL Extractor - Free Online URL Extractor Tool](https://www.bulkdachecker.com/url-extractor/)
 - [URL Parse API](https://urlparse.com/?ref=producthunt)
 - [URLhaus](https://urlhaus.abuse.ch/browse)
-- [Website Metadata API Documentation (qpblaze) | RapidAPI](https://rapidapi.com/qpblaze/api/website-metadata)
+- [[qpblaze) | RapidAPI](https://rapidapi.com/qpblaze/api/website-metadata]]
 - [Websites change. Perma Links don't.](https://perma.cc/)
 - [winhtaikaung/react-tiny-link: Convert your links into rich previews](https://github.com/winhtaikaung/react-tiny-link)
 - [Alohabrowser.com](https://alohabrowser.com/)
@@ -390,23 +390,23 @@
 - [Waterfox.com](https://waterfox.com/)
 ## Direct Documents
 ### Important Documents
-- [Candidate Motivations | How to Sell LTK](https://docs.google.com/document/d/1OJ80nOj5oD4tFCVTmtJdLEs-tHjIWFyW0qzVKhKpMuw/edit#heading=h.q0662onlfax4)
+- [[https://docs.google.com/document/d/1OJ80nOj5oD4tFCVTmtJdLEs-tHjIWFyW0qzVKhKpMuw/edit#heading=h.q0662onlfax4|https://docs.google.com/document/d/1OJ80nOj5oD4tFCVTmtJdLEs-tHjIWFyW0qzVKhKpMuw/edit#heading=h.q0662onlfax4]]
 - [Notes | People Team Meeting](https://docs.google.com/document/d/1Iwo4XPLazcilIl--va0vh5ep3DQLKF2mcfR7VayG7Yg/edit)
 - [Notes | Sourcing School](https://docs.google.com/document/d/1d93qjOAsmLgZjnDRQ64rQ45jJKkluWSjpAnJvBmlcOI/edit)
 - [Notes | TA Leadership Huddle Notes](https://docs.google.com/document/d/13p0mM9MZUh_lippbxFpYRSHMPIzwgB3bl-45aXtwKVM/edit)
-- [Sheets | 2022 Global Jobs Summary](https://docs.google.com/spreadsheets/d/1TN4zZTm4WNOpMv-TDQZrAiev-WxH7bg1bY1ItJEZm1g/edit#gid=1860823197)
-- [Sheets | GoLang & iOS Rubric](https://docs.google.com/spreadsheets/d/1Qk6N_TCmWpxjNx_4t_SkPfwlOP7tXzocxPPDSfN1ZBA/edit#gid=0)
-- [Sheets | List of Competitors](https://docs.google.com/spreadsheets/d/1SO24psiqtqFjGq1Xv8s4UIVukoH2tH7NWZJnkNTTW8g/edit#gid=1452451294)
-- [Sheets | Offers + Joiner Checklist](https://docs.google.com/spreadsheets/d/1Z8XwF2wQNN_fxNLv3d0dBI3Hjowfi85OVPoXfWbphcM/edit#gid=0)
-- [Slides | 2022 People Team Planning](https://docs.google.com/presentation/d/1IgVUFQHHQs7-LcNoYlV6D4xov8kTDhpED8TjnaYmaJI/edit#slide=id.g103d2ec38a4_0_3)
-- [Slides | Company Template](https://docs.google.com/presentation/d/1Vyx2Kya37s2TmO1DBJSMeIFAOs5B_8eOTMWDeKvU33g/edit#slide=id.ge5fd6fbf24_2_17)
-- [Slides | GM Sync](https://docs.google.com/presentation/d/11Kifsglan2LiCkjYDLcb8yPpl1FX2GuCFCW74HWEiB8/edit#slide=id.gd1a9afe3ee_1_5)
-- [Slides | New Hire Onboarding](https://docs.google.com/presentation/d/1o8kmLsVNbwhc0x2igUpaRMo3og_DUzDX9-fDDq3ZDuA/edit#slide=id.p)
-- [Slides | SRCN Team](https://docs.google.com/presentation/d/1MTeJzdxdIEL8MEujFOj0ob6SuOBCVLaHNoms0gcgOJ4/edit#slide=id.g10c8ee03c47_0_79)
+- [[https://docs.google.com/spreadsheets/d/1TN4zZTm4WNOpMv-TDQZrAiev-WxH7bg1bY1ItJEZm1g/edit#gid=1860823197|https://docs.google.com/spreadsheets/d/1TN4zZTm4WNOpMv-TDQZrAiev-WxH7bg1bY1ItJEZm1g/edit#gid=1860823197]]
+- [[https://docs.google.com/spreadsheets/d/1Qk6N_TCmWpxjNx_4t_SkPfwlOP7tXzocxPPDSfN1ZBA/edit#gid=0|https://docs.google.com/spreadsheets/d/1Qk6N_TCmWpxjNx_4t_SkPfwlOP7tXzocxPPDSfN1ZBA/edit#gid=0]]
+- [[https://docs.google.com/spreadsheets/d/1SO24psiqtqFjGq1Xv8s4UIVukoH2tH7NWZJnkNTTW8g/edit#gid=1452451294|https://docs.google.com/spreadsheets/d/1SO24psiqtqFjGq1Xv8s4UIVukoH2tH7NWZJnkNTTW8g/edit#gid=1452451294]]
+- [[https://docs.google.com/spreadsheets/d/1Z8XwF2wQNN_fxNLv3d0dBI3Hjowfi85OVPoXfWbphcM/edit#gid=0|https://docs.google.com/spreadsheets/d/1Z8XwF2wQNN_fxNLv3d0dBI3Hjowfi85OVPoXfWbphcM/edit#gid=0]]
+- [[https://docs.google.com/presentation/d/1IgVUFQHHQs7-LcNoYlV6D4xov8kTDhpED8TjnaYmaJI/edit#slide=id.g103d2ec38a4_0_3|https://docs.google.com/presentation/d/1IgVUFQHHQs7-LcNoYlV6D4xov8kTDhpED8TjnaYmaJI/edit#slide=id.g103d2ec38a4_0_3]]
+- [[https://docs.google.com/presentation/d/1Vyx2Kya37s2TmO1DBJSMeIFAOs5B_8eOTMWDeKvU33g/edit#slide=id.ge5fd6fbf24_2_17|https://docs.google.com/presentation/d/1Vyx2Kya37s2TmO1DBJSMeIFAOs5B_8eOTMWDeKvU33g/edit#slide=id.ge5fd6fbf24_2_17]]
+- [[https://docs.google.com/presentation/d/11Kifsglan2LiCkjYDLcb8yPpl1FX2GuCFCW74HWEiB8/edit#slide=id.gd1a9afe3ee_1_5|https://docs.google.com/presentation/d/11Kifsglan2LiCkjYDLcb8yPpl1FX2GuCFCW74HWEiB8/edit#slide=id.gd1a9afe3ee_1_5]]
+- [[https://docs.google.com/presentation/d/1o8kmLsVNbwhc0x2igUpaRMo3og_DUzDX9-fDDq3ZDuA/edit#slide=id.p|https://docs.google.com/presentation/d/1o8kmLsVNbwhc0x2igUpaRMo3og_DUzDX9-fDDq3ZDuA/edit#slide=id.p]]
+- [[https://docs.google.com/presentation/d/1MTeJzdxdIEL8MEujFOj0ob6SuOBCVLaHNoms0gcgOJ4/edit#slide=id.g10c8ee03c47_0_79|https://docs.google.com/presentation/d/1MTeJzdxdIEL8MEujFOj0ob6SuOBCVLaHNoms0gcgOJ4/edit#slide=id.g10c8ee03c47_0_79]]
 - [Sourcing School Files](https://drive.google.com/drive/folders/1jyCKS2wSd2-v6m5MQKU1SA7eb-489Tu6)
 - [Zero to Sixty | Accelerating Your Success](https://drive.google.com/drive/folders/1IqRy37ij4YfNv0i631B6IxNV7N0sQj8J)
 - [01 Sprp77's OSINT Resources – Google Drive](https://drive.google.com/drive/folders/1CBcemFdorkAqJ-Sthsh67OVHgH4FQF05)
-- [10.000+ Vectors Bundle from InkyDeals (For Photoshop and Illustrator) (Worth more than $32000!!!)](https://docs.google.com/document/d/11VSl8DZ7nxmCs-AvUivC_W047_v80F2McMPWDHipMU0/edit#)
+- [[For Photoshop and Illustrator) (Worth more than $32000!!!)](https://docs.google.com/document/d/11VSl8DZ7nxmCs-AvUivC_W047_v80F2McMPWDHipMU0/edit#|10.000+ Vectors Bundle from InkyDeals (For Photoshop and Illustrator) (Worth more than $32000!!!)]]
 - [1a zl vvi](https://i.imgur.com/1aZLVvi.png)
 - [201 Rows GDrive](https://docs.google.com/spreadsheets/d/1Foy4rfzhg4LMLwbnWBccVKSR1Vi528h4Xnh3DzZGMSc/edit?usp=drivesdk)
 - [3 w ak94 q](https://i.imgur.com/3WAk94Q.png)
@@ -416,17 +416,17 @@
 - [ARK - Google Drive](https://drive.google.com/drive/folders/1p0ovK4gyzPyw4SVrY-ISFbdp7PzOj3Ky)
 - [B c b4 gru](https://i.imgur.com/bCB4Gru.png)
 - [Bar chart inside tabs](https://drive.google.com/file/d/1Fd-V0ulSiNGL9og_5H74VzNrsCVkbrwE/view?usp=drivesdk)
-- [Bellingcat's Online Investigation Toolkit [bit.ly/bcattools] - Google Drive](https://docs.google.com/spreadsheets/u/0/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/htmlview?gxids=7757&urp=gmail_link#gid=930747607)
-- [Bellingcat’s Online Investigation Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.6igzqqftqvh4)
+- [[https://docs.google.com/spreadsheets/u/0/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/htmlview?gxids=7757&urp=gmail_link#gid=930747607|https://docs.google.com/spreadsheets/u/0/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/htmlview?gxids=7757&urp=gmail_link#gid=930747607]]
+- [[https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.6igzqqftqvh4|https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.6igzqqftqvh4]]
 - [Bellingcats Online Investigation Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)
-- [Bellingcats Online Investigation Toolkit [bit.ly/bcattools]](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1FrqWwMroBvZMm8sw5tvqLcrSLfYcDUizaQYrY-u1hr0%2Fedit&dsh=S1309184329%3A1661702429264305&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1FrqWwMroBvZMm8sw5tvqLcrSLfYcDUizaQYrY-u1hr0%2Fedit&ifkv=AQN2RmUzjVKS9L6Y0wjX1gf_4sqlLHeLH7euRBnodRBWV_dVdY21wPpIj8H8473cMIqPFBUq2UTy&ltmpl=sheets&osid=1&passive=1209600&service=wise#gid=930747607)
-- [Bellingcats Online Investigation Toolkit [bit.ly/bcattools]](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607)
+- [[https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1FrqWwMroBvZMm8sw5tvqLcrSLfYcDUizaQYrY-u1hr0%2Fedit&dsh=S1309184329%3A1661702429264305&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1FrqWwMroBvZMm8sw5tvqLcrSLfYcDUizaQYrY-u1hr0%2Fedit&ifkv=AQN2RmUzjVKS9L6Y0wjX1gf_4sqlLHeLH7euRBnodRBWV_dVdY21wPpIj8H8473cMIqPFBUq2UTy&ltmpl=sheets&osid=1&passive=1209600&service=wise#gid=930747607|https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1FrqWwMroBvZMm8sw5tvqLcrSLfYcDUizaQYrY-u1hr0%2Fedit&dsh=S1309184329%3A1661702429264305&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1FrqWwMroBvZMm8sw5tvqLcrSLfYcDUizaQYrY-u1hr0%2Fedit&ifkv=AQN2RmUzjVKS9L6Y0wjX1gf_4sqlLHeLH7euRBnodRBWV_dVdY21wPpIj8H8473cMIqPFBUq2UTy&ltmpl=sheets&osid=1&passive=1209600&service=wise#gid=930747607]]
+- [[https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607|https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607]]
 - [Berg – Google Drive](https://drive.google.com/drive/folders/16RI16Bq875K14DsZSTxf0twRC6HAYgKG)
 - [Bit.ly/VerificationToollist](https://docs.google.com/document/d/1HSXK32yrUYeZdpnC_tvNade1-gmSkoGd5aGv5byVZDY/edit)
-- [Blacklist](https://docs.google.com/spreadsheets/d/1RmgsrWVPRU_sULidwjupvIbcAYLsNGteeiT3ji4yGZk/edit#gid=469327285)
+- [[https://docs.google.com/spreadsheets/d/1RmgsrWVPRU_sULidwjupvIbcAYLsNGteeiT3ji4yGZk/edit#gid=469327285|https://docs.google.com/spreadsheets/d/1RmgsrWVPRU_sULidwjupvIbcAYLsNGteeiT3ji4yGZk/edit#gid=469327285]]
 - [British Library](https://www.flickr.com/photos/britishlibrary)
 - [Cellebrite CTF 2020 Links & Questions](https://docs.google.com/spreadsheets/d/1s_lxRPuDRkBz4qspJAX0IRy1SAjcmWqHVi9AyqdbY4I/edit?usp=sharing)
-- [CFCS Belgium - Incident response (PDF)](https://cybersecuritycoalition.be/content/uploads/cybersecurity-incident-management-guide-EN.pdf)
+- [[PDF)](https://cybersecuritycoalition.be/content/uploads/cybersecurity-incident-management-guide-EN.pdf|CFCS Belgium - Incident response (PDF)]]
 - [Compass Security - OSINT Cheat Sheet](https://www.compass-security.com/fileadmin/Research/White_Papers/2017-01_osint_cheat_sheet.pdf?fbclid=IwAR0mW2xlIbBI8WnCn8WFyglAgUJzGPpLXw3rT9xA7Z3-4242S5HSYE1Al5c)
 - [Complete Jailbreak Chart - Apple](https://docs.google.com/spreadsheets/d/11DABHIIqwYQKj1L83AK9ywk_hYMjEkcaxpIg6phbTf0/edit?usp=sharing)
 - [Countering Terrorist Narratives](https://icct.nl/app/uploads/2017/11/Countering-Terrorist-Narratives-Reed-Whittaker-Haroro-European-Parliament.pdf)
@@ -437,11 +437,11 @@
 - [Defining Second Generation OSINT For The Defence Enterprise](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1900/RR1964/RAND_RR1964.pdf.)
 - [Disinformation Annotated Bibliography](https://citizenlab.ca/wp-content/uploads/2019/05/Disinformation-Bibliography.pdf)
 - [E3 d tvz a](https://i.imgur.com/E3DTvzA.png)
-- [Email Permutator Excel Tabelle](https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8/edit#gid=0)
+- [[https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8/edit#gid=0|https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8/edit#gid=0]]
 - [Eo b3 ded](https://i.imgur.com/EoB3DED.png)
 - [European Border Crossing Signs](https://www.instagram.com/p/CJnrw6dnugJ)
 - [Explaining Cellebrite UFED Data Extraction Processes](https://smarterforensics.com/wp-content/uploads/2014/06/Explaining-Cellebrite-UFED-Data-Extraction-Processes-final.pdf)
-- [facebookmatrix](https://docs.google.com/spreadsheets/d/15dD0qSCDYDwVtWKC9zfZk1j8RzmvZARXTu9hrM34DnU/edit#gid=0)
+- [[https://docs.google.com/spreadsheets/d/15dD0qSCDYDwVtWKC9zfZk1j8RzmvZARXTu9hrM34DnU/edit#gid=0|https://docs.google.com/spreadsheets/d/15dD0qSCDYDwVtWKC9zfZk1j8RzmvZARXTu9hrM34DnU/edit#gid=0]]
 - [Flags of the World — Reddit Image](https://i.redd.it/lxtu47hf5ll51.jpg)
 - [Forensic suites benchmarks](https://docs.google.com/spreadsheets/d/1QgMA7A6bVotLyT49wNhRgJRjeJfULkyo6LCfywugbMQ/edit?usp=sharing)
 - [Games - Google Drive](https://drive.google.com/drive/u/0/folders/1VZ53l_G3PpQriD8xvqH26gL0h0oHQ08f)
@@ -460,20 +460,20 @@
 - [Graphic Design Master List](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit)
 - [H z5 jpou](https://i.imgur.com/HZ5Jpou.png)
 - [Hb q z8 hd](https://i.imgur.com/HbQZ8Hd.png)
-- [Htmlview#gid=0](https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0)
+- [[https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0](https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview|https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0](https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0]]
 - [Huge list of CSEs Cutesy of GLENN GUTMACHER 5/26/20](https://docs.google.com/spreadsheets/d/1w9f0Iq_UxstH04sN9ilOUI3aI6NRn5ib6aEhyrPES2k/edit?usp=sharing)
 - [I am sharing '555 GB GRAPHICS COLLECTION' with you](https://drive.google.com/file/d/1l2zz-Bm-6LxjBsosghpNlDisgmS40f5Y/view)
 - [i-intelligence.eu - OSINT Handbook 2020.pdf](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
-- [Imager Comparison Testing](https://docs.google.com/spreadsheets/d/1wXX5zYql7KIPgrsDdt6S5bTuGt_WRjWaBde1D0fhG5k/edit#gid=0)
+- [[https://docs.google.com/spreadsheets/d/1wXX5zYql7KIPgrsDdt6S5bTuGt_WRjWaBde1D0fhG5k/edit#gid=0|https://docs.google.com/spreadsheets/d/1wXX5zYql7KIPgrsDdt6S5bTuGt_WRjWaBde1D0fhG5k/edit#gid=0]]
 - [Instagram](https://www.instagram.com/)
 - [iOS Acquisition Guide - Atropos 4n6](https://atropos4n6.com/wp-content/uploads/2021/03/iOS_Acquisition_Guide.pdf)
-- [iptv - Google Sheets](https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit#gid=0)
+- [[https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit#gid=0|https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit#gid=0]]
 - [IPv6 Hardening Guide for Linux Servers](https://ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf)
 - [IPv6 Hardening Guide for OS-X](https://ernw.de/download/ERNW_Hardening_IPv6_MacOS-X_v1_0.pdf)
 - [IPv6 Hardening Guide for Windows Servers](https://ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf)
 - [label Receipts](https://docs.google.com/spreadsheets/d/1hOq8cTL_hno63bcjcnmL_uuoRGTqkXR4B5i5Girn00w/edit?usp=drivesdk)
 - [Links to Books and Resources.pdf](https://drive.google.com/file/d/1o4C013btq4j9ENuc8SnE4FUk6acw29wb/view?usp=drivesdk)
-- [Mac OS X Forensic Artifacts](https://docs.google.com/spreadsheets/d/1X2Hu0NE2ptdRj023OVWIGp5dqZOw-CfxHLOW_GNGpX8/edit#gid=1317205466)
+- [[https://docs.google.com/spreadsheets/d/1X2Hu0NE2ptdRj023OVWIGp5dqZOw-CfxHLOW_GNGpX8/edit#gid=1317205466|https://docs.google.com/spreadsheets/d/1X2Hu0NE2ptdRj023OVWIGp5dqZOw-CfxHLOW_GNGpX8/edit#gid=1317205466]]
 - [Malware Analysis Fundamentals - Files and Tools](https://www.winitor.com/pdf/Malware-Analysis-Fundamentals-Files-Tools.pdf)
 - [Milan's Ultimate Resource List 🗂🚀](https://docs.google.com/document/d/1Fa2-0H8XUrVhesKNikA2KJ2qTNjjZzdjDSUWWtW97KI/edit)
 - [Mobilebasic](https://docs.google.com/document/d/1vplG5d3vQ8BH3zFsRAeHvhpUoUSEh_sA/mobilebasic)
@@ -483,54 +483,54 @@
 - [Notorious markets submission for 2020 final](https://torrentfreak.com/images/Notorious_Markets_Submission_for_2020_final.pdf)
 - [Np y04 tq](https://i.imgur.com/NPY04Tq.png)
 - [NSA - Limiting Data Exposure](https://media.defense.gov/2020/Aug/04/2002469874/-1/-1/0/CSI_LIMITING_LOCATION_DATA_EXPOSURE_FINAL.PDF?fbclid=IwAR2XL7jEi98haPqqO4xfvq6YUxptVq9d21rMuJMS4HMIMj3PKxNqgs-dfvI)
-- [Offshore Hosting List (2022) - Google Sheets](https://docs.google.com/spreadsheets/d/1LJgDP-WfNxn604QfHU2MumdV7FvUQrDb5Ui7zgTYw9U/edit#gid=0)
-- [Open Source INTelligence (OSINT) Reference Sheet](https://tpia.com/resources/Pictures/2019%20CPE%20files/OSINT%20Resources.pdf)
+- [[https://docs.google.com/spreadsheets/d/1LJgDP-WfNxn604QfHU2MumdV7FvUQrDb5Ui7zgTYw9U/edit#gid=0|https://docs.google.com/spreadsheets/d/1LJgDP-WfNxn604QfHU2MumdV7FvUQrDb5Ui7zgTYw9U/edit#gid=0]]
+- [[OSINT) Reference Sheet](https://tpia.com/resources/Pictures/2019 CPE files/OSINT Resources.pdf|Open Source INTelligence (OSINT) Reference Sheet]]
 - [Open Source Intelligence and OSINT Application 2019](https://www.theseus.fi/bitstream/handle/10024/171315/Tuominen_Sanna.pdf?sequence=2)
 - [Open Source Intelligence Methodology 2019](https://phs.brage.unit.no/phs-xmlui/bitstream/handle/11250/2617479/master_Furuhaug.pdf?isAllowed=y&sequence=1)
-- [OptOut Doc by @OsintNinja](https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/edit#gid=1864750866)
+- [[https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/edit#gid=1864750866|https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/edit#gid=1864750866]]
 - [Or k3m lu](https://i.imgur.com/OrK3mLu.png)
 - [Osint Curious OSINT Resource List](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/edit)
 - [OSINT for Finding People](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/htmlview)
-- [OSINT for Finding People](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=0)
+- [[https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=0|https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=0]]
 - [OSINT for Finding People - Google Sheets](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit?usp=drivesdk)
-- [OSINT QUERYTOOL - Google Sheets](https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221)
-- [OSINT Tool Comparison Table](https://docs.google.com/spreadsheets/d/18U1qcaPaqIF8ERVLI-g5Or3gUbv0qP_-JUtc0pbEs0E/htmlview#gid=0)
+- [[https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221|https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221]]
+- [[https://docs.google.com/spreadsheets/d/18U1qcaPaqIF8ERVLI-g5Or3gUbv0qP_-JUtc0pbEs0E/htmlview#gid=0|https://docs.google.com/spreadsheets/d/18U1qcaPaqIF8ERVLI-g5Or3gUbv0qP_-JUtc0pbEs0E/htmlview#gid=0]]
 - [OSINT Tools and Resources Handbook](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_June-2018_Final.pdf)
 - [Pdf](https://rentry.co/echlinkss/pdf)
 - [Pdf](https://rentry.co/4dqmi/pdf)
 - [Piracy Sites](https://docs.google.com/spreadsheets/d/1plwsZ9q7-jDg8QNUuNXZAmKtov-ZULOZS3TPp08mngg)
 - [plaso log2timeline](https://plaso.readthedocs.io/_/downloads/en/stable/pdf/)
-- [Providers that offer BGP - http://bgp.services/](https://docs.google.com/spreadsheets/d/1abmV_mXWWCsVxHLfouSivyS7ch-PcUww8S6ksY66c5o/edit#gid=0)
+- [[https://docs.google.com/spreadsheets/d/1abmV_mXWWCsVxHLfouSivyS7ch-PcUww8S6ksY66c5o/edit#gid=0|https://docs.google.com/spreadsheets/d/1abmV_mXWWCsVxHLfouSivyS7ch-PcUww8S6ksY66c5o/edit#gid=0]]
 - [Pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMvTHtsEwB5LPF1zipHIZaVsUrQQBBVLazZLr-aaFOwrGAGEEUtWg9KRgweYLwcHKnevpk8ATT7skN/pubhtml)
 - [Pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vQngQS6OcnUHJu9ldZoCva9749YW-dhaqfkbZtwu8Qw58rmYZeSCnye-lTQ8hT4dIi4q0Wdn3LK8ZZl/pubhtml)
-- [Public Information Opt-Out Guide - OSINT Ninja](https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/htmlview#gid=1864750866)
+- [[https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/htmlview#gid=1864750866|https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/htmlview#gid=1864750866]]
 - [Public Record Searching Techniques](https://www.brbpublications.com/documents/publicrecordsearchingtechniques.pdf)
 - [Qfmmw mb](https://i.imgur.com/qfmmwMB.jpg)
 - [R ioiob7](https://i.imgur.com/rIoiob7.jpg)
 - [R z2 je co](https://i.imgur.com/rZ2JeCO.png)
 - [Ragdw a6](https://i.imgur.com/RagdwA6.png)
 - [Receipts](https://docs.google.com/spreadsheets/d/1aHGuXX7S2NNCTJqE1WW44Xk2xNzxnNgIJLHYONA3Y_A/edit?usp=drivesdk)
-- [REMUXES - Google Sheets](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598)
+- [[https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598|https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598]]
 - [S61 jg ng](https://i.imgur.com/S61JgNg.png)
-- [Sans Osint Resources](https://docs.google.com/document/d/1CrfMFa6ww2Awz37jYon_M8Uq6Yl1eCpcjfbnyRDibLQ/view?pru=AAABd7wXDp8*R9brczng8RPp1FUu48cFPw#heading=h.pk1tm314pji)
+- [[https://docs.google.com/document/d/1CrfMFa6ww2Awz37jYon_M8Uq6Yl1eCpcjfbnyRDibLQ/view?pru=AAABd7wXDp8*R9brczng8RPp1FUu48cFPw#heading=h.pk1tm314pji|https://docs.google.com/document/d/1CrfMFa6ww2Awz37jYon_M8Uq6Yl1eCpcjfbnyRDibLQ/view?pru=AAABd7wXDp8*R9brczng8RPp1FUu48cFPw#heading=h.pk1tm314pji]]
 - [Searching Recorded Documents, Judgments, and Liens](https://www.brbpublications.com/documents/recdoc.pdf)
 - [Spreadsheet](https://nafanz.github.io/)
-- [Stefanie Proto's Custom Search Engines](https://docs.google.com/spreadsheets/d/1fBPz6KHsFXryhu6JNrj1l-Rl04bEKLfinyCgCIqTyzU/edit#gid=436019663)
+- [[https://docs.google.com/spreadsheets/d/1fBPz6KHsFXryhu6JNrj1l-Rl04bEKLfinyCgCIqTyzU/edit#gid=436019663|https://docs.google.com/spreadsheets/d/1fBPz6KHsFXryhu6JNrj1l-Rl04bEKLfinyCgCIqTyzU/edit#gid=436019663]]
 - [Temporary Links Megathread](https://docs.google.com/document/u/0/d/1HHl8Zzdfr9_nNT4HTpg9Udb80vQyDWenpm3OkEDNcVQ/mobilebasic)
 - [Text Tools.md](https://drive.google.com/file/d/1POYaOnBtQvXk0gK7QGglkjK2uoQJ0KcW/view?usp=drivesdk)
 - [Tips for Searching Courts' Online Record Databases](https://www.brbpublications.com/documents/courttipsheet.pdf)
-- [Tracker Tracker - Google Sheets](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050)
+- [[https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050|https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050]]
 - [Urajx j6](https://i.imgur.com/URAJXJ6.png)
 - [Usenet providers and backbones](https://upload.wikimedia.org/wikipedia/commons/7/7d/Usenet_Providers_and_Backbones.svg)
 - [Verification Handbook - Toollist](https://docs.google.com/document/d/14jugVfxt3DLi2IlrevFKlXRg9C4Dl93Cvs73LxJmwqQ/edit)
 - [Vr ck8 na](https://i.imgur.com/vrCk8Na.png)
-- [VSTs and Packs](https://docs.google.com/spreadsheets/d/1xgj5-W2f0ESsSaYLPrT5dfbMQcJM9NZEbAGIvszTbTs/edit#gid=0)
+- [[https://docs.google.com/spreadsheets/d/1xgj5-W2f0ESsSaYLPrT5dfbMQcJM9NZEbAGIvszTbTs/edit#gid=0|https://docs.google.com/spreadsheets/d/1xgj5-W2f0ESsSaYLPrT5dfbMQcJM9NZEbAGIvszTbTs/edit#gid=0]]
 - [Vu fl wb w](https://i.imgur.com/VuFLWbW.jpg)
 - [W p7xw yk](https://i.imgur.com/WP7xwYK.png)
 - [Windows 7.exe](https://drive.google.com/file/d/1Dn1AZTSljG1iNFvPzqHwHHSDORElcIGl/edit)
 - [Windows Security Monitoring - Policy & Event IDs - Google Sheets](https://docs.google.com/spreadsheets/d/1BhR3cymZ53ZJfJdKAGKszuB-jgsr8GBJBOCJl50WGKE/edit)
 - [Www.data-medics.com](https://www.data-medics.com/recovery/wp-content/uploads/2016/03/Data-Recovery-Procedure.png)
-- [WZxCSTD_9EKkSsDXgVVO6o2LwLBp9BdV1il8KavMyA4.png (1806×932)](https://external-preview.redd.it/WZxCSTD_9EKkSsDXgVVO6o2LwLBp9BdV1il8KavMyA4.png?auto=webp&s=b3c28df99b2ffff8ab5754c5c8d0ea7039d8ed68)
+- [[1806×932)](https://external-preview.redd.it/WZxCSTD_9EKkSsDXgVVO6o2LwLBp9BdV1il8KavMyA4.png?auto=webp&s=b3c28df99b2ffff8ab5754c5c8d0ea7039d8ed68|WZxCSTD_9EKkSsDXgVVO6o2LwLBp9BdV1il8KavMyA4.png (1806×932)]]
 ## Divolt
 - [[Official] Sidify Streaming Audio Converters - Convert Spotify Music, Apple Music, Amazon Music & Tidal Music to MP3 Losslessly](https://www.sidify.com/en1/)
 - [Apply](https://home.cccapply.org/en/apply)
@@ -564,7 +564,7 @@
 - [Inoreader](https://www.inoreader.com/dashboard)
 - [Is website down right now? Check this out on UpDown Radar](https://updownradar.com/)
 - [Magical Music Theory Tools to Learn Music Online for Free](https://muted.io/)
-- [Open in Pilgrim](javascript:(function()%7Bvar%20url%3D%22http://pilgrim.are.na/%22%2BencodeURIComponent(window.location.href)%3Bwindow.open(url,%27_blank%27)%3B%7D)())
+- [[javascript:(function(|Open in Pilgrim]]%7Bvar%20url%3D%22http://pilgrim.are.na/%22%2BencodeURIComponent(window.location.href)%3Bwindow.open(url,%27_blank%27)%3B%7D)())
 - [Personal Data](https://personaldata.info/)
 - [Pilgrim](https://pilgrim.are.na/)
 - [Radio Garden – Three Rivers MI](https://radio.garden/visit/three-rivers-mi/vhrHGVRG)
@@ -575,7 +575,7 @@
 - [Spotify Downloader - Download Spotify songs, playlists, and albums](https://spotify-downloader.com/)
 - [Spytify - Record Spotify - Overview](https://jwallet.github.io/spy-spotify/overview.html)
 - [The Hitchhiker’s Guide to Online Anonymity | The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
-- [Updoot.app](https://updoot.app/app#_)
+- [[https://updoot.app/app#_|https://updoot.app/app#_]]
 - [URL Extractor - Free Online URL Extractor Tool](https://www.bulkdachecker.com/url-extractor/)
 - [vagabondHustler/subsearch: Download subtitles for movies and shows, automatically with one easy mouse click.](https://github.com/vagabondHustler/subsearch)
 ---
@@ -583,7 +583,7 @@
 ### archive
 - [Computer Magazines : Free Texts : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/computermagazines)
 - [E-books Collection : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/E-books_432)
-- [FinalBurn Neo ROM set (2022-08-09) : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/2020_01_06_fbn)
+- [[2022-08-09) : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/2020_01_06_fbn|FinalBurn Neo ROM set (2022-08-09) : Free Download, Borrow, and Streaming : Internet Archive]]
 - [https://archive.org/details/@gamecentercx](https://archive.org/details/@gamecentercx)
 - [Latest Everdrive pack 2020-04-16 : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/latest-everdrive-pack-2020-04-16)
 - [Madokami.Manga.0-E directory listing](https://archive.org/download/Madokami.Manga.0-E)
@@ -594,7 +594,7 @@
 - [Newspapers : Free Books : Free Texts : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/newspapers)
 - [No-Intro Collection : No-Intro : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/No-Intro-Collection_2016-09-06)
 - [No-Intro Collection 2016-01-03 Fixed : No-Intro Team : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed)
-- [No-Intro Romsets (2022) : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/no-intro_romsets)
+- [[2022) : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/no-intro_romsets|No-Intro Romsets (2022) : Free Download, Borrow, and Streaming : Internet Archive]]
 - [Retro Game Strategy Guides : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/Tekken3PrimasOfficialStrategyGuide1998)
 - [Software Library: Flash : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/softwarelibrary_flash)
 - [The Flash Emulation Repair Shop : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/flash_repair_shop)
@@ -615,7 +615,7 @@
 - [All You Like | allyoulike – download the latest movies, software, ebooks, games and tutorials](https://www.allyoulike.com/)
 - [Ashisoft Duplicate File Finder Pro 6.1 + Crack Download](https://www.hugedomains.com/domain_profile.cfm?d=pcsoftworld.com)
 - [Ashisoft Duplicate File Finder Pro 6.1 + Crack Download](http://www.pcsoftworld.com/2016/03/ashisoft-duplicate-file-finder-pro-61.html)
-- [Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_audio_tools)
+- [[https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_audio_tools|https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_audio_tools]]
 - [AvaxHome](https://avxhm.se/)
 - [awesome-piracy-bot](https://github.com/Igglybuff/awesome-piracy-bot)
 - [BaDshaH Uploads - Rapidgator, Nitroflare, Uploadgig & Uptobox Free Links](https://badshahuploads.xyz/)
@@ -665,7 +665,7 @@
 - [Izofile](https://izofile.com/)
 - [kCrack.com - Download Latest PC Software](https://kcrack.com/)
 - [KickASSCracks.COM](https://kickasscracks.com/)
-- [Latest Software (46,638 Results) Page 1 - EzyCracks](http://ezycracks.com/software)
+- [[46,638 Results) Page 1 - EzyCracks](http://ezycracks.com/software|Latest Software (46,638 Results) Page 1 - EzyCracks]]
 - [Leak.sx | Accounts leecher](https://leak.sx/dispenser.php)
 - [LinkSnappy - My Account](https://linksnappy.com/myaccount)
 - [MAZTERIZE | Download Software Full Version](https://www.mazterize.com/)
@@ -677,7 +677,7 @@
 - [piracy / piracy](https://gitlab.com/piracy/piracy)
 - [PiratePC | Cracked PC Software](https://piratepc.me/?fbclid=IwAR3TGfVtxILT7yNsLb6uGESnMbGSKIuPnkiSrlT0mjQaIEJRm1o7MWlizZU)
 - [PiratePC | Cracked PC Software](https://piratepc.net/?fbclid=IwAR3TGfVtxILT7yNsLb6uGESnMbGSKIuPnkiSrlT0mjQaIEJRm1o7MWlizZU)
-- [r/CrackWatch - Apparently the admin of WebOas.is, a piracy resource website (linked in every Daily Release post) announced his suicide.](https://www.reddit.com/r/CrackWatch/comments/rxju68/apparently_the_admin_of_weboasis_a_piracy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+- [[linked in every Daily Release post) announced his suicide.](https://www.reddit.com/r/CrackWatch/comments/rxju68/apparently_the_admin_of_weboasis_a_piracy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf|r/CrackWatch - Apparently the admin of WebOas.is, a piracy resource website (linked in every Daily Release post) announced his suicide.]]
 - [r/Piracy - Webby, lead admin and owner of the encrypted search engine site WebOasis, killed himself yesterday. This was his final message, as well as the first reply to his thread.](https://www.reddit.com/r/Piracy/comments/rx4gxj/webby_lead_admin_and_owner_of_the_encrypted/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [RARBG Torrents , filmi , download](https://rarbg.to/torrents.php?r=70144659)
 - [SadeemPC](https://www.sadeempc.com/)
@@ -688,7 +688,7 @@
 - [Unblockit - Access your favourite blocked sites](https://unblockit.cat/?domain=http://audiobookbay.unblockit.cat&status=504&request=/)
 - [Uncategorised - Mjcracks](https://mjcracks.co/category/uncategorised)
 - [Volno](https://volno.org/portal.php)
-- [Waverunner Audio - Celestial Guitar (KONTAKT) - VSTorrent](https://vstorrent.org/waverunner-audio-celestial-guitar-kontakt)
+- [[KONTAKT) - VSTorrent](https://vstorrent.org/waverunner-audio-celestial-guitar-kontakt|Waverunner Audio - Celestial Guitar (KONTAKT) - VSTorrent]]
 - [WebOas.is | WebOasis | The Ultimate Startpage, Homepage, Web Portal!](https://oasis.h7x.co/wo/)
 - [WebOas.is | WebOasis | The Ultimate Startpage, Homepage, Web Portal!](https://weboasis.app/)
 - [Windows - SoftArchive](https://sanet.st/windows)
@@ -714,7 +714,7 @@
 - [Archive – Google Drive](https://drive.google.com/drive/folders/1UNPHhBJNOUB0c-gFi9toSqirPSi4W99R)
 - [ASTRONOMY AND ASTROPHYSICS BOOKS – Google Drive](https://drive.google.com/drive/folders/0B1ySOrPxOWJmZGlNTkEtQnlEM3M)
 - [Become a Expert In Java Go Beginner To Advance – Google Drive](https://drive.google.com/drive/folders/1AKga5F6UzHFhvuMPl9zWf6MGxJZfbhac)
-- [Bollywood Movies (Pack-1-3, 9-14,16) 1080p Untouched EroSnow Web DL AAC 2.0 By-DusIcTv ExCluSivE – Google Drive](https://drive.google.com/drive/folders/1dfv0SIMwQGfLlY1-GQY1rA_cXEoekIRH)
+- [[Pack-1-3, 9-14,16) 1080p Untouched EroSnow Web DL AAC 2.0 By-DusIcTv ExCluSivE – Google Drive](https://drive.google.com/drive/folders/1dfv0SIMwQGfLlY1-GQY1rA_cXEoekIRH|Bollywood Movies (Pack-1-3, 9-14,16) 1080p Untouched EroSnow Web DL AAC 2.0 By-DusIcTv ExCluSivE – Google Drive]]
 - [Books – Google Drive](https://drive.google.com/drive/folders/1iQMdq5yK0EBqa1fgkmQTfW7EWSeJWYvT)
 - [Books – Google Drive](https://drive.google.com/drive/folders/1Z30-9EO6B0oEuFHYMKUzzzEO6p82-dYU)
 - [Craft Stuff – Google Drive](https://drive.google.com/drive/u/0/mobile/folders/1BurmAyZ-iEpDARXawyeYmwD2MGHrw4l6?usp=sharing)
@@ -749,7 +749,7 @@
 - [‫مسلسلات اجنبية‬‎ – Google Drive](https://drive.google.com/drive/folders/0B19OoIC31UN0eUE4OERjSXYxcUE)
 ### Forums
 - [[H]ard|Forum](https://hardforum.com/)
-- [0Day RedTeam ToolKit | Own it, Pwn it ( Happy Christmas Leaked ) | RaidForums](https://raidforums.com/Thread-0Day-RedTeam-ToolKit-Own-it-Pwn-it-Happy-Christmas-Leaked)
+- [[ Happy Christmas Leaked ) | RaidForums](https://raidforums.com/Thread-0Day-RedTeam-ToolKit-Own-it-Pwn-it-Happy-Christmas-Leaked]]
 - [Aiowares.com](https://www.aiowares.com/)
 - [Cracked](https://cracked.to/)
 - [Crax Pro | Cracking, Spamming, Carding and Hacking Forum](https://craxpro.io/?ref=xranks)
@@ -761,7 +761,7 @@
 - [DSR Forum](https://www.tapatalk.com/groups/deathshallriseemp/)
 - [FileSharing Talk](https://filesharingtalk.com/forum.php)
 - [Forums - Rapid Heaven](https://rapidheaven.com/)
-- [GDrive Server (Direct Links) – Telegraph](https://telegra.ph/GDrive-Server-Direct-Links-06-28)
+- [[Direct Links) – Telegraph](https://telegra.ph/GDrive-Server-Direct-Links-06-28|GDrive Server (Direct Links) – Telegraph]]
 - [Guided Hacking](https://guidedhacking.com/)
 - [Hack Forums](https://hackforums.net/)
 - [Home | Forums - The Lost Media Wiki](https://forums.lostmediawiki.com/)
@@ -820,72 +820,72 @@
 - [iSTock - HD Image Downloader](https://istock.7xm.xyz/)
 ### MEGA
 - [@lightzcloud - Light TD1 - /](https://td.lightdrive.workers.dev/1:/)
-- [0 byte folder on MEGA](https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg)
-- [0 byte folder on MEGA](https://mega.nz/folder/TDozVaoD#2qK5YTtpg6dmkqye2C2Kfg)
-- [0 byte folder on MEGA](https://mega.nz/folder/w8VHhSaY#fsM0AdXn8a3bRljWfJSdVg)
-- [1.04 TB folder on MEGA](https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w)
-- [1.25 GB folder on MEGA](https://mega.nz/folder/ZMlxhYLA#sG-opuADdkNiu9-IdeJO4Q)
-- [1.9 TB folder on MEGA](https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg)
-- [1.94 GB file on MEGA](https://mega.nz/file/cwdgkD6D#9jGB_AYdtcKURyGF36aMCdDBXnylfEVqFZDs8DU4Spg)
-- [10.1 MB folder on MEGA](https://mega.nz/folder/LBA0AB4S#z0QoDfFcJkeh2QXWvynZ2Q)
-- [10.31 GB folder on MEGA](https://mega.nz/folder/flYQGbzI#p1AFjtMuCLHQqocJqxV7rg)
-- [101.16 GB folder on MEGA](https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A)
-- [108.94 GB folder on MEGA](https://mega.nz/folder/utchyAAK#GTVl1fINpekEch95xj8Fmg)
-- [11.34 GB folder on MEGA](https://mega.nz/folder/bbwn0IrI#fwxcM4YiLJTO-HoiGBKRjg)
-- [11.76 GB folder on MEGA](https://mega.nz/folder/aJoDFaoI#ttGQwG2opF8YUT6FYiCIPw)
-- [15.36 MB file on MEGA](https://mega.nz/file/CpRkwTrD#9NihefiFDBirhwtXqSvjWAhrFzUPcJveCeePfWh1lmo)
-- [157.11 GB folder on MEGA](https://mega.nz/folder/9ZckiLLJ#jH3CcsgJ1q5StsPC29zP-Q)
-- [17.04 TB folder on MEGA](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
-- [17.14 GB folder on MEGA](https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg)
-- [17.83 TB folder on MEGA](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)
-- [189.8 MB file on MEGA](https://mega.nz/file/QUNASIQZ#RDRA-Q0bVrcaw5i7chJXDKYsSm1mjo7IxIVSqNf3edI)
+- [[https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg|https://mega.nz/folder/k4BhVaBL#R8dm8N_nTP-JdI9RVHcHIg]]
+- [[https://mega.nz/folder/TDozVaoD#2qK5YTtpg6dmkqye2C2Kfg|https://mega.nz/folder/TDozVaoD#2qK5YTtpg6dmkqye2C2Kfg]]
+- [[https://mega.nz/folder/w8VHhSaY#fsM0AdXn8a3bRljWfJSdVg|https://mega.nz/folder/w8VHhSaY#fsM0AdXn8a3bRljWfJSdVg]]
+- [[https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w|https://mega.nz/folder/4t4hhCTa#zIiMZBRVAibATtHxwQ2b_w]]
+- [[https://mega.nz/folder/ZMlxhYLA#sG-opuADdkNiu9-IdeJO4Q|https://mega.nz/folder/ZMlxhYLA#sG-opuADdkNiu9-IdeJO4Q]]
+- [[https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg|https://mega.nz/folder/mqxiBRTJ#0bnSa35nknxUqOCr-xdGYg]]
+- [[https://mega.nz/file/cwdgkD6D#9jGB_AYdtcKURyGF36aMCdDBXnylfEVqFZDs8DU4Spg|https://mega.nz/file/cwdgkD6D#9jGB_AYdtcKURyGF36aMCdDBXnylfEVqFZDs8DU4Spg]]
+- [[https://mega.nz/folder/LBA0AB4S#z0QoDfFcJkeh2QXWvynZ2Q|https://mega.nz/folder/LBA0AB4S#z0QoDfFcJkeh2QXWvynZ2Q]]
+- [[https://mega.nz/folder/flYQGbzI#p1AFjtMuCLHQqocJqxV7rg|https://mega.nz/folder/flYQGbzI#p1AFjtMuCLHQqocJqxV7rg]]
+- [[https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A|https://mega.nz/folder/iIsEkb4B#4tdNHUYTKTJDeIxI2FZE3A]]
+- [[https://mega.nz/folder/utchyAAK#GTVl1fINpekEch95xj8Fmg|https://mega.nz/folder/utchyAAK#GTVl1fINpekEch95xj8Fmg]]
+- [[https://mega.nz/folder/bbwn0IrI#fwxcM4YiLJTO-HoiGBKRjg|https://mega.nz/folder/bbwn0IrI#fwxcM4YiLJTO-HoiGBKRjg]]
+- [[https://mega.nz/folder/aJoDFaoI#ttGQwG2opF8YUT6FYiCIPw|https://mega.nz/folder/aJoDFaoI#ttGQwG2opF8YUT6FYiCIPw]]
+- [[https://mega.nz/file/CpRkwTrD#9NihefiFDBirhwtXqSvjWAhrFzUPcJveCeePfWh1lmo|https://mega.nz/file/CpRkwTrD#9NihefiFDBirhwtXqSvjWAhrFzUPcJveCeePfWh1lmo]]
+- [[https://mega.nz/folder/9ZckiLLJ#jH3CcsgJ1q5StsPC29zP-Q|https://mega.nz/folder/9ZckiLLJ#jH3CcsgJ1q5StsPC29zP-Q]]
+- [[https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w|https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w]]
+- [[https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg|https://mega.nz/folder/rVcExIbB#VN9alzay0OrctggvEn1DUg]]
+- [[https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw|https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw]]
+- [[https://mega.nz/file/QUNASIQZ#RDRA-Q0bVrcaw5i7chJXDKYsSm1mjo7IxIVSqNf3edI|https://mega.nz/file/QUNASIQZ#RDRA-Q0bVrcaw5i7chJXDKYsSm1mjo7IxIVSqNf3edI]]
 - [2 - /](https://drive.spidercloud.workers.dev/1:/)
-- [2.64 GB folder on MEGA](https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g)
-- [2.77 GB file on MEGA](https://mega.nz/file/Q5AzEQYB#c2H4gaVzVHAOwo45DafdlDsd340ShNxdc_CzSwdBMGE)
-- [2.85 GB folder on MEGA](https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw)
-- [258.97 GB folder on MEGA](https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA)
-- [29.57 GB folder on MEGA](https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A)
-- [295.74 TB folder on MEGA](https://mega.nz/folder/4l81jAha#ed19dxGXCtd-VWCEd-flxA)
-- [3.02 GB file on MEGA](https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE)
-- [3.96 GB folder on MEGA](https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g)
-- [320.41 MB folder on MEGA](https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w)
-- [36.66 MB file on MEGA](https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw)
-- [4.14 GB folder on MEGA](https://mega.nz/folder/zfJQyLrT#uvGAaSb7Bs5bggzXXWqosQ)
-- [4.28 GB file on MEGA](https://mega.nz/file/tsMyXTqa#0Yiw8BSo7IpJytlKGNy3KCKMkn_H6x3bw4DHRmiSRn8)
-- [4.53 GB folder on MEGA](https://mega.nz/folder/wzYFiYJQ#QGzohLivw1ahdExps1cQWA)
-- [4.66 GB folder on MEGA](https://mega.nz/folder/F5QwxJQa#ruNhz08Cl599MChOBbQeGA)
-- [4.74 GB file on MEGA](https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs)
-- [4.82 GB folder on MEGA](https://mega.nz/folder/MQBRHBJA#L_on3h-XUrtbc719UaMygw)
-- [44.31 GB folder on MEGA](https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w)
-- [5.28 GB file on MEGA](https://mega.nz/file/I4UyCLhY#vtl7oDV1kll4vrBRJV8ahQatsBSPmuiBvF7eFehJN9c)
-- [5.38 TB folder on MEGA](https://mega.nz/folder/yu4S3BJQ#bhtA-OIeQ2bnuM2bPcU2wQ/folder/Hr4GXT4L)
-- [5.96 TB folder on MEGA](https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ)
-- [5.96 TB folder on MEGA](https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA)
-- [5.99 GB folder on MEGA](https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ)
-- [50.81 TB folder on MEGA](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ)
-- [50.83 TB folder on MEGA](https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig)
-- [582.7 GB folder on MEGA](https://mega.nz/folder/G5MQDb5K#lJ9F3clmlPVtSaaa7-5l6g)
-- [582.7 GB folder on MEGA](https://mega.nz/folder/h48HGAba#98YOtp3nhgDtKpeSO7PqSQ)
-- [6.05 TB folder on MEGA](https://mega.nz/folder/K65nkYCA#alk8QsudxHOxCCRFMlDCJg)
-- [6.2 GB folder on MEGA](https://mega.nz/folder/j3oEWa6Q#p-maimh5W4WFWOLwTVw0Fg/folder/zqxS0KTY)
-- [696.81 MB file on MEGA](https://mega.nz/file/V1NmiRyK#kLWeSwP3tx8gzuXpJyvVPDEXyisOIcsBmOE3pvdU0yE)
-- [7.37 GB folder on MEGA](https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw)
-- [7.86 TB folder on MEGA](https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ)
-- [80.19 TB folder on MEGA](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw)
-- [831.51 GB folder on MEGA](https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw)
-- [843.02 MB folder on MEGA](https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw)
-- [851.4 MB file on MEGA](https://mega.nz/file/xkshVIBJ#ZGG_iGzOjLFFR8mYmpGlGFtcEseYMzj_SIREge-XOlw)
-- [988.36 MB folder on MEGA](https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA)
+- [[https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g|https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g]]
+- [[https://mega.nz/file/Q5AzEQYB#c2H4gaVzVHAOwo45DafdlDsd340ShNxdc_CzSwdBMGE|https://mega.nz/file/Q5AzEQYB#c2H4gaVzVHAOwo45DafdlDsd340ShNxdc_CzSwdBMGE]]
+- [[https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw|https://mega.nz/folder/Y6RXXKbJ#pnAdcdkSXw7wujTIhN5Blw]]
+- [[https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA|https://mega.nz/folder/QEV0jKYZ#-BVVScey6draL30yB_KowA]]
+- [[https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A|https://mega.nz/folder/x4VG3DRL#lqecF4q2ywojGLE0O8cu4A]]
+- [[https://mega.nz/folder/4l81jAha#ed19dxGXCtd-VWCEd-flxA|https://mega.nz/folder/4l81jAha#ed19dxGXCtd-VWCEd-flxA]]
+- [[https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE|https://mega.nz/file/E5MwmT5Z#YP-vMSTcm8voKjb72_nHsLYH1AGmliWsbUGXVJhNHDE]]
+- [[https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g|https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g]]
+- [[https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w|https://mega.nz/folder/fv4lCaZQ#6tS6HpQiWAjx6Ibr1N_D8w]]
+- [[https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw|https://mega.nz/file/zqoEWZaQ#qNAN8JnV_79gII4ofMs4ZwMAcydZAQw6Gdng_QEyNDw]]
+- [[https://mega.nz/folder/zfJQyLrT#uvGAaSb7Bs5bggzXXWqosQ|https://mega.nz/folder/zfJQyLrT#uvGAaSb7Bs5bggzXXWqosQ]]
+- [[https://mega.nz/file/tsMyXTqa#0Yiw8BSo7IpJytlKGNy3KCKMkn_H6x3bw4DHRmiSRn8|https://mega.nz/file/tsMyXTqa#0Yiw8BSo7IpJytlKGNy3KCKMkn_H6x3bw4DHRmiSRn8]]
+- [[https://mega.nz/folder/wzYFiYJQ#QGzohLivw1ahdExps1cQWA|https://mega.nz/folder/wzYFiYJQ#QGzohLivw1ahdExps1cQWA]]
+- [[https://mega.nz/folder/F5QwxJQa#ruNhz08Cl599MChOBbQeGA|https://mega.nz/folder/F5QwxJQa#ruNhz08Cl599MChOBbQeGA]]
+- [[https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs|https://mega.nz/file/EhUQnJgT#2lmr0DfCDoY3x4DFhthJo_3iz3XPB9DeLjmx2wBz1vs]]
+- [[https://mega.nz/folder/MQBRHBJA#L_on3h-XUrtbc719UaMygw|https://mega.nz/folder/MQBRHBJA#L_on3h-XUrtbc719UaMygw]]
+- [[https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w|https://mega.nz/folder/kQBXHKwA#-osWRLNCXAsd62ln8wKa8w]]
+- [[https://mega.nz/file/I4UyCLhY#vtl7oDV1kll4vrBRJV8ahQatsBSPmuiBvF7eFehJN9c|https://mega.nz/file/I4UyCLhY#vtl7oDV1kll4vrBRJV8ahQatsBSPmuiBvF7eFehJN9c]]
+- [[https://mega.nz/folder/yu4S3BJQ#bhtA-OIeQ2bnuM2bPcU2wQ/folder/Hr4GXT4L|https://mega.nz/folder/yu4S3BJQ#bhtA-OIeQ2bnuM2bPcU2wQ/folder/Hr4GXT4L]]
+- [[https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ|https://mega.nz/folder/B9B1iIZL#1GYxeVaTj3prxSR8kDyRyQ]]
+- [[https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA|https://mega.nz/folder/shpz0ACQ#tdyaQi9HcVM-oKH9NxVewA]]
+- [[https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ|https://mega.nz/folder/A15gybjB#s_vaCKHVR35X704ot2g7LQ]]
+- [[https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ|https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ]]
+- [[https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig|https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig]]
+- [[https://mega.nz/folder/G5MQDb5K#lJ9F3clmlPVtSaaa7-5l6g|https://mega.nz/folder/G5MQDb5K#lJ9F3clmlPVtSaaa7-5l6g]]
+- [[https://mega.nz/folder/h48HGAba#98YOtp3nhgDtKpeSO7PqSQ|https://mega.nz/folder/h48HGAba#98YOtp3nhgDtKpeSO7PqSQ]]
+- [[https://mega.nz/folder/K65nkYCA#alk8QsudxHOxCCRFMlDCJg|https://mega.nz/folder/K65nkYCA#alk8QsudxHOxCCRFMlDCJg]]
+- [[https://mega.nz/folder/j3oEWa6Q#p-maimh5W4WFWOLwTVw0Fg/folder/zqxS0KTY|https://mega.nz/folder/j3oEWa6Q#p-maimh5W4WFWOLwTVw0Fg/folder/zqxS0KTY]]
+- [[https://mega.nz/file/V1NmiRyK#kLWeSwP3tx8gzuXpJyvVPDEXyisOIcsBmOE3pvdU0yE|https://mega.nz/file/V1NmiRyK#kLWeSwP3tx8gzuXpJyvVPDEXyisOIcsBmOE3pvdU0yE]]
+- [[https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw|https://mega.nz/folder/Fc5HjABT#kDNrkB97DPt9L_dysk4jCw]]
+- [[https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ|https://mega.nz/folder/pAl0wRKK#FIZzbYjkT_09qRT5BS2GXQ]]
+- [[https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw|https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw]]
+- [[https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw|https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw]]
+- [[https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw|https://mega.nz/folder/mEkDBSYI#WZVE8ptR90ZH00nBzmDIOw]]
+- [[https://mega.nz/file/xkshVIBJ#ZGG_iGzOjLFFR8mYmpGlGFtcEseYMzj_SIREge-XOlw|https://mega.nz/file/xkshVIBJ#ZGG_iGzOjLFFR8mYmpGlGFtcEseYMzj_SIREge-XOlw]]
+- [[https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA|https://mega.nz/folder/DihiHYYJ#qwDp56twKmwPdDMqGR_kLA]]
 - [Adobe CC 2021 Crack For All Products MacOS Support M1 Latest Update + Instructions : GetintoMac](https://www.reddit.com/user/GetintoMac/comments/ox6rwl/adobe_cc_2021_crack_for_all_products_macos/)
 - [Alchemy Index](https://www.sacred-texts.com/alc/index.htm)
 - [ASTROLABE: Articles and Lectures Library](https://alabe.com/Library.html)
 - [Bhai Hai Tu Mera](https://mydrive.rahul112kapoor.workers.dev/0:/)
 - [Downloading from DiskStation](https://gofile-364e693131.us5.quickconnect.to/fsdownload/PVAvtUjDc/Grand%20Library)
 - [Edit Psychoactive Library : http://gofile.me/6Ni11/JE6ZAtsFc](https://rentry.co/echlinkss/edit)
-- [File folder on MEGA](https://mega.nz/folder/F59WkSqQ#quGKSFIswBgv0rxAAaF8Pg)
-- [File folder on MEGA](https://mega.nz/folder/ig0CBbLS#pGy_4LFIXKdtF_Ey5CVCdw/folder/TpVG3ITY)
-- [File folder on MEGA](https://mega.nz/folder/xfpEjSRI#Xvt1Snz6X23VawtrDkgFqw)
-- [File folder on MEGA](https://mega.nz/folder/ZLB3CSwK#EXp6VnwcAEI1WE8xVwZZuQ)
+- [[https://mega.nz/folder/F59WkSqQ#quGKSFIswBgv0rxAAaF8Pg|https://mega.nz/folder/F59WkSqQ#quGKSFIswBgv0rxAAaF8Pg]]
+- [[https://mega.nz/folder/ig0CBbLS#pGy_4LFIXKdtF_Ey5CVCdw/folder/TpVG3ITY|https://mega.nz/folder/ig0CBbLS#pGy_4LFIXKdtF_Ey5CVCdw/folder/TpVG3ITY]]
+- [[https://mega.nz/folder/xfpEjSRI#Xvt1Snz6X23VawtrDkgFqw|https://mega.nz/folder/xfpEjSRI#Xvt1Snz6X23VawtrDkgFqw]]
+- [[https://mega.nz/folder/ZLB3CSwK#EXp6VnwcAEI1WE8xVwZZuQ|https://mega.nz/folder/ZLB3CSwK#EXp6VnwcAEI1WE8xVwZZuQ]]
 - [For Sharing - OneDrive](https://onedrive.live.com/?authkey=%21AOlKNh2%2DQCqt6Ms&id=52E782A221C6AD41%219938&cid=52E782A221C6AD41)
 - [Free Courses By Xemu](https://rentry.org/FreeCoursesByXem)
 - [Freemasonry Master collection](https://www.mediafire.com/file/j15nijz3wml/Freemasonry__Master_collection.zip/file)
@@ -897,49 +897,49 @@
 - [Index of /books](https://pauladaunt.com/books/)
 - [Index of /CalibreLibrary](https://isidore.co/CalibreLibrary/)
 - [Index of /comics0/](https://booksdl.org/comics0/)
-- [International Association for the Preservation of Spiritualist and Occult Periodicals: The Standard Spiritualist and Occult Corpus (SSOC)](http://iapsop.com/ssoc/)
+- [[SSOC)](http://iapsop.com/ssoc/|International Association for the Preservation of Spiritualist and Occult Periodicals: The Standard Spiritualist and Occult Corpus (SSOC)]]
 - [iPASpot](https://ipaspot.app/categories/tweakedapps.html)
 - [Login - prostylex](https://prostylex.org/account-login.php?returnto=%2F)
 - [Mark Passio's - The A.R.K DRIVE - OneDrive](https://onedrive.live.com/?authkey=%21AEtU9hlXH01zOFg&id=A0C5EBFDBB29ECFC%21104&cid=A0C5EBFDBB29ECFC)
-- [MEGA](https://mega.nz/folder/jlEwhYyJ#iK4mVC4y5iwk_cr3eIpX4g)
-- [MEGA](https://mega.nz/folder/hQVFBDbT#f3gOa3LUAHJXJJbFZfDytg)
-- [MEGA](https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g)
-- [MEGA](https://mega.nz/folder/gxIHkQaa#CKCdB3_bO0bKYG36fen4OQ)
-- [MEGA](https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA)
-- [MEGA](https://mega.nz/folder/r0JDiAQZ#kw3kkOc0EoXtdgqG5dPkRg)
-- [MEGA](https://mega.nz/folder/wQp0jaSC#cE7-P1fX0FkxU2LXAHm80A)
-- [MEGA](https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw)
-- [MEGA](https://mega.nz/folder/GF5zTIbJ#UcubyKl1B2YW0HiaMmim9Q)
-- [MEGA](https://mega.nz/folder/l7B00TyL#a3mH425zcaBuILkWJ5h3FQ)
-- [MEGA](https://mega.nz/folder/iO4kTDIQ#ufiZtn1RSSd8mu3EF-7zfg)
-- [MEGA](https://mega.nz/folder/wt5HGICC#TnMvorTOW_k3hsTHEW4x9w)
-- [MEGA](https://mega.nz/folder/3GhkAJwD#gRdopc_Uz23qmxPxi3rWgQ)
-- [MEGA](https://mega.nz/folder/9bZBhQCb#elESQt19RiLB7DW1wZS6xg)
-- [MEGA](https://mega.nz/folder/11IDBAgA#aZ0mCPN8EuwX3lP3tBT7Zw)
-- [MEGA](https://mega.nz/folder/tkxC2IbS#tuCovFzaVY8rAVYBU3VR4g)
-- [MEGA](https://mega.nz/folder/1DRUUBoR#K1ywmHQSe3SnqjpWkV0o7g)
-- [MEGA](https://mega.nz/folder/9p12DRCJ#68qN43PeG_7ASqA6uYXVBw/folder/4wMRQQiL)
-- [MEGA](https://mega.nz/folder/26AFVYqY#W0MeKpwUkDXtDoWHhvOSaw)
-- [MEGA](https://mega.nz/folder/xDBggB5R#__8JJX9IVYZKaOxNTWX2ww)
-- [MEGA](https://mega.nz/folder/XHoiCDgC#oMbKU6pHPzV-6l9qBQcBbw)
-- [MEGA](https://mega.nz/folder/xZh1hIhT#1y_H1VgKH7xP8f57YYvIhA)
-- [MEGA](https://mega.nz/folder/DUwSWLpT#fbqm6GMSIhB45PZqZv35jA)
-- [MEGA](https://mega.nz/folder/b5IDSKYD#59Sl_gG5Py_lrTw-vqjTVA)
-- [MEGA](https://mega.nz/folder/aFdGDKzS#uOJxSGciWEbSsZQgzPlAag/folder/3dEzRbYY)
-- [MEGA](https://mega.nz/#F!1s9E3SZL!P_tynGmLjPHURAugHkn7Hw)
-- [MEGA](https://mega.nz/#F!BNljAKhB!eY3NfH3DZtthocohW8Lwwg)
-- [MEGA](https://mega.nz/#F!dlZlDbqL!TXG5bGvWufONkrQAL7b7jA)
-- [MEGA](https://mega.nz/#F!E4cSzYBZ!SPeQA0WuSMVh_oQtpYnN5w)
-- [MEGA](https://mega.nz/#F!gehhiaKI!PfYluqpWY4vfowImabzsLQ)
-- [MEGA](https://mega.nz/#F!hQVFBDbT!f3gOa3LUAHJXJJbFZfDytg)
-- [MEGA](https://mega.nz/#F!jBk3nBwC!3kbcd3Yb0I1Dkw6GCBLY1A)
-- [MEGA](https://mega.nz/#F!jN8GTSaJ!xN6x5Pv9dhqT6yLhO6r2Ow)
-- [MEGA](https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg)
-- [MEGA](https://mega.nz/#F!kd9h1A6Y!1waeMtxUpksB9eQsws0Zcg)
-- [MEGA](https://mega.nz/#F!SfZyUYRK!yW7p_LkWtooQaVZ3Vr6WLQ)
+- [[https://mega.nz/folder/jlEwhYyJ#iK4mVC4y5iwk_cr3eIpX4g|https://mega.nz/folder/jlEwhYyJ#iK4mVC4y5iwk_cr3eIpX4g]]
+- [[https://mega.nz/folder/hQVFBDbT#f3gOa3LUAHJXJJbFZfDytg|https://mega.nz/folder/hQVFBDbT#f3gOa3LUAHJXJJbFZfDytg]]
+- [[https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g|https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g]]
+- [[https://mega.nz/folder/gxIHkQaa#CKCdB3_bO0bKYG36fen4OQ|https://mega.nz/folder/gxIHkQaa#CKCdB3_bO0bKYG36fen4OQ]]
+- [[https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA|https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA]]
+- [[https://mega.nz/folder/r0JDiAQZ#kw3kkOc0EoXtdgqG5dPkRg|https://mega.nz/folder/r0JDiAQZ#kw3kkOc0EoXtdgqG5dPkRg]]
+- [[https://mega.nz/folder/wQp0jaSC#cE7-P1fX0FkxU2LXAHm80A|https://mega.nz/folder/wQp0jaSC#cE7-P1fX0FkxU2LXAHm80A]]
+- [[https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw|https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw]]
+- [[https://mega.nz/folder/GF5zTIbJ#UcubyKl1B2YW0HiaMmim9Q|https://mega.nz/folder/GF5zTIbJ#UcubyKl1B2YW0HiaMmim9Q]]
+- [[https://mega.nz/folder/l7B00TyL#a3mH425zcaBuILkWJ5h3FQ|https://mega.nz/folder/l7B00TyL#a3mH425zcaBuILkWJ5h3FQ]]
+- [[https://mega.nz/folder/iO4kTDIQ#ufiZtn1RSSd8mu3EF-7zfg|https://mega.nz/folder/iO4kTDIQ#ufiZtn1RSSd8mu3EF-7zfg]]
+- [[https://mega.nz/folder/wt5HGICC#TnMvorTOW_k3hsTHEW4x9w|https://mega.nz/folder/wt5HGICC#TnMvorTOW_k3hsTHEW4x9w]]
+- [[https://mega.nz/folder/3GhkAJwD#gRdopc_Uz23qmxPxi3rWgQ|https://mega.nz/folder/3GhkAJwD#gRdopc_Uz23qmxPxi3rWgQ]]
+- [[https://mega.nz/folder/9bZBhQCb#elESQt19RiLB7DW1wZS6xg|https://mega.nz/folder/9bZBhQCb#elESQt19RiLB7DW1wZS6xg]]
+- [[https://mega.nz/folder/11IDBAgA#aZ0mCPN8EuwX3lP3tBT7Zw|https://mega.nz/folder/11IDBAgA#aZ0mCPN8EuwX3lP3tBT7Zw]]
+- [[https://mega.nz/folder/tkxC2IbS#tuCovFzaVY8rAVYBU3VR4g|https://mega.nz/folder/tkxC2IbS#tuCovFzaVY8rAVYBU3VR4g]]
+- [[https://mega.nz/folder/1DRUUBoR#K1ywmHQSe3SnqjpWkV0o7g|https://mega.nz/folder/1DRUUBoR#K1ywmHQSe3SnqjpWkV0o7g]]
+- [[https://mega.nz/folder/9p12DRCJ#68qN43PeG_7ASqA6uYXVBw/folder/4wMRQQiL|https://mega.nz/folder/9p12DRCJ#68qN43PeG_7ASqA6uYXVBw/folder/4wMRQQiL]]
+- [[https://mega.nz/folder/26AFVYqY#W0MeKpwUkDXtDoWHhvOSaw|https://mega.nz/folder/26AFVYqY#W0MeKpwUkDXtDoWHhvOSaw]]
+- [[https://mega.nz/folder/xDBggB5R#__8JJX9IVYZKaOxNTWX2ww|https://mega.nz/folder/xDBggB5R#__8JJX9IVYZKaOxNTWX2ww]]
+- [[https://mega.nz/folder/XHoiCDgC#oMbKU6pHPzV-6l9qBQcBbw|https://mega.nz/folder/XHoiCDgC#oMbKU6pHPzV-6l9qBQcBbw]]
+- [[https://mega.nz/folder/xZh1hIhT#1y_H1VgKH7xP8f57YYvIhA|https://mega.nz/folder/xZh1hIhT#1y_H1VgKH7xP8f57YYvIhA]]
+- [[https://mega.nz/folder/DUwSWLpT#fbqm6GMSIhB45PZqZv35jA|https://mega.nz/folder/DUwSWLpT#fbqm6GMSIhB45PZqZv35jA]]
+- [[https://mega.nz/folder/b5IDSKYD#59Sl_gG5Py_lrTw-vqjTVA|https://mega.nz/folder/b5IDSKYD#59Sl_gG5Py_lrTw-vqjTVA]]
+- [[https://mega.nz/folder/aFdGDKzS#uOJxSGciWEbSsZQgzPlAag/folder/3dEzRbYY|https://mega.nz/folder/aFdGDKzS#uOJxSGciWEbSsZQgzPlAag/folder/3dEzRbYY]]
+- [[https://mega.nz/#F!1s9E3SZL!P_tynGmLjPHURAugHkn7Hw|https://mega.nz/#F!1s9E3SZL!P_tynGmLjPHURAugHkn7Hw]]
+- [[https://mega.nz/#F!BNljAKhB!eY3NfH3DZtthocohW8Lwwg|https://mega.nz/#F!BNljAKhB!eY3NfH3DZtthocohW8Lwwg]]
+- [[https://mega.nz/#F!dlZlDbqL!TXG5bGvWufONkrQAL7b7jA|https://mega.nz/#F!dlZlDbqL!TXG5bGvWufONkrQAL7b7jA]]
+- [[https://mega.nz/#F!E4cSzYBZ!SPeQA0WuSMVh_oQtpYnN5w|https://mega.nz/#F!E4cSzYBZ!SPeQA0WuSMVh_oQtpYnN5w]]
+- [[https://mega.nz/#F!gehhiaKI!PfYluqpWY4vfowImabzsLQ|https://mega.nz/#F!gehhiaKI!PfYluqpWY4vfowImabzsLQ]]
+- [[https://mega.nz/#F!hQVFBDbT!f3gOa3LUAHJXJJbFZfDytg|https://mega.nz/#F!hQVFBDbT!f3gOa3LUAHJXJJbFZfDytg]]
+- [[https://mega.nz/#F!jBk3nBwC!3kbcd3Yb0I1Dkw6GCBLY1A|https://mega.nz/#F!jBk3nBwC!3kbcd3Yb0I1Dkw6GCBLY1A]]
+- [[https://mega.nz/#F!jN8GTSaJ!xN6x5Pv9dhqT6yLhO6r2Ow|https://mega.nz/#F!jN8GTSaJ!xN6x5Pv9dhqT6yLhO6r2Ow]]
+- [[https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg|https://mega.nz/#F!K1MnlSzJ!fyLhNA7V_m1z9JZfPW0alg]]
+- [[https://mega.nz/#F!kd9h1A6Y!1waeMtxUpksB9eQsws0Zcg|https://mega.nz/#F!kd9h1A6Y!1waeMtxUpksB9eQsws0Zcg]]
+- [[https://mega.nz/#F!SfZyUYRK!yW7p_LkWtooQaVZ3Vr6WLQ|https://mega.nz/#F!SfZyUYRK!yW7p_LkWtooQaVZ3Vr6WLQ]]
 - [Noob Guide To Sideloading In iOS : Piracy](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/)
 - [Off Topic Mirrors - /](https://otmbd01.sasohan.workers.dev/)
-- [Prisca Theologia & Syncretism (Santos Bonacci)](https://www.mediafire.com/folder/eq5y6tt6b1plc/)
+- [[Santos Bonacci)](https://www.mediafire.com/folder/eq5y6tt6b1plc/|Prisca Theologia & Syncretism (Santos Bonacci)]]
 - [punisher mirror - //](https://punishermirror.punisher876.workers.dev/0://)
 - [Raw](https://rentry.co/echlinkss/raw)
 - [Revival](https://revival.awestruck.workers.dev/)
@@ -1013,7 +1013,7 @@
 - [Gutenbee – Premium Blocks For WordPress](https://www.cssigniter.com/gutenbee/)
 - [Gutenberg Woocommerce - WP WebCreator](https://wpwebcreator.com/gutenberg-woocommerce/)
 - [Gutenberg-Wordpress - WP WebCreator](https://wpwebcreator.com/gutenberg-blocks-plugins/)
-- [Gutenify - World’s First True Gutenberg (Block) Template Kit](https://gutenify.com/)
+- [[Block) Template Kit](https://gutenify.com/|Gutenify - World’s First True Gutenberg (Block) Template Kit]]
 - [Gutentor - WordPress Page Building Blocks Blocks - Page Builder for Gutenberg](https://www.gutentor.com/)
 - [HappyFiles – WordPress Media Folders](https://happyfiles.io/)
 - [Hello - The Fastest WordPress Theme With Minimal Styling | Elementor](https://elementor.com/hello-theme/)
@@ -1445,7 +1445,7 @@
 - [Brandy Caruso Photography - South Georgia Newborn Photographer](https://brandycarusophotography.com/)
 - [Brunner](https://brunner.ninja/)
 - [bucetinhas.info](https://bucetinhas.info/gostosa)
-- [Cataloging and Acquisitions (Library of Congress)](https://loc.gov/aba)
+- [[Library of Congress)](https://loc.gov/aba|Cataloging and Acquisitions (Library of Congress)]]
 - [Centro Pokémon](https://cpokemon.com/)
 - [crt.state.la.us - /downloads/](https://crt.state.la.us/downloads)
 - [cve-search main page | cve-search - tool-set to perform local searches for known vulnerabilities](https://archive.hack.lu/)
@@ -1456,7 +1456,7 @@
 - [Daniel's Web-Server](https://danielpeart.net/)
 - [DCNick3 - おかえりなさいませ、ご主人様](https://dcnick3.duckdns.org/)
 - [default](https://project-cms-rpc-endcap.web.cern.ch/)
-- [Dhamma Talks (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves](https://dhammatalks.net/)
+- [[((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves](https://dhammatalks.net/|Dhamma Talks (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves]]
 - [Direct Access Unavailable](https://data.ddosecrets.com/)
 - [Direct Download Almost Anything](https://ewasion.github.io/opendirectory-finder)
 - [Directory /wp-content/uploads](https://performancedogtraining.com/wp-content/uploads)
@@ -2463,7 +2463,7 @@
 - [Music](https://funkyfiles.com/music)
 - [Music](https://thesoundeffect.com/music)
 - [NameCheap.com Mirrors](https://mirrors.namecheap.com/)
-- [NASA's Space Physics Data Facility (SPDF)](https://spdf.gsfc.nasa.gov/)
+- [[SPDF)](https://spdf.gsfc.nasa.gov/|NASA's Space Physics Data Facility (SPDF)]]
 - [naughtybits.us](https://naughtybits.us/wp-content/uploads)
 - [New Data](https://dataup.sdasofia.org/)
 - [New Data](https://sdasofia.org/dataup)
@@ -2489,9 +2489,9 @@
 - [Private Online Registered Network](https://porn.jules-aubert.info/)
 - [Programmable Search Engine](https://cse.google.com/cse?cx=465eeeb114c7f523f)
 - [Programmable Search Engine](https://cse.google.com/cse?cx=c64ba311eb8c31896)
-- [Programmable Search Engine](https://cse.google.com/cse?cx=013991603413798772546:ekjmizm8vus#gsc.tab=0)
+- [[https://cse.google.com/cse?cx=013991603413798772546:ekjmizm8vus#gsc.tab=0|https://cse.google.com/cse?cx=013991603413798772546:ekjmizm8vus#gsc.tab=0]]
 - [Programmable Search Engine](https://cse.google.com/cse?cx=e6756edc507bcfa91)
-- [Programmable Search Engine](https://cse.google.com/cse?cx=013991603413798772546:rse-4irjrn8#gsc.tab=0)
+- [[https://cse.google.com/cse?cx=013991603413798772546:rse-4irjrn8#gsc.tab=0|https://cse.google.com/cse?cx=013991603413798772546:rse-4irjrn8#gsc.tab=0]]
 - [Public folder](https://xyzw.su/)
 - [raw.pixls.us](https://raw.pixls.us/)
 - [Red Pill's Page of D00M](https://metapill.co.uk/)
@@ -2543,7 +2543,7 @@
 - [Welcome to Optimum Television | TV Program Distributors](https://optimumtelevision.com/assets)
 - [Welcome to the University of Bayreuth](https://ftp.uni-bayreuth.de/)
 - [William Flew Index of Omni Magazine SF Short Stories by Author](https://williamflew.com/authors.html)
-- [Willkommen auf / Welcome to ftp.fau.de (ftp.uni-erlangen.de)](https://ftp.fau.de/)
+- [[ftp.uni-erlangen.de)](https://ftp.fau.de/|Willkommen auf / Welcome to ftp.fau.de (ftp.uni-erlangen.de)]]
 - [Wp content](https://teehunter.com/wp-content)
 - [WWW.GAMERS.ORG](https://gamers.org/)
 - [www.watters.ws](https://watters.ws/)
@@ -2556,14 +2556,14 @@
 - [ddebrid | Premium Link Generator and Torrent Downloader](https://ddebrid.com/)
 - [Deepbrid - Downloader | Free Premium Link Generator for Uploaded, Rapidgator, Filenext, Wdupload...](https://www.deepbrid.com/service)
 - [Free Premium Link Generator - AnyDebrid](https://anydebrid.com/)
-- [LinkSnappy - Download](https://linksnappy.com/home#Login)
+- [[https://linksnappy.com/home#Login|https://linksnappy.com/home#Login]]
 - [LinkSnappy - Download](https://linksnappy.com/download)
 - [Log in to your account](https://www.cooldebrid.com/)
 - [Welcome To Our Cbox - Premium Link Generator Cbox](https://alemdarleech.net/)
 ### Rentry
-- [Avira PhantomVPN Infinite Trial iOS Guide (Jailbroken)](https://rentry.co/PhantomVPNiOS)
+- [[Jailbroken)](https://rentry.co/PhantomVPNiOS|Avira PhantomVPN Infinite Trial iOS Guide (Jailbroken)]]
 - [CLEAN INSTALL MICROSOFT OFFICE](https://rentry.org/CLEAN-INSTALL-MICROSOFT-OFFICE)
-- [Deezer Premium iOS Guide (Jailbroken)](https://rentry.co/deezerpremiumforios)
+- [[Jailbroken)](https://rentry.co/deezerpremiumforios|Deezer Premium iOS Guide (Jailbroken)]]
 - [FRAPS Full Version for Free](https://rentry.co/frapsfullfree)
 - [Friendly Windows Thread Paste](https://rentry.co/fwt)
 - [Full IDM Installation & Cracking Guide](https://rentry.org/IDM)
@@ -2572,18 +2572,18 @@
 - [https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw](https://rentry.co/toa8s)
 - [Install Adobe Acrobat PRO DC the right way](https://rentry.co/Acrobat-Pro)
 - [Installing Windows for Retards](https://rentry.co/windows_for_retards)
-- [Malwarebytes Premium Guide (2022 Version)](https://rentry.co/malware-prem)
+- [[2022 Version)](https://rentry.co/malware-prem|Malwarebytes Premium Guide (2022 Version)]]
 - [Mega Rentry](https://rentry.co/Mega-Rentry)
 - [Psychoactive Library : http://gofile.me/6Ni11/JE6ZAtsFc](https://rentry.co/echlinkss)
 - [Retro Tab](https://rentry.co/vin7x)
 - [Small Open Directories](https://rentry.co/smolOD)
-- [Spotify Premium iOS Guide (Jailbroken)](https://rentry.co/SpotilifeGuide)
+- [[Jailbroken)](https://rentry.co/SpotilifeGuide|Spotify Premium iOS Guide (Jailbroken)]]
 - [Spotify Tweaked IPAs](https://rentry.co/spotifyIPA)
 - [THE COMPLETE GUIDE TO INSTALLING OFFICE FOR FREE!](https://rentry.org/officeguidefornoobs)
 - [Ublock Origin Tab](https://rentry.co/24ufx)
 - [Windows Activation](https://rentry.co/Win-Activate)
 - [WinRAR Full Version Guide](https://rentry.co/x3-Rawr)
-- [YouTube Music Premium iOS Guide (Jailbroken)](https://rentry.co/YTMusicGuide)
+- [[Jailbroken)](https://rentry.co/YTMusicGuide|YouTube Music Premium iOS Guide (Jailbroken)]]
 - [YouTube Tweaked IPAs](https://rentry.co/YTcrack)
 ### Serials & Keygen
 - [crack4windows](https://crack4windows.com/)
@@ -2684,11 +2684,11 @@
 - [FullMetal](https://drive.fullmetal.workers.dev/0:)
 - [Generator.driveindex.ga](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index)
 - [Generator.driveindex.ga](https://generator.driveindex.ga/)
-- [Google Team Drives (unlimited uploading space) - Pastelink.net](https://pastelink.net/2zw21)
-- [Groups.google.com/forum/?nomobile=true#!forum/sharing-viewer/join](https://groups.google.com/forum?nomobile=true#!forum/sharing-viewer/join)
-- [Groups.google.com/forum/#!forum/sammytorrents](https://groups.google.com/forum#!forum/sammytorrents)
+- [[unlimited uploading space) - Pastelink.net](https://pastelink.net/2zw21|Google Team Drives (unlimited uploading space) - Pastelink.net]]
+- [[https://groups.google.com/forum?nomobile=true#!forum/sharing-viewer/join](https://groups.google.com/forum?nomobile=true|https://groups.google.com/forum?nomobile=true#!forum/sharing-viewer/join](https://groups.google.com/forum?nomobile=true#!forum/sharing-viewer/join]]
+- [[https://groups.google.com/forum#!forum/sammytorrents](https://groups.google.com/forum|https://groups.google.com/forum#!forum/sammytorrents](https://groups.google.com/forum#!forum/sammytorrents]]
 - [Groups.google.com/forum/embed/?place=forum/seedboxsl](https://groups.google.com/forum/embed?place=forum%2Fseedboxsl)
-- [Groups.google.com/forum/m/#!forum/leecherhood](https://groups.google.com/forum/m#!forum/leecherhood)
+- [[https://groups.google.com/forum/m#!forum/leecherhood](https://groups.google.com/forum/m|https://groups.google.com/forum/m#!forum/leecherhood](https://groups.google.com/forum/m#!forum/leecherhood]]
 - [Hackgence.com | Create Google Shared Drives - Educational](https://td.hackgence.com/)
 - [Happyboy.hb4all.workers.dev](https://happyboy.hb4all.workers.dev/)
 - [HK Teamdrive Group - Google Groups](https://groups.google.com/g/hkteamdrive1group)
@@ -2736,17 +2736,17 @@
 - [Kbee - Edit Space](https://dashboard.kbee.app/QXrR7frsKnYjjwRXYDdr/spaces/PUdvdTb9JfhoJ6tyZkiq?p=)
 - [MirrorAce - Upload your files to multiple file hosting sites](https://mirrorace.com/)
 ## Links & Lists
-- [#](https://rentry.co/4dqmi#sites-apps-that-need-to-be-tested)
+- [[https://rentry.co/4dqmi#](https://rentry.co/4dqmi|https://rentry.co/4dqmi#](https://rentry.co/4dqmi#sites-apps-that-need-to-be-tested]]
 - [Aviva Directory](https://www.avivadirectory.com/)
 - [awesome-osint/README.md at master · jivoi/awesome-osint](https://github.com/jivoi/awesome-osint/blob/master/README.md)
 - [Big Lists of Website | Download Big Lists of Websites](http://biglistofwebsites.com/)
-- [Bin.disroot.org](https://bin.disroot.org/?3082f04205be7af6=#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34)
+- [[https://bin.disroot.org/?3082f04205be7af6=#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34|https://bin.disroot.org/?3082f04205be7af6=#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34]]
 - [cata-list](https://cata-list.github.io/)
 - [DDNEvolution : Best Free Download Community](https://www.ddnevolution.cc/)
 - [Edit](https://rentry.co/4dqmi/edit)
 - [Edit links](https://rentry.co/y3mph/edit)
-- [Encrypted note on PrivateBin](https://bin.disroot.org/?21bf11599f4add1b=#A76CcMsSTvaLKrvjMrtX51Qr7dyUTVYgTkt52nLWry1k)
-- [Encrypted note on PrivateBin](https://bin.snopyta.org/?b1c49ff40392b339=#95sifuGegiAwJ6FyKqbLNoRNtVJNJBGbhird365oU6eM)
+- [[https://bin.disroot.org/?21bf11599f4add1b=#A76CcMsSTvaLKrvjMrtX51Qr7dyUTVYgTkt52nLWry1k|https://bin.disroot.org/?21bf11599f4add1b=#A76CcMsSTvaLKrvjMrtX51Qr7dyUTVYgTkt52nLWry1k]]
+- [[https://bin.snopyta.org/?b1c49ff40392b339=#95sifuGegiAwJ6FyKqbLNoRNtVJNJBGbhird365oU6eM|https://bin.snopyta.org/?b1c49ff40392b339=#95sifuGegiAwJ6FyKqbLNoRNtVJNJBGbhird365oU6eM]]
 - [GitHub - imuledx/OSINT_sources](https://github.com/imuledx/OSINT_sources)
 - [GitHub - SiloGit/curated_OSINT_resources: A continuously curated list of my favorite links and resources relating to Open Source Intelligence gathering.](https://github.com/SiloGit/curated_OSINT_resources)
 - [Internet Curated](https://internetcurated.com/)
@@ -2776,12 +2776,12 @@
 - [Copied 2.0 – MacStories](https://www.macstories.net/news/copied-2-0)
 - [Create your own template — Day One Export documentation](http://day-one-export.readthedocs.io/en/latest/templates.html)
 - [Creating Drafts Actions In Bulk](http://joebuhlig.com/creating-drafts-actions-in-bulk)
-- [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en#type-selector)
+- [[http://apps.workflower.fi/vocabs/css/en#type-selector|http://apps.workflower.fi/vocabs/css/en#type-selector]]
 - [Day Evaluations | Day One](http://dayoneapp.com/2016/07/day-evaluations)
 - [Day One URL schemes](http://help.dayoneapp.com/day-one-url-scheme)
 - [Day One, future proofing, and workflows | ig.nore.me](https://ig.nore.me/2016/02/day-one-future-proofing-and-workflows)
 - [DayOne and Time Travel](http://www.macdrifter.com/2012/02/dayone-and-time-travel.html)
-- [Disappointment in My Favorite App: The New Day One 2.0 — Medium](https://medium.com/@dovizu/disappointment-in-my-favorite-app-the-new-day-one-2-0-a258fc03a0b8#.vg99x73cb)
+- [[https://medium.com/@dovizu/disappointment-in-my-favorite-app-the-new-day-one-2-0-a258fc03a0b8#.vg99x73cb|https://medium.com/@dovizu/disappointment-in-my-favorite-app-the-new-day-one-2-0-a258fc03a0b8#.vg99x73cb]]
 - [Drafts 3 Review: Better iOS Automation and Workflows](https://www.macstories.net/reviews/drafts-3-review-better-ios-automation-and-workflows)
 - [Dynalist - outliner](https://dynalist.io/d/c9Y5OdWcmcM62yAtcpuR24Yv)
 - [Email Parser Software & Workflow Automation](https://mailparser.io/?ref=producthunt)
@@ -2790,7 +2790,7 @@
 - [Fantastic things in the world - Timeline | Facebook](https://www.facebook.com/fantasticworld/videos/628272544021302)
 - [Ghostbin](https://ghostbin.com/)
 - [GitHub - heliomass/iOSWorkflows: A collection of workflows for Workflow app.](https://github.com/heliomass/iOSWorkflows)
-- [GoodAppBuilder - Build iOS / Android And Kindle Apps Without Coding](http://goodappbuilder.com/?ref=producthunt#call_to_action)
+- [[http://goodappbuilder.com/?ref=producthunt#call_to_action|http://goodappbuilder.com/?ref=producthunt#call_to_action]]
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 - [handleOpenURL, Shared Interapp Communication on iOS](http://handleopenurl.com/)
 - [Happy New Year! — Momento](http://momentoapp.com/blog/2016/1/1/happy-new-year)
@@ -2817,7 +2817,7 @@
 - [Naville/WTFJH: iOS Security Runtime Inspection](https://github.com/Naville/WTFJH)
 - [ninoseki/mitaka: A browser extension for OSINT search](https://github.com/ninoseki/mitaka)
 - [No Man's Sky's day-one patch dramatically builds out and changes the entire game | Polygon](http://www.polygon.com/2016/8/7/12397380/no-mans-sky-day-one-patch)
-- [Notes with New Text File with Tag 4.0 (nvALT, direct paste, new file in Finder and more) - Share your Workflows - Alfred App Community Forum](http://www.alfredforum.com/topic/719-notes-with-new-text-file-with-tag-40-nvalt-direct-paste-new-file-in-finder-and-more)
+- [[nvALT, direct paste, new file in Finder and more) - Share your Workflows - Alfred App Community Forum](http://www.alfredforum.com/topic/719-notes-with-new-text-file-with-tag-40-nvalt-direct-paste-new-file-in-finder-and-more|Notes with New Text File with Tag 4.0 (nvALT, direct paste, new file in Finder and more) - Share your Workflows - Alfred App Community Forum]]
 - [openURL Deprecated in iOS10](http://useyourloaf.com/blog/openurl-deprecated-in-ios10)
 - [Optional Multi-selection Project](https://workflow.is/workflows/ca489f29ea45491e8bc24e7f7ddf85dc)
 - [OSINT for Hackers](https://hakin9.org/download/osint-for-hackers)
@@ -2834,10 +2834,10 @@
 - [Share your Workflows - Alfred App Community Forum](http://www.alfredforum.com/forum/3-share-your-workflows?_fromLogin=1)
 - [Slogger with Day One 2 - BrettTerpstra.com](http://brettterpstra.com/2016/02/04/slogger-with-day-one-2)
 - [Some General Purpose Editorial Workflows and Suggestions](http://www.macdrifter.com/2015/06/some-general-purpose-editorial-workflows-and-suggestions.html)
-- [System of Record Part 2: Workflow Apps and Third Party Ecosystems – Point Nine Land – Medium](https://medium.com/point-nine-news/system-of-record-part-2-workflow-apps-and-third-party-ecosystems-fb3ab19824dc#.o229b2wgq)
-- [System requirements for Continuity on Mac, iPhone, iPad, iPod touch, and Apple Watch - Apple Support](https://support.apple.com/en-us/HT204689#handoff)
+- [[https://medium.com/point-nine-news/system-of-record-part-2-workflow-apps-and-third-party-ecosystems-fb3ab19824dc#.o229b2wgq|https://medium.com/point-nine-news/system-of-record-part-2-workflow-apps-and-third-party-ecosystems-fb3ab19824dc#.o229b2wgq]]
+- [[https://support.apple.com/en-us/HT204689#handoff|https://support.apple.com/en-us/HT204689#handoff]]
 - [Templates — Momento](http://momentoapp.com/templates)
-- [Terminal codes (ANSI/VT100) introduction [Bash Hackers Wiki]](http://wiki.bash-hackers.org/scripting/terminalcodes)
+- [[ANSI/VT100) introduction [Bash Hackers Wiki|ANSI/VT100) introduction [Bash Hackers Wiki]](http://wiki.bash-hackers.org/scripting/terminalcodes|Terminal codes (ANSI/VT100) introduction [Bash Hackers Wiki]]
 - [The 20 Best Time-Tracking Apps](https://zapier.com/blog/best-time-tracking-apps)
 - [The All New DEVONthink To Go for iOS](http://www.macdrifter.com/2016/09/the-all-new-devonthink-to-go-for-ios.html)
 - [The best apps. Better together. - Zapier - Zapier](https://zapier.com/)
@@ -2892,7 +2892,7 @@
 - [Send Sleuth](https://workspace.google.com/marketplace/app/send_sleuth_email_verification_validatio/316077168209?ref=producthunt)
 - [Sharrings](https://sharrin.gs/?ref=producthunt)
 - [snappify](https://snappify.io/?ref=producthunt)
-- [Stats.fm (formerly Spotistats)](https://stats.fm/?ref=producthunt)
+- [[formerly Spotistats)](https://stats.fm/?ref=producthunt|Stats.fm (formerly Spotistats)]]
 - [System](https://www.system.com/graph)
 - [System](https://www.system.com/?ref=producthunt)
 - [Teller](https://github.com/SpectralOps/teller?ref=producthunt)
