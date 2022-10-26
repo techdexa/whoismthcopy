@@ -302,7 +302,7 @@
 - [URL Extractor - Free Online URL Extractor Tool](https://www.bulkdachecker.com/url-extractor/)
 - [URL Parse API](https://urlparse.com/?ref=producthunt)
 - [URLhaus](https://urlhaus.abuse.ch/browse)
-- [[qpblaze) | RapidAPI](https://rapidapi.com/qpblaze/api/website-metadata]]
+- [qpblaze) | RapidAPI](https://rapidapi.com/qpblaze/api/website-metadata)
 - [Websites change. Perma Links don't.](https://perma.cc/)
 - [winhtaikaung/react-tiny-link: Convert your links into rich previews](https://github.com/winhtaikaung/react-tiny-link)
 - [Alohabrowser.com](https://alohabrowser.com/)
