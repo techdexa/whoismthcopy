@@ -18,7 +18,11 @@
 - [r/programminghelp - How to convert facebook messages to csv after downloading to html](https://www.reddit.com/r/programminghelp/comments/9yg9b5/how_to_convert_facebook_messages_to_csv_after/)
 - [Save the data in plain text files](https://kbroman.org/dataorg/pages/csv_files.html)
 - [View your instagram data in a spreadsheet](https://data.page/instagram-export)
-- [word-cloud](https://freesoft.dev/program/163022608)## Facebook
+- [word-cloud](https://freesoft.dev/program/163022608)
+
+
+
+## Facebook
 - [CrowdTangle Video Advanced Search](https://www.crowdtangle.com/videosearch)
 - [DownFacebook Video Downloader Data Extractor](http://www.downfacebook.com/)
 - [Essential Facebook Development Book](http://file.allitebooks.com/20150627/Essential%20Facebook%20Development.pdf)
