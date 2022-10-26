@@ -75,4 +75,6 @@
 - [Indie Hackers: Work Together to Build Profitable…](https://www.indiehackers.com/?ref=freeStuffDev)
 - [Nawvel](https://nawvel.com/discover)
 - [Reddit Favorites](https://redditfavorites.com/)
-- [The Devs Network](https://thedevs.network/)
+- [The Devs Network](https://thedevs.network/)## Communities
+- [PKMS • r/PKMS](https://reddit.com/r/PKMS)
+- [r/Zettelkasten - Let's build a list of Zettelkasten software!](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/)
