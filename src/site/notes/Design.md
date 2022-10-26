@@ -14,7 +14,7 @@
 - [Design Resources](https://designresources.io/?ref=producthunt)
 - [Design rocks](https://www.design.rocks/)
 - [https://www.appimagehub.com](https://www.appimagehub.com/)
-- [MEGA](https://mega.nz/#F!yDgHWILD!ZH3Z1Tdmv9S9R0-CVGOFVQ)
+- [[https://mega.nz/#F!yDgHWILD!ZH3Z1Tdmv9S9R0-CVGOFVQ|https://mega.nz/#F!yDgHWILD!ZH3Z1Tdmv9S9R0-CVGOFVQ]]
 - [Namecheap](https://www.namecheap.com/)
 - [One Drive](https://jia666-my.sharepoint.com/_layouts/15/Throttle.htm)
 - [Stock Photo and Image Portfolio by Andrew Derr](https://www.shutterstock.com/g/hirohideki)
@@ -39,7 +39,7 @@
 - [Font » Free Download Vector Stock Image Photoshop Icon](https://graphicex.com/font)
 - [Font Finder 🔎 by What Font Is](https://www.whatfontis.com/)
 - [Font generator](https://fsymbols.com/generators)
-- [Font Generator (Fancy text)](https://www.fontgeneratoronline.com/)
+- [[Fancy text)](https://www.fontgeneratoronline.com/|Font Generator (Fancy text)]]
 - [Font Library](https://fontlibrary.org/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [FontBase](https://fontba.se/)
@@ -72,7 +72,7 @@
 - [everyday icons](https://everydayicons.jp/)
 - [Feather.netlify.app](https://feather.netlify.app/)
 - [Flaticon](https://www.flaticon.com/)
-- [Free icon for free download about (16,944) Free icon. sort by newest first](https://all-free-download.com/free-icon)
+- [[16,944) Free icon. sort by newest first](https://all-free-download.com/free-icon|Free icon for free download about (16,944) Free icon. sort by newest first]]
 - [Free Icons & Vector Files](https://findicons.com/)
 - [Free Icons Download - 800+ Free Icon Sets for download](http://freeiconsdownload.com/)
 - [Free Icons free download, 6164 Free Icons](https://freedesignfile.com/category/free-icons)
@@ -96,13 +96,13 @@
 - [Artbreeder](https://artbreeder.com/)
 ## Logos
 - [Brands of the World™ | Download vector logos and logotypes](https://www.brandsoftheworld.com/)
-- [Company Logo Downloads - Vector Logos, Arms (AI, EPS, SVG, PNG )](http://www.logoeps.net/)
+- [[AI, EPS, SVG, PNG )](http://www.logoeps.net/|Company Logo Downloads - Vector Logos, Arms (AI, EPS, SVG, PNG )]]
 - [Logodownload.org](https://logodownload.org/)
 ## Mockup's
-- [1068+ Most-Popular Free Design Resources to Download (PSD, AI, SVG, PNG) - Medialoot](https://medialoot.com/free-resources)
+- [[PSD, AI, SVG, PNG) - Medialoot](https://medialoot.com/free-resources|1068+ Most-Popular Free Design Resources to Download (PSD, AI, SVG, PNG) - Medialoot]]
 - [CreativeBooster](https://creativebooster.net/)
 - [DB Freebies Design Resources from Behance and Dribbble](https://designerly.com/)
-- [Free Custom T-shirt Templates & Resources | Real Thread Custom T-Shirts](https://www.realthread.com/templates#apparel-templates)
+- [[https://www.realthread.com/templates#apparel-templates|https://www.realthread.com/templates#apparel-templates]]
 - [Free Graphics](https://www.pixeden.com/free-graphics)
 - [Free Mockup Templates on Pixelbuddha](https://pixelbuddha.net/mockups)
 - [Free PSD](https://uispace.net/free-psd)
@@ -140,7 +140,7 @@
 - [Free HD stock footage](https://vimeo.com/groups/freehd)
 - [Free stock videos · Pexels Videos](https://www.pexels.com/videos)
 - [General Footage](https://www.beachfrontbroll.com/p/general-stock-video.html)
-- [Mazwai](https://mazwai.com/#/grid)
+- [[https://mazwai.com/#/grid|https://mazwai.com/#/grid]]
 - [mixkit.co](https://mixkit.co/free-stock-video)
 - [Motionplaces.com](https://www.motionplaces.com/)
 - [movietools.info/](https://movietools.info/)
@@ -165,7 +165,7 @@
 - [Free Design Resources : Vector : Psd : Icons | Graphichive.Net](https://graphichive.net/)
 - [Free Print Templates - Graphic Design - Stock Vectors - Web Design Elements](https://graphicflux.com/)
 - [Freepik](https://br.freepik.com/)
-- [goabstract/Awesome-Design-Tools: The best design tools and plugins for everything 👉](https://github.com/goabstract/Awesome-Design-Tools#stock-videos)
+- [[https://github.com/goabstract/Awesome-Design-Tools#stock-videos|https://github.com/goabstract/Awesome-Design-Tools#stock-videos]]
 - [Graphic4share.com - Download Graphic for Free vectors, photoshop, icons, fonts, templates, software, tutorials, design, images, stock photos, wallpapers, magazines, e-books, wordpress themes, joomla](https://graphic4share.com/)
 - [GraphicBurger](https://graphicburger.com/)
 - [Graphicsfamily.com](https://graphicsfamily.com/)
@@ -222,7 +222,7 @@
 - [www.lifeofvids.com/](https://www.lifeofvids.com/)
 #### Shooting and Editing Tools
 - [3d animation software | Learn how to make animations | Moviestorm for filmmakers](https://www.moviestorm.co.uk/)
-- [Altru- (paid employer brand video service)](https://www.altrulabs.com/)
+- [[paid employer brand video service)](https://www.altrulabs.com/|Altru- (paid employer brand video service)]]
 - [DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve)
 - [HitFilm Express: Free editing & VFX software](https://fxhome.com/hitfilm-express)
 - [iMovie](https://www.apple.com/imovie)
@@ -256,7 +256,7 @@
 - [NewTubers](https://www.reddit.com/r/NewTubers)
 - [r/videography](https://www.reddit.com/r/videography)
 - [The DV Info Net Forum](https://www.dvinfo.net/forum)
-- [Video Editing (non professionals)](https://www.reddit.com/r/VideoEditing)
+- [[non professionals)](https://www.reddit.com/r/VideoEditing|Video Editing (non professionals)]]
 - [Video Editing Community](https://discordapp.com/invite/9WhN8bp)
 - [Video Editing Forums: Digital Director](https://www.videoforums.co.uk/)
 #### Video Hosting Platforms
@@ -373,11 +373,11 @@
 - [Free high-quality stock photos for your inspiration](https://magdeleine.co/browse)
 - [Free High-Resolution Stock Photos - ISO Republic](https://isorepublic.com/photos)
 - [Free Photos](https://www.goodfreephotos.com/)
-- [Free Photos (CC0) - AltPhotos](https://altphotos.com/)
+- [[CC0) - AltPhotos](https://altphotos.com/|Free Photos (CC0) - AltPhotos]]
 - [Free Stock Photos - Canva](https://www.canva.com/photos/free)
 - [Free Stock Photos & Images](https://www.dreamstime.com/free-photos)
 - [FREE Stock Photos & Royalty Free Images for Commercial Use](https://pikwizard.com/video)
-- [Free stock photos for free download about (105,587) Free stock photos. sort by newest first](https://all-free-download.com/free-photos)
+- [[105,587) Free stock photos. sort by newest first](https://all-free-download.com/free-photos|Free stock photos for free download about (105,587) Free stock photos. sort by newest first]]
 - [Free Stock Photos, Images, Illustrations & Vectors for any use](https://picspree.com/en)
 - [Free Stock Photos: High-Res Images for Websites & Commercial Use](https://burst.shopify.com/)
 - [FreeDigitalPhotos.net](https://www.freedigitalphotos.net/)
@@ -408,7 +408,7 @@
 - [Stock Photo Downloader](https://getpaidstock.com/)
 - [Stock Photos - GFXMountain.net](https://gfxmountain.com/stock-photos)
 - [Stockpic](https://stokpic.com/)
-- [StockSnap.io - Beautiful Free Stock Photos (CC0)](https://stocksnap.io/)
+- [[CC0)](https://stocksnap.io/|StockSnap.io - Beautiful Free Stock Photos (CC0)]]
 - [Stockvault](https://www.stockvault.net/)
 - [The Art Institute of Chicago](https://www.artic.edu/)
 - [The Library of Congress’s albums](https://www.flickr.com/photos/library_of_congress/albums)
@@ -488,7 +488,7 @@
 - [Home - Canva](https://www.canva.com/)
 - [https://all3dp.com/1/free-3d-models-download-best-sites-3d-archive-3d/](https://all3dp.com/1/free-3d-models-download-best-sites-3d-archive-3d)
 - [Liu zishan | photographer,illustrator - abstract, backgrounds, design, fine_art, vectors Photos and Images | Shutterstock](https://www.shutterstock.com/g/Liu+zishan/about)
-- [Miscellaneous (Multimedia & Design Materials) [p. 1] :: Programs and Design :: RuTracker.org](https://rutracker.org/forum/viewforum.php?f=835)
+- [[Multimedia & Design Materials) [p. 1] :: Programs and Design :: RuTracker.org](https://rutracker.org/forum/viewforum.php?f=835|Miscellaneous (Multimedia & Design Materials) [p. 1]]
 - [NEH](https://vip.neh.tw/u/dustinsm75234/fullsize)
 - [NEH](https://vip.neh.tw/u/dustinsm75234/welcome)
 - [Official Vector Clip Art Collections [p. 1] :: Programs and Design :: RuTracker.org](https://rutracker.org/forum/viewforum.php?f=890)
