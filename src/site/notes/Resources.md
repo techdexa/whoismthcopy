@@ -32,7 +32,7 @@
 - [Developer Toolbox](https://developertoolbox.app/?ref=producthunt)
 - [devSwag](https://devswag.io/)
 - [Free Developer Stuff](https://freestuff.dev/)
-- [Free for developers](https://free-for.dev/#/)
+- [[https://free-for.dev/#/|https://free-for.dev/#/]]
 - [ProductSearch](https://productsearch.help/)
 - [Small Dev tools useful for all developers](https://smalldev.tools/)
 - [Web Hosting Discussion Forums, Tutorials, Reviews & Services](https://forumweb.hosting/)
@@ -69,7 +69,7 @@
 ### Cheetsheet
 - [1541 Programming Cheat Sheets - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/programming/)
 - [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)
-- [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](https://www.bigocheatsheet.com/)
+- [[Know Thy Complexities!) @ericdrowell](https://www.bigocheatsheet.com/|Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell]]
 - [Cheatsheets - roy4801's cheatsheet](https://docs.roy4801.tw/cheatsheets)
 - [cppreference.com](https://en.cppreference.com/w)
 - [Devhints — TL;DR for developer documentation](https://devhints.io/)
@@ -119,7 +119,7 @@
 - [Master Keyboard Shortcuts with KeyCombiner](https://keycombiner.com/)
 - [mhinz/vim-galore: All things Vim!](https://github.com/mhinz/vim-galore)
 - [Org Mode tools!](https://orgmode.org/worg/org-tools/index.html)
-- [Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development — Smashing Magazine](https://www.smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/)
+- [[CLI) Tools For Modern Web Development — Smashing Magazine](https://www.smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/|Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development — Smashing Magazine]]
 - [Quanta Magazine | Science and Math News](https://www.quantamagazine.org/)
 - [Regex Learn - Step by step, from zero to advanced.](https://regexlearn.com/)
 - [showthedocs](http://showthedocs.com/)
@@ -131,7 +131,7 @@
 - [Want to learn about git and GitHub in a more fun way?](https://dev.to/)
 - [Where Vim Came From](https://twobithistory.org/2018/08/05/where-vim-came-from.html)
 ## WP Resources
-- [(1) WP Webcreator | Facebook](https://www.facebook.com/wpwebcreator)
+- [[1) WP Webcreator | Facebook](https://www.facebook.com/wpwebcreator]]
 - [#1 Ecommerce Website Builder: Create an Ecommerce Site | Elementor](https://elementor.com/features/ecommerce/)
 - [💬1 - Elementor Elements Demo | Essential Addons for Elementor](https://essential-addons.com/elementor/demos/)
 - [🤖 ChatBot | AI Chat Bot Software for Your Website](https://www.chatbot.com/)
@@ -153,10 +153,10 @@
 - [Agency Tools for Oxygen](https://oxyagency.tools/)
 - [All Demos – Qi Theme](https://qodeinteractive.com/qi-theme/all-demos/)
 - [All Tools for Web Creators - WP WebCreator](https://wpwebcreator.com/all-tools-for-web-creators/)
-- [All Tools for Web Creators - WP WebCreator](https://wpwebcreator.com/all-tools-for-web-creators/#content)
+- [[https://wpwebcreator.com/all-tools-for-web-creators/#content|https://wpwebcreator.com/all-tools-for-web-creators/#content]]
 - [All Widgets – Qi Addons for Elementor](https://qodeinteractive.com/qi-addons-for-elementor/all-widgets/)
 - [All-in-One WP Migration plugin | ServMask Inc.](https://servmask.com/)
-- [Analytics](https://analytics.google.com/analytics/web/#/report-home/a109548942w163533716p164388881)
+- [[https://analytics.google.com/analytics/web/#/report-home/a109548942w163533716p164388881|https://analytics.google.com/analytics/web/#/report-home/a109548942w163533716p164388881]]
 - [Animator for Framer](https://animator.page/)
 - [AnyWebP | WebP to JPG/PNG Online | No Uploading](https://anywebp.com/)
 - [AnyWhere Elementor Pro - Global Post Layouts | Taxonomy Archive Layouts](https://www.elementoraddons.com/anywhere-elementor-pro/)
@@ -172,7 +172,7 @@
 - [Before After - Dynamic.ooo - Dynamic Content for Elementor - Addons](https://www.dynamic.ooo/widget/before-after/)
 - [Best Templates for Elementor [Free and Paid] - ElementsKit](https://wpmet.com/plugin/elementskit/all-layouts/)
 - [Bew Blocks | BriefcaseWP](https://www.briefcasewp.com/bew-blocks/)
-- [BIRME - Bulk Image Resizing Made Easy 2.0 (Online & Free)](https://www.birme.net/)
+- [[Online & Free)](https://www.birme.net/|BIRME - Bulk Image Resizing Made Easy 2.0 (Online & Free)]]
 - [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
 - [Blobmixer](https://blobmixer.14islands.com/)
 - [Blocks - AinoBlocks](https://ainoblocks.io/blocks/)
@@ -195,12 +195,12 @@
 - [Clipdrop: Remove the background of images for free with incredible accuracy](https://clipdrop.co/remove-background)
 - [Cloudflare - The Web Performance & Security Company | Cloudflare](https://www.cloudflare.com/)
 - [Code Snippets](https://codesnippets.pro/)
-- [CoDesigner (Woolementor) - Best Elementor WooCommerce Builder - Codexpert](https://codexpert.io/codesigner/)
+- [[Woolementor) - Best Elementor WooCommerce Builder - Codexpert](https://codexpert.io/codesigner/|CoDesigner (Woolementor) - Best Elementor WooCommerce Builder - Codexpert]]
 - [Color Scales | Components AI](https://components.ai/color-scale/eXAy1cuvwyZkVD50gvpy)
 - [Color Shades Generator](https://www.crispedge.com/color-shades-generator/)
 - [Components AI — A new way to explore generative design systems](https://components.ai/)
 - [Compress Image Online | compressImage.io](https://compressimage.io/)
-- [Content Delivery Network (CDN) | CDN77.com](https://www.cdn77.com/)
+- [[CDN) | CDN77.com](https://www.cdn77.com/]]
 - [ConvertKit: The creator marketing platform](https://convertkit.com/)
 - [Craft CMS](https://craftcms.com/)
 - [CSS mesh gradients generator: Mesher Tool by CSS Hero](https://csshero.org/mesher/)
@@ -215,7 +215,7 @@
 - [Designstripe | Crayon](https://designstripe.com/crayon)
 - [designstripe | Create & customize beautiful illustrations](https://designstripe.com/)
 - [Discover and share the world's best photos / 500px](https://500px.com/)
-- [Download 1,123,600 free icons (SVG, PNG)](https://icons8.com/icons)
+- [[SVG, PNG)](https://icons8.com/icons|Download 1,123,600 free icons (SVG, PNG)]]
 - [Download 3D Illustrations - 71,000+ Free & Premium in PNG, BLEND | IconScout](https://iconscout.com/3ds)
 - [Download Lottie Animations - 42,000+ Free & Premium in GIF, JSON | IconScout](https://iconscout.com/lotties)
 - [Draw Freely | Inkscape](https://inkscape.org/)
@@ -255,7 +255,7 @@
 - [Fastly | The edge cloud platform behind the best of the web | Fastly](https://www.fastly.com/)
 - [Features - Dynamic.ooo - Dynamic Content for Elementor - Addons](https://www.dynamic.ooo/features/)
 - [Features - Nexter WP](https://nexterwp.com/features/)
-- [FiboSearch (formerly AJAX Search for WooCommerce)](https://fibosearch.com/)
+- [[formerly AJAX Search for WooCommerce)](https://fibosearch.com/|FiboSearch (formerly AJAX Search for WooCommerce)]]
 - [Figma: the collaborative interface design tool.](https://www.figma.com/)
 - [Firefox Screenshots](https://screenshots.firefox.com/)
 - [Fluid Engine – Drag and Drop Website Editor – Squarespace](https://www.squarespace.com/websites/fluid-engine)
@@ -267,7 +267,7 @@
 - [Free Background Image Remover: Remove BG from HD Images Online - Erase.bg](https://www.erase.bg/)
 - [Free Elementor Widgets & Addons | Premium Addons for Elementor](https://premiumaddons.com/)
 - [Free Online Photo & Design Tool | Adobe Express](https://www.adobe.com/express/)
-- [Free Online Video Editor & Maker (Drag-and-drop editing) | Canva](https://www.canva.com/video-editor/)
+- [[Drag-and-drop editing) | Canva](https://www.canva.com/video-editor/]]
 - [Free Online Whiteboard For Team Collaboration | InVision](https://www.invisionapp.com/freehand)
 - [Free open source icons, illustrations, emojis and graphics - Iconduck](https://iconduck.com/)
 - [Free Stock Photos – Beautiful Pictures of People & Fun](https://icons8.com/photos)
@@ -342,7 +342,7 @@
 - [Library - Mighty Themes](https://mightythemes.com/mighty-addons/library/)
 - [Lighthouse: Optimize website speed - Chrome Developers](https://developer.chrome.com/docs/devtools/speed/get-started/)
 - [List of all Elementor addons and widgets - WP WebCreator](https://wpwebcreator.com/elementor-addons/)
-- [Low-Latency Content Delivery Network (CDN) - Amazon CloudFront - Amazon Web Services](https://aws.amazon.com/cloudfront/)
+- [[CDN) - Amazon CloudFront - Amazon Web Services](https://aws.amazon.com/cloudfront/|Low-Latency Content Delivery Network (CDN) - Amazon CloudFront - Amazon Web Services]]
 - [Master Addons | Forefront Elements for Elementor](https://master-addons.com/)
 - [Material Symbols and Icons - Google Fonts](https://fonts.google.com/icons)
 - [Morflax shift - Convert 2D to 3D](https://studio.morflax.com/shift)
@@ -358,7 +358,7 @@
 - [Page Builder Cloud | The de facto Page Saver for Page Builders](https://pagebuildercloud.com/)
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 - [Photo Editor | BeFunky: Free Online Photo Editing and Collage Maker](https://www.befunky.com/)
-- [Piotnet Addons For Elementor (PAFE)](https://pafe.piotnet.com/)
+- [[PAFE)](https://pafe.piotnet.com/|Piotnet Addons For Elementor (PAFE)]]
 - [Plus Design | The Plus Addons for Elementor](https://theplusaddons.com/plus-design/)
 - [PlusWidgets | The Plus Addons for Elementor](https://theplusaddons.com/widgets/)
 - [Powerful Plugins Made Just For Figma](https://www.figma.com/community/plugins)
@@ -374,7 +374,7 @@
 - [PublishPress Blocks - the best Gutenberg blocks plugin](https://publishpress.com/blocks/)
 - [Ready Templates - Element Pack Pro](https://www.elementpack.pro/ready-templates/)
 - [Responsive Web Design | Website Creation | Editor X](https://www.editorx.com/)
-- [Roboto Flex - Google Fonts](https://fonts.google.com/specimen/Roboto+Flex#type-tester)
+- [[https://fonts.google.com/specimen/Roboto+Flex#type-tester|https://fonts.google.com/specimen/Roboto+Flex#type-tester]]
 - [Run Mobile Test or Cross-Device Test | Blisk](https://blisk.io/)
 - [ShopEngine: Most Complete WooCommerce Solution for Elementor](https://wpmet.com/plugin/shopengine/)
 - [Simvoly Website, Funnel And Store Builder | All-in-One Platform](https://simvoly.com/)
@@ -403,7 +403,7 @@
 - [Visual Editing | CloudCannon](https://cloudcannon.com/features/visual-editing/)
 - [Visually Create Custom Gutenberg Blocks with Drag & Drop - Oxygen](https://oxygenbuilder.com/tour/gutenberg/)
 - [Website Browsers Test | Comparium](https://comparium.app/)
-- [What's New In DevTools (Chrome 59) - Chrome Developers](https://developer.chrome.com/blog/new-in-devtools-59/#screenshots)
+- [[https://developer.chrome.com/blog/new-in-devtools-59/#screenshots|https://developer.chrome.com/blog/new-in-devtools-59/#screenshots]]
 - [WidgetKit For Elementor The Most Powerful Elementor Addons Kit](https://themesgrove.com/widgetkit-for-elementor/)
 - [Widgets - Mighty Themes](https://mightythemes.com/mighty-addons/widgets/)
 - [Woo Builder | The Plus Addons for Elementor](https://theplusaddons.com/woo-builder/)
@@ -411,9 +411,9 @@
 - [Woocommerce Blocks – Template Kit](https://demo.gutenify.com/bizup/woocommerce-blocks/)
 - [WooLentor: WooCommerce Page Builder Elementor Addon Plugin](https://woolentor.com/)
 - [Woostify - Free WooCommerce Themes for Boosting Sales](https://woostify.com/)
-- [WP Webcreator - Directory of everything for Web Creators](https://www.producthunt.com/products/wp-webcreator#wp-webcreator)
+- [[https://www.producthunt.com/products/wp-webcreator#wp-webcreator|https://www.producthunt.com/products/wp-webcreator#wp-webcreator]]
 - [WP WebCreator - Directory of everything for Web Creators](https://wpwebcreator.com/)
-- [WP WebCreator (@wpwebcreator) / Twitter](https://twitter.com/wpwebcreator)
+- [[@wpwebcreator) / Twitter](https://twitter.com/wpwebcreator|WP WebCreator (@wpwebcreator) / Twitter]]
 - [All Sites - Stack Exchange](https://stackexchange.com/sites)
 - [Aviyel | Projects](https://aviyel.com/projects)
 - [Awesome Guidelines](https://awesome-guidelines.com/)
@@ -443,7 +443,7 @@
 - [Exercism](https://exercism.org/)
 - [Explained Visually](https://setosa.io/ev/)
 - [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
-- [Fancy Font Generator](https://qwerty.dev/fancy-font-generator/#beautiful-dingbats)
+- [[https://qwerty.dev/fancy-font-generator/#beautiful-dingbats|https://qwerty.dev/fancy-font-generator/#beautiful-dingbats]]
 - [Find the best online Programming courses and Tutorials - Hackr.io](https://hackr.io/)
 - [Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python...](https://books.goalkicker.com/)
 - [Full Catalog](https://www.codecademy.com/catalog/all)
@@ -452,10 +452,10 @@
 - [Home - glot.io](https://glot.io/)
 - [Home Page - BoxCoding](https://avabucks.it/index.php?page=home&pageid=0009995002498750624)
 - [Introduction - Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
-- [javascript array create (Interactive Example)](https://www.quackit.com/html/html_editors/scratchpad/?example=/javascript/examples/javascript_array_create)
+- [[Interactive Example)](https://www.quackit.com/html/html_editors/scratchpad/?example=/javascript/examples/javascript_array_create|javascript array create (Interactive Example)]]
 - [JavaScript Event KeyCodes](https://keycode.info/)
 - [JavaScript Examples](https://www.quackit.com/javascript/examples/)
-- [javascript for in loop (Interactive Example)](https://www.quackit.com/html/html_editors/scratchpad/?example=/javascript/examples/javascript_for_in_loop)
+- [[Interactive Example)](https://www.quackit.com/html/html_editors/scratchpad/?example=/javascript/examples/javascript_for_in_loop|javascript for in loop (Interactive Example)]]
 - [Know it all](https://know-it-all.io/)
 - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
 - [LibHunt - Trending open-source projects and their alternatives](https://www.libhunt.com/)
@@ -469,7 +469,7 @@
 - [Pluralsight + Code School: Code Courses | Pluralsight](https://www.pluralsight.com/codeschool)
 - [React DevTools tutorial](https://react-devtools-tutorial.vercel.app/)
 - [SVG Viewer](https://www.svgviewer.dev/)
-- [the biggest directory of tools on the web (updated daily)](https://tools.et/)
+- [[updated daily)](https://tools.et/|the biggest directory of tools on the web (updated daily)]]
 - [Tikam02/DevOps-Guide at producthunt](https://github.com/Tikam02/DevOps-Guide?ref=producthunt)
 - [TopAnswers — Knowledge Communities](https://topanswers.xyz/)
 ---
