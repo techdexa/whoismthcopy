@@ -13,7 +13,7 @@
 - [BASE](https://www.base-search.net/)
 - [Citeseerx](https://citeseerx.ist.psu.edu/index;jsessionid=619038F42B97B7B14D3D7D1EF8BA289B)
 - [Copyscape Plagiarism Checker - Duplicate Content Detection Software](https://www.copyscape.com/)
-- [Crafton Hills College | CCC MyPath](https://www.cccmypath.org/uPortal/f/u7859l1s1000/normal/render.uP#session_state=fe5d7586-21c2-44e9-9e1b-19509decc737&code=24e56c0f-b3f4-4ef0-9b09-510b3f5e911d.fe5d7586-21c2-44e9-9e1b-19509decc737.1a9e2586-6f11-4403-8d0b-8f07b75d1ab8)
+- [[https://www.cccmypath.org/uPortal/f/u7859l1s1000/normal/render.uP#session_state=fe5d7586-21c2-44e9-9e1b-19509decc737&code=24e56c0f-b3f4-4ef0-9b09-510b3f5e911d.fe5d7586-21c2-44e9-9e1b-19509decc737.1a9e2586-6f11-4403-8d0b-8f07b75d1ab8|https://www.cccmypath.org/uPortal/f/u7859l1s1000/normal/render.uP#session_state=fe5d7586-21c2-44e9-9e1b-19509decc737&code=24e56c0f-b3f4-4ef0-9b09-510b3f5e911d.fe5d7586-21c2-44e9-9e1b-19509decc737.1a9e2586-6f11-4403-8d0b-8f07b75d1ab8]]
 - [Dimensions](https://app.dimensions.ai/discover/publication)
 - [Free Online Legal Research | Lexis® Web](http://lexisweb.com/)
 - [Google Colaboratory](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)
@@ -38,7 +38,7 @@
 ## Academic and Grey Literature Research Tools
 - [A-Z Databases](https://guides.uflib.ufl.edu/az.php)
 - [Academic Journals](https://www.academicjournals.org/)
-- [African Journals Online (AJOL)](https://www.ajol.info/)
+- [[AJOL)](https://www.ajol.info/|African Journals Online (AJOL)]]
 - [ASCE Library](https://ascelibrary.org/)
 - [Biosearch.berkeley.edu](https://biosearch.berkeley.edu/)
 - [citeseer.ist.psu.edu/](https://citeseer.ist.psu.edu/)
@@ -51,16 +51,16 @@
 - [Greynet.org](https://www.greynet.org/)
 - [Ispybio.com](https://www.ispybio.com/)
 - [LibGuides Community](https://community.libguides.com/)
-- [Library (Getty Research Institute)](https://www.getty.edu/research/library)
+- [[Getty Research Institute)](https://www.getty.edu/research/library|Library (Getty Research Institute)]]
 - [Loadb.org](https://www.loadb.org/)
-- [Open Access Journals Search Engine (OAJSE) : Social Sciences](https://oajse.com/subjects/social_sciences.html)
+- [[OAJSE) : Social Sciences](https://oajse.com/subjects/social_sciences.html|Open Access Journals Search Engine (OAJSE) : Social Sciences]]
 - [Research Guides: Gray Literature: Gray Literature](https://csulb.libguides.com/graylit)
 - [Research.omicsgroup.org](https://research.omicsgroup.org/)
 ## Adderall
 - [“Adderall is Definitely Not a Drug”: Justifications for the Illegal Use of ADHD Stimulants](http://www.tandfonline.com/doi/full/10.3109/10826080902858334)
 - [A randomized double-blind trial of paroxetine and/or dextroamphetamine and problem-focused therapy for attention-deficit/hyperactivity disorder in adults - PubMed](https://pubmed.ncbi.nlm.nih.gov/16669726/)
 - [ADDERALL INDUCED DILATED CARDIOMYOPATHY IN AN ADULT MALE WITH ADHD](https://linkinghub.elsevier.com/retrieve/pii/S0735109721036809)
-- [Adderall® (Amphetamine-Dextroamphetamine) Toxicity](https://linkinghub.elsevier.com/retrieve/pii/S193897361300024X)
+- [[Amphetamine-Dextroamphetamine) Toxicity](https://linkinghub.elsevier.com/retrieve/pii/S193897361300024X|Adderall® (Amphetamine-Dextroamphetamine) Toxicity]]
 - [Adult ADHD Medications and Their Cardiovascular Implications](http://www.hindawi.com/journals/cric/2016/2343691)
 - [Amph](https://cdn.preterhuman.net/texts/drugs/amph.fun)
 - [Amphetam](https://cdn.preterhuman.net/texts/drugs/amphetam)
@@ -79,7 +79,7 @@
 - [Effectiveness and Tolerability of Tomoxetine in Adults With Attention Deficit Hyperactivity Disorder](http://psychiatryonline.org/doi/abs/10.1176/ajp.155.5.693)
 - [Efficacy and Safety of Dexmethylphenidate Extended-Release Capsules in Adults with Attention-Deficit/Hyperactivity Disorder](https://linkinghub.elsevier.com/retrieve/pii/S0006322306009541)
 - [Efficacy and safety of dexmethylphenidate extended-release capsules in adults with attention-deficit/hyperactivity disorder - PubMed](https://pubmed.ncbi.nlm.nih.gov/17137560/)
-- [Efficacy and safety of mixed amphetamine salts extended release (adderall XR) in the management of attention-deficit/hyperactivity disorder in adolescent patients: A 4-week, randomized, double-blind, placebo-controlled, parallel-group study](https://linkinghub.elsevier.com/retrieve/pii/S0149291806000518)
+- [[adderall XR) in the management of attention-deficit/hyperactivity disorder in adolescent patients: A 4-week, randomized, double-blind, placebo-controlled, parallel-group study](https://linkinghub.elsevier.com/retrieve/pii/S0149291806000518|Efficacy and safety of mixed amphetamine salts extended release (adderall XR) in the management of attention-deficit/hyperactivity disorder in adolescent patients: A 4-week, randomized, double-blind, placebo-controlled, parallel-group study]]
 - [Efficacy of a Mixed Amphetamine Salts Compound in Adults With Attention-Deficit/Hyperactivity Disorder](http://archpsyc.jamanetwork.com/article.aspx?doi=10.1001%2Farchpsyc.58.8.775)
 - [Efficacy of Adderall and methylphenidate in attention deficit hyperactivity disorder: a drug–placebo and drug–drug response curve analysis of a naturalistic study](https://academic.oup.com/ijnp/article-lookup/doi/10.1017/S1461145702002845)
 - [Efficacy of Modafinil Compared to Dextroamphetamine for the Treatment of Attention Deficit Hyperactivity Disorder in Adults](http://www.liebertpub.com/doi/10.1089/cap.2000.10.311)
@@ -103,7 +103,7 @@
 - [The Effects of Amphetamine and Methamphetamine on the Release of Norepinephrine, Dopamine and Acetylcholine From the Brainstem Reticular Formation](https://www.frontiersin.org/article/10.3389/fnana.2019.00048/full)
 - [The Neuropsychology of Amphetamine and Opiate Dependence: Implications for Treatment](http://link.springer.com/10.1007/s11065-007-9033-y)
 - [The pharmacology of amphetamine and methylphenidate: Relevance to the neurobiology of attention-deficit/hyperactivity disorder and other psychiatric comorbidities](https://linkinghub.elsevier.com/retrieve/pii/S0149763417308072)
-- [The ugly side of amphetamines: short- and long-term toxicity of 3,4-methylenedioxymethamphetamine (MDMA, ‘Ecstasy’), methamphetamine and d-amphetamine](https://www.degruyter.com/document/doi/10.1515/bc.2011.016/html)
+- [[MDMA, ‘Ecstasy’), methamphetamine and d-amphetamine](https://www.degruyter.com/document/doi/10.1515/bc.2011.016/html|The ugly side of amphetamines: short- and long-term toxicity of 3,4-methylenedioxymethamphetamine (MDMA, ‘Ecstasy’), methamphetamine and d-amphetamine]]
 - [Toxicity of amphetamines: an update](http://link.springer.com/10.1007/s00204-012-0815-5)
 - [Toxicity of amphetamines: an update - PubMed](https://pubmed.ncbi.nlm.nih.gov/22392347/)
 - [Treatment for amphetamine withdrawal](https://doi.wiley.com/10.1002/14651858.CD003021.pub2)
@@ -164,7 +164,7 @@
 - [FreeFullPDF](https://freefullpdf.com/)
 - [GitHub - alephdata/aleph: Search and browse documents and data; find the people and companies you look for.](https://github.com/alephdata/aleph)
 - [GitHub - gchenfc/sci-hub-now: Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅](https://github.com/gchenfc/sci-hub-now)
-- [GitHub - IDEACVR/awesome-detection-transformer: Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)](https://github.com/ideacvr/awesome-detection-transformer)
+- [[CV)](https://github.com/ideacvr/awesome-detection-transformer|GitHub - IDEACVR/awesome-detection-transformer: Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)]]
 - [GitHub - papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love)
 - [Global ETD Search](http://search.ndltd.org/)
 - [Google Scholar](https://scholar.google.com/)
@@ -176,7 +176,7 @@
 - [Home | National Security Archive](https://nsarchive.gwu.edu/)
 - [Home | Open Payments Data - CMS](https://openpaymentsdata.cms.gov/)
 - [Home Page](https://datacatalog.worldbank.org/)
-- [How to Use Sci-Hub to download PDF (Full Text) with Zotero](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7)
+- [[Full Text) with Zotero](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7|How to Use Sci-Hub to download PDF (Full Text) with Zotero]]
 - [http://www.bioline.org.br/](http://www.bioline.org.br/)
 - [https://archives.parliament.uk/](https://archives.parliament.uk/)
 - [https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0](https://cse.google.com/cse?cx=000013508089310229747%3Aqf70z1tyrs0)
@@ -194,7 +194,7 @@
 - [MDPI - Publisher of Open Access Journals](https://www.mdpi.com/)
 - [Mendeley - Reference Management Software](https://www.mendeley.com/)
 - [Mendeley Data](https://data.mendeley.com/)
-- [Open Access Library (OALib)](https://www.oalib.com/)
+- [[OALib)](https://www.oalib.com/|Open Access Library (OALib)]]
 - [OpenAIRE | Find and Share research](https://explore.openaire.eu/)
 - [OpenMD.com Health Search Engine](https://openmd.com/)
 - [PANDORA Web Archive](http://pandora.nla.gov.au/)
@@ -209,7 +209,7 @@
 - [Sci-Hub](https://t.me/freescience)
 - [Sci-Hub](https://t.me/scihubot)
 - [Sci-Hub | Открытый доступ к научной информации](https://vk.com/sci_hub)
-- [Sci-Hub Scholar – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-us/firefox/addon/sci-hub-scholar)
+- [[en-US)](https://addons.mozilla.org/en-us/firefox/addon/sci-hub-scholar|Sci-Hub Scholar – Get this Extension for 🦊 Firefox (en-US)]]
 - [Sci-Hub: common ownership of the means of production,free access to articles of consumption](https://sci-hub.se/)
 - [Science.gov: USA.gov for Science - Government Science Portal](https://www.science.gov/)
 - [Scinapse | Academic search engine for paper](https://scinapse.io/)
@@ -248,14 +248,14 @@
 - [Passport Index](https://www.passportindex.org/)
 - [Search | International Court of Justice](https://www.icj-cij.org/en/advanced-search)
 ## Ebooks
-- [Audio Books Online Download, Free Unabridged Audiobook Torrent on AudioBook Bay (ABB)](https://audiobookbay.fi/)
+- [[ABB)](https://audiobookbay.fi/|Audio Books Online Download, Free Unabridged Audiobook Torrent on AudioBook Bay (ABB)]]
 - [BookStack](https://www.bookstackapp.com/)
 - [calibre - E-book management](https://calibre-ebook.com/)
 - [Download Free EBooks-Ebook777.com](https://www.ebooks777.net/)
 - [Download PDF magazines - Magazines Commumity!](https://downmagaz.net/)
 - [Ebook Search engine](https://cse.google.com/cse?cx=c46414ccb6a943e39)
 - [Ebookee: Free Download eBooks Search Engine!](https://ebookee.com/)
-- [Ebooks, Graphic Novels and Premiums](https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg)
+- [[https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg|https://mega.nz/folder/Z1dD2YSA#XRUa1Sj9mXJHU4rh1seykg]]
 - [Electronic library. Download books free. Finding books](https://b-ok.xyz/)
 - [Electronic library. Download books free. Finding books](https://b-ok.cc/)
 - [Electronic library. Download books free. Finding books](http://b-ok.xyz/)
@@ -263,7 +263,7 @@
 - [Free / Open Acess Online Computer Science Books, Textbooks, and Lecture Notes](https://www.freetechbooks.com/)
 - [Free eBooks Download - ebook3000.com](http://www.ebook3000.com/)
 - [GitHub - janeczku/calibre-web: Web app for browsing, reading and downloading eBooks stored in a Calibre database](https://github.com/janeczku/calibre-web)
-- [GitHub - seblucas/cops: Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)](https://github.com/seblucas/cops)
+- [[and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)](https://github.com/seblucas/cops|GitHub - seblucas/cops: Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)]]
 - [Home - Ubooquity](http://vaemendis.net/ubooquity)
 - [https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco](https://cse.google.com/cse?cx=000661023013169144559%3Aa1-kkiboeco)
 - [Index of /public/Books/](https://the-eye.eu/public/Books/)
@@ -276,7 +276,7 @@
 - [PDF Drive - Search and download PDF files for free.](http://pdfdrive.com/)
 - [r/Piracy - Guide to Copy Kindle Content to PDF using Calibre [UPDATED]](https://www.reddit.com/r/piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre)
 - [r/Piracy - Guide: The idiot proof guide to downloading ebooks off IRC. With Pictures and everything!](https://www.reddit.com/r/piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks)
-- [Rave Book Search](https://ravebooksearch.com/#gsc.tab=0)
+- [[https://ravebooksearch.com/#gsc.tab=0|https://ravebooksearch.com/#gsc.tab=0]]
 - [Read Books Online - Free Novels Online - Novels80](https://novels80.com/)
 - [Z-lib.org](https://z-lib.org/)
 ## EDU
@@ -318,7 +318,7 @@
 - [Free PLR Downloads | Download Free PLR & MRR Products](https://freeplrdownloads.com/)
 - [GitHub - learn-anything/books: Awesome Books](https://github.com/learn-anything/books)
 - [GitHub - mytechnotalent/Reverse-Engineering: A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.](https://github.com/mytechnotalent/reverse-engineering-tutorial)
-- [GitHub - owainlewis/awesome-artificial-intelligence: A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)
+- [[https://github.com/owainlewis/awesome-artificial-intelligence#free-content|https://github.com/owainlewis/awesome-artificial-intelligence#free-content]]
 - [Google Colaboratory Notebooks and Repositories](https://github.com/firmai/awesome-google-colab)
 - [Group selection](https://powerinbooks.xyz/temp)
 - [HathiTrust Digital Library | Millions of books online](https://www.hathitrust.org/)
@@ -349,7 +349,7 @@
 - [Medical Study Zone](https://medicalstudyzone.com/)
 - [medRxiv](https://www.medrxiv.org/)
 - [Memory of the World Library](https://library.memoryoftheworld.org/)
-- [Memory of the World Library](https://library.memoryoftheworld.org/#/books/)
+- [[https://library.memoryoftheworld.org/#/books/|https://library.memoryoftheworld.org/#/books/]]
 - [Monoskop Log](https://monoskop.org/log)
 - [My Knowledge Wiki | Everything I know](https://wiki.nikiv.dev/)
 - [Non-Fiction](https://vk.com/non_fic)
@@ -388,7 +388,7 @@
 - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
 - [The Online Books Page: Search](https://onlinebooks.library.upenn.edu/search.html)
 - [The Ultimate Guide to Virtual Museum Resources | MCN](https://mcn.edu/a-guide-to-virtual-museum-resources)
-- [tools-misc - freemediaheckyeah](https://www.reddit.com/r/freemediaheckyeah/wiki/tools-misc#wiki_.25b7_language_learning)
+- [[https://www.reddit.com/r/freemediaheckyeah/wiki/tools-misc#wiki_.25b7_language_learning|https://www.reddit.com/r/freemediaheckyeah/wiki/tools-misc#wiki_.25b7_language_learning]]
 - [Welcome to OpenDOAR - v2.sherpa](https://v2.sherpa.ac.uk/opendoar)
 - [Wikibooks](https://en.wikibooks.org/)
 - [Wikiversity](https://www.wikiversity.org/)
@@ -402,7 +402,7 @@
 - [Cambridge Dictionary | English Dictionary, Translations & Thesaurus](https://dictionary.cambridge.org/)
 - [Chat Word Dictionary - Chat Words, Texting Abbreviations, Emoticons, and their Meanings](https://chatworddictionary.com/)
 - [Check correct spelling and definitions at Spellorg.com](https://www.spellorg.com/)
-- [chucknorris-io/swear-words: 💩 Profanity means swear words. The adjective is 'profane'. Profanities can also be called curse ("cuss") words, dirty words, bad words, foul language, obscenity, obscene language, or expletives. It can be called swearing, although this also has a normal meaning of making a "solemn promise".](https://github.com/chucknorris-io/swear-words)
+- [["cuss") words, dirty words, bad words, foul language, obscenity, obscene language, or expletives. It can be called swearing, although this also has a normal meaning of making a "solemn promise".](https://github.com/chucknorris-io/swear-words|chucknorris-io/swear-words: 💩 Profanity means swear words. The adjective is 'profane'. Profanities can also be called curse ("cuss") words, dirty words, bad words, foul language, obscenity, obscene language, or expletives. It can be called swearing, although this also has a normal meaning of making a "solemn promise".]]
 - [Cryptocurrency Wiki - Blockchain Knowledge Base - Everipedia](https://everipedia.org/)
 - [Deletionpedia.org](https://deletionpedia.org/en/Main_Page)
 - [Describing Words - Find Adjectives to Describe Things](https://describingwords.io/)
@@ -459,7 +459,7 @@
 - [The Devil's Dictionary Dot-Com, Unabridged](http://www.thedevilsdictionary.com/)
 - [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/)
 - [The Idioms - Largest Idiom Dictionary](https://www.theidioms.com/)
-- [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](https://oeis.org/)
+- [[OEIS®)](https://oeis.org/|The On-Line Encyclopedia of Integer Sequences® (OEIS®)]]
 - [The Slang Dictionary - Slang.net](https://slang.net/)
 - [The Tech Terms Computer Dictionary](https://techterms.com/)
 - [Thinkmap Visual Thesaurus - An online thesaurus and dictionary of over 145,000 words that you explore using an interactive map.](https://www.visualthesaurus.com/)
@@ -501,10 +501,10 @@
 - [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](http://archive.org/)
 - [Los Angeles Times archive from 1881-2022](https://latimes.newspapers.com/)
 - [Magazines & Newspapers | Mobilism](https://forum.mobilism.org/viewforum.php?f=123)
-- [Newspaper Archives/Indexes/Morgues - Newspaper and Current Periodical Reading Room (Serial and Government Publications Division, Library of Congress)](https://www.loc.gov/rr/news/oltitles.html)
+- [[Serial and Government Publications Division, Library of Congress)](https://www.loc.gov/rr/news/oltitles.html|Newspaper Archives/Indexes/Morgues - Newspaper and Current Periodical Reading Room (Serial and Government Publications Division, Library of Congress)]]
 - [Newspaper Map](https://newspapermap.com/)
 - [Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers)
-- [storage - freemediaheckyeah](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_worldwide_news_sites_index)
+- [[https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_worldwide_news_sites_index|https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_worldwide_news_sites_index]]
 - [Where to Find Historical Newspapers Online for each US State](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 - [World Newspapers and Magazines on your Finger Tip | World-Newspapers.com](https://world-newspapers.com/)
 - [Газеты на английском/Newspapers English / FR /DE](https://vk.com/engnewspapers)
@@ -584,7 +584,7 @@
 - [CATMA – Computer Assisted Text Markup and Analysis](https://catma.de/)
 - [Cloud-based platform for biotech R&D | Benchling](https://www.benchling.com/)
 - [Clustermarket | Laboratory booking system for R&D labs](https://clustermarket.com/)
-- [convert web pages to Kindle (mobi), ePub, and PDF files. :: Txtpaper](https://txtpaper.com/)
+- [[mobi), ePub, and PDF files. :: Txtpaper](https://txtpaper.com/|convert web pages to Kindle (mobi), ePub, and PDF files. :: Txtpaper]]
 - [Course Club - Download Paid Courses For Free](https://courseclub.me/?1)
 - [Dimensions AI | The most advanced scientific research database](https://www.dimensions.ai/)
 - [Directory of Open Access Journals – DOAJ](https://doaj.org/)
@@ -616,7 +616,7 @@
 - [GitHub - n0maj1o24/RemoveWatermark: Remove-it-ebooks-info-watermark-from-pdfs](https://github.com/shadonsniper/removewatermark)
 - [GitHub - NiklasGollenstede/epub-creator: Firefox add-on that creates .epub books from the about:reader and overdrive books](https://github.com/niklasgollenstede/epub-creator)
 - [GitHub - noDRM/DeDRM_tools: DeDRM tools for ebooks](https://github.com/nodrm/dedrm_tools)
-- [GitHub - Readarr/Readarr: Book Manager and Automation (Sonarr for Ebooks)](https://github.com/readarr/readarr)
+- [[Sonarr for Ebooks)](https://github.com/readarr/readarr|GitHub - Readarr/Readarr: Book Manager and Automation (Sonarr for Ebooks)]]
 - [GitHub - vaibhavk97/GoBooDo: A Google book downloader with proxy support.](https://github.com/vaibhavk97/goboodo)
 - [GrantForward Search Engine | Search for federal grants, foundation grants, and limited submission opportunities](https://www.grantforward.com/index)
 - [Grassroots Institue](https://journals.grassrootsinstitute.net/journal1-natural-resources/index.html)
@@ -641,7 +641,7 @@
 - [Official Guide to Government Information and Services | USAGov](https://www.usa.gov/)
 - [Ontosight](https://ontosight.ai/)
 - [Open Babel](https://openbabel.org/wiki/Main_Page)
-- [PDF search engine for free scientific publications - FreeFullPDF](https://freefullpdf.com/#gsc.tab=0)
+- [[https://freefullpdf.com/#gsc.tab=0|https://freefullpdf.com/#gsc.tab=0]]
 - [PsyArXiv Preprints](https://psyarxiv.com/)
 - [Readarr](https://readarr.com/)
 - [ReFindit](https://refindit.org/)
@@ -657,10 +657,10 @@
 - [Search Home | AcademicLabs](https://app.academiclabs.com/search)
 - [SHARE](https://www.share-research.org/)
 - [Sigil-Ebook](https://sigil-ebook.com/)
-- [Splits large audiobooks into smaller files ( either by chapters, if available or to pieces of fixed duration) encoded with Opus audio](https://gist.github.com/izderadicka/0efc16bd150d70b7c504ab15f95c11ab)
+- [[ either by chapters, if available or to pieces of fixed duration) encoded with Opus audio](https://gist.github.com/izderadicka/0efc16bd150d70b7c504ab15f95c11ab|Splits large audiobooks into smaller files ( either by chapters, if available or to pieces of fixed duration) encoded with Opus audio]]
 - [The Comprehensive R Archive Network](https://cran.r-project.org/)
 - [The Free Learning List](https://freelearninglist.org/)
-- [The Paleobiology Database](https://paleobiodb.org/#/)
+- [[https://paleobiodb.org/#/|https://paleobiodb.org/#/]]
 - [Unpaywall](https://unpaywall.org/)
 - [Web of Science Master Journal List - WoS MJL by Clarivate](https://mjl.clarivate.com/home)
 - [Welcome | Taguette](https://app.taguette.org/)
