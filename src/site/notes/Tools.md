@@ -11,7 +11,7 @@
 - [arbtt: the automatic, rule-based time tracker](http://arbtt.nomeata.de/)
 - [Dogsheep | dogsheep.github.io](https://dogsheep.github.io/)
 - [Heedy — Heedy 0.4.1-git.1570 documentation](https://heedy.org/)
-- [Python lifelogging Projects (Oct 2021)](https://www.libhunt.com/l/python/topic/lifelogging)
+- [[Oct 2021)](https://www.libhunt.com/l/python/topic/lifelogging|Python lifelogging Projects (Oct 2021)]]
 - [WhatPulse Dashboard](https://whatpulse.org/)
 ## AI Systems
 - [AISEO - AI writing assistant, AI Copywriting & Content Generator](https://aiseo.ai/?fpr=56897)
@@ -31,7 +31,7 @@
 - [Luminance | The AI Platform for the Legal Profession](https://www.luminance.com/)
 - [Mark Copy - Product Hunt](https://www.markcopy.ai/product-hunt?ref=producthunt)
 - [OpenText](https://www.opentext.de/)
-- [Rytr · Best AI Writer, Content Generator & Writing Assistant](https://rytr.me/#pricing)
+- [[https://rytr.me/#pricing|https://rytr.me/#pricing]]
 - [Write With Transformer](https://transformer.huggingface.co/)
 ## API Tools
 - [API Spyonweb.com](https://api.spyonweb.com/)
@@ -66,7 +66,7 @@
 - [Resilient file hosting - BayFiles](https://bayfiles.com/)
 - [Scan Result - Better Drive](https://betterdrive.app/ScanResult)
 - [Secure cloud file storage and sharing - DooDrive](https://doodrive.com/)
-- [Smash: File transfer (videos, photos, documents)](https://en.fromsmash.com/)
+- [[videos, photos, documents)](https://en.fromsmash.com/|Smash: File transfer (videos, photos, documents)]]
 - [Upload & Share PDF | DocDroid](https://www.docdroid.net/)
 - [Upload Files - LetsUpload Unlimited Cloud Storage](https://letsupload.io/)
 - [Upload Files - MegaUp](https://megaup.net/)
@@ -77,9 +77,9 @@
 - [CloudConvert](https://cloudconvert.com/)
 - [CSV to GeoJson](http://www.opengeotools.com/csvToGeoJson.php)
 - [CSV To GeoJSON Converter](https://www.convertcsv.com/csv-to-geojson.htm)
-- [Easily convert files into SQL Databases | SQLizer](https://sqlizer.io/#/)
+- [[https://sqlizer.io/#/|https://sqlizer.io/#/]]
 - [Epoch Converter](https://www.epochconverter.com/?q=%25s&source=searchbar)
-- [Figmachine (Figma to React) – Convert Figma designs to React code](https://www.figmachine.com/)
+- [[Figma to React) – Convert Figma designs to React code](https://www.figmachine.com/|Figmachine (Figma to React) – Convert Figma designs to React code]]
 - [Free Online Tools For Developers - to Beautify, Validate, Minify, Analyse, Convert JSON, XML, JavaScript, CSS, HTML, Excel](https://codebeautify.org/)
 - [Free Online Tools, Converters, Calculators, and Generators - A2Z Tools](https://a2z.tools/?ref=producthunt)
 - [Online HTML Editor](https://html-online.com/editor/)
@@ -106,7 +106,7 @@
 - [neo4j.com](https://neo4j.com/)
 - [ORA-LITE: Software](https://www.casos.cs.cmu.edu/projects/ora/software.php)
 - [Processing](https://processingjs.org/)
-- [RAWGraphs 2.0: a web app for data visualization](https://www.indiegogo.com/projects/rawgraphs-2-0-a-web-app-for-data-visualization#/)
+- [[https://www.indiegogo.com/projects/rawgraphs-2-0-a-web-app-for-data-visualization#/|https://www.indiegogo.com/projects/rawgraphs-2-0-a-web-app-for-data-visualization#/]]
 - [ScribbleMaps](https://www.scribblemaps.com/)
 - [Sentinel Visualiser](https://www.fmsasg.com/)
 - [Spatial.ly](https://spatial.ly/)
@@ -114,7 +114,7 @@
 - [TouchGraph.com](https://www.touchgraph.com/seo)
 - [VIS Desktop](https://docs.alephdata.org/guide/vis-desktop)
 - [Visallo: Investigative Data Analysis Tool | Data-Driven Software](https://www.visallo.com/)
-- [Visual Capitalist (@VisualCap)](https://twitter.com/visualcap)
+- [[@VisualCap)](https://twitter.com/visualcap|Visual Capitalist (@VisualCap)]]
 - [Visual.ly](https://visual.ly/)
 - [Vizualize.me](https://vizualize.me/)
 - [yEd Graph Editor](https://www.yworks.com/products/yed)
@@ -122,7 +122,7 @@
 - [5 Tools to Detect Digitally Altered Images](https://medium.com/@raebaker/5-tools-to-detect-digitally-altered-images-719db4015b5d)
 - [Exifdata](https://exifdata.com/)
 - [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool)
-- [Forensically](https://29a.ch/photo-forensics#forensic-magnifier)
+- [[https://29a.ch/photo-forensics#forensic-magnifier|https://29a.ch/photo-forensics#forensic-magnifier]]
 - [Get-metadata](https://www.get-metadata.com/)
 - [hatlord/Spiderpig](https://github.com/hatlord/Spiderpig)
 - [InVid](https://www.invid-project.eu/)
@@ -134,7 +134,7 @@
 - [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e)
 - [Data Fake Generator](https://datafakegenerator.com/)
 - [Domain Hack Generator - The last tool you will ever need!](https://domainhacks.info/)
-- [Domain Name Generator (Instant Ideas, no Ads) - DomainWheel](https://domainwheel.com/)
+- [[Instant Ideas, no Ads) - DomainWheel](https://domainwheel.com/|Domain Name Generator (Instant Ideas, no Ads) - DomainWheel]]
 - [Elfqirin](https://elfqrin.com/)
 - [Emkei's Fake Mailer](https://emkei.cz/)
 - [Fake Name Generator](https://namefake.com/)
@@ -213,7 +213,7 @@
 - [HTML Sanitizer Tool](https://defuse.ca/html-sanitize.htm)
 - [Melobytes.com - Music inspiration apps](https://melobytes.com/en)
 - [Meta](https://miraheze.org/)
-- [Project Jupyter (Jupyter Notebook)](https://jupyter.org/)
+- [[Jupyter Notebook)](https://jupyter.org/|Project Jupyter (Jupyter Notebook)]]
 ## Multiple
 - [Dans Tools](https://www.danstools.com/)
 - [DiffNow - Compare Files, URLs, and Clipboard Contents Online](https://diffnow.com/compare-clips)
@@ -258,7 +258,7 @@
 - [Convert Text to ASCII Online | Ttoools](https://toolsaday.com/text-tools/text-to-ascii)
 - [Convert Word to AsciiDoc for free on Alldocs](https://alldocs.app/convert-word-docx-to-asciidoc)
 - [Text Fancy](https://textfancy.com/)
-- [Text to ASCII Art Generator (TAAG)](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+- [[https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type Something |https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type Something ]]
 - [Text to ASCII Code Converter - Chars to ASCII Numbers - Online - Browserling Web Developer Tools](https://www.browserling.com/tools/text-to-ascii)
 - [Text To ASCII Converter - Replit](https://replit.com/@Exunys/Text-To-ASCII-Converter)
 - [Alphabetize a list in alphabetical order - and much more!](https://alphabetizer.flap.tv/)
@@ -300,7 +300,7 @@
 - [Timeline Explorer Guide - AboutDFIR](https://aboutdfir.com/toolsandartifacts/windows/timeline-explorer)
 ## Tools
 - [123apps – Free Web Apps](https://123apps.com/)
-- [7 Tools for Building an Infographic in an Afternoon (Design Skills or Not)](https://blog.bufferapp.com/infographic-makers)
+- [[Design Skills or Not)](https://blog.bufferapp.com/infographic-makers|7 Tools for Building an Infographic in an Afternoon (Design Skills or Not)]]
 - [Advanced File Analysis System | Valkyrie](https://valkyrie.comodo.com/get_info?sha1=%25s)
 - [Desmos | Scientific Calculator](https://www.desmos.com/scientific)
 - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm)
@@ -319,7 +319,7 @@
 - [Screen Recorder Download](https://www.ezvid.com/download)
 - [Screenrec.com](https://screenrec.com/)
 - [ShareX](https://getsharex.com/)
-- [Shutter - Feature-rich Screenshot Tool (Linux)](https://shutter-project.org/)
+- [[Linux)](https://shutter-project.org/|Shutter - Feature-rich Screenshot Tool (Linux)]]
 - [Snagit Einfache Bildschirmaufnahme und Videoaufzeichnung](https://www.techsmith.de/snagit.html)
 - [xBlog: How to Take Screenshots of Webpages from the Command Line - Boolean World](https://www.booleanworld.com/take-screenshots-webpages-command-line)
 - [XMind - Mind Mapping Software](https://www.xmind.net/de)
