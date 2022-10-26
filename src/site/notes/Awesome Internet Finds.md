@@ -18,14 +18,14 @@
 - [CyberPunk Network](https://cyberpunk.xyz/)
 - [Cybersole](https://cybersole.io/)
 - [da.gd: help](https://da.gd/help)
-- [[https://www.dedigger.com/#gsc.tab=0|https://www.dedigger.com/#gsc.tab=0]]
+- https://www.dedigger.com/#gsc.tab=0
 - [DeepDyve - Instant access to the journals you need.](https://www.deepdyve.com/)
 - [DeepDyve - Unlimited Access to Peer-Reviewed Journals](https://www.deepdyve.com/)
 - [Dig Deeper](https://digdeeper.club/)
 - [DIY Book Scanner](https://www.diybookscanner.org/)
 - [Encyclopedia Of Undead : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/EncyclopediaOfUndead/mode/2up)
 - [Encyclopedia Of Vampire Mythology : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/EncyclopediaOfVampireMythologypdf/mode/2up)
-- [[RSS Generator) · FiveFilters.org](https://createfeed.fivefilters.org/|Feed Creator (RSS Generator) · FiveFilters.org]]
+- [[RSS Generator) · FiveFilters.org](https://createfeed.fivefilters.org/)
 - [GDRIVE GUIDES – Telegram](https://t.me/s/gdriveguides)
 - [GitHub Archive Program | Preserving open source software for future generations](https://archiveprogram.github.com/)
 - [Home](https://stealth.org/)
