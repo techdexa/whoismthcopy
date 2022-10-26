@@ -12,8 +12,8 @@
 - [Adamsfile.com: Lossless archive:-](https://adamsfile.com/)
 - [AirPods' Dirty Secret](https://kenp.io/airpods-dirty-secret/)
 - [AllToMP3 - Download YouTube in MP3 with tags, cover and lyrics!](https://alltomp3.org/)
-- [Audio DL](https://cse.google.com/cse?cx=006516753008110874046%3Aibmyuhh72io#gsc.tab=0)
-- [Audio DL 2](https://cse.google.com/cse?cx=006516753008110874046%3Aohobg3wvr_w#gsc.tab=0)
+- [[https://cse.google.com/cse?cx=006516753008110874046%3Aibmyuhh72io#gsc.tab=0|https://cse.google.com/cse?cx=006516753008110874046%3Aibmyuhh72io#gsc.tab=0]]
+- [[https://cse.google.com/cse?cx=006516753008110874046%3Aohobg3wvr_w#gsc.tab=0|https://cse.google.com/cse?cx=006516753008110874046%3Aohobg3wvr_w#gsc.tab=0]]
 - [Bridge.audio | Your audio cloud](https://www.bridge.audio/)
 - [Burning The Ground: DjPaulT's 80's and 90's Remixes](https://burningtheground.net/)
 - [CORE RADIO](https://coreradio.online/)
@@ -62,7 +62,7 @@
 - [SonoBus](https://sonobus.net/)
 - [Soundcloud Downloader: Soundcloud To MP3 Online Converter [OFFICIAL]](https://www.klickaud.co/)
 - [Spotify Statistics](https://spotify-stats.vercel.app/)
-- [Spotify Stats](https://stats-spotify.herokuapp.com/#access_token=BQD65R6N8inOwVCHBgznl8ZupMB7P6npFFv_9Wf9ivZRSD2isj9a5u_Yba3ilksTs08WFFE9Tj3-d72v9S_C0mJ5BsHkFXAc0o3mQ10Qt6pSb3-N_FmYXg6UEYcqtaRQbs3F_dq0UBSUMeOfA8bhBok9Rg5aJlGUa_QTWjd69xqCH3k-LgZ0mEUr77oyhEtcGh5kwnTeDU6c2D5bBjGIy7BNK-w2Q58pAnZpnQ&refresh_token=AQDdUltQyIBJHgq0dSVfR4K_2O1WUYk1AlK-tHnpKDimarMufy-E1GgPs5h9uVElDL9O29dgaCbBJW8u5oUscJWorC-KSmHjl-RE93O4kmG7wr3MIEfwoW9eyafViIhp8uI)
+- [[https://stats-spotify.herokuapp.com/#access_token=BQD65R6N8inOwVCHBgznl8ZupMB7P6npFFv_9Wf9ivZRSD2isj9a5u_Yba3ilksTs08WFFE9Tj3-d72v9S_C0mJ5BsHkFXAc0o3mQ10Qt6pSb3-N_FmYXg6UEYcqtaRQbs3F_dq0UBSUMeOfA8bhBok9Rg5aJlGUa_QTWjd69xqCH3k-LgZ0mEUr77oyhEtcGh5kwnTeDU6c2D5bBjGIy7BNK-w2Q58pAnZpnQ&refresh_token=AQDdUltQyIBJHgq0dSVfR4K_2O1WUYk1AlK-tHnpKDimarMufy-E1GgPs5h9uVElDL9O29dgaCbBJW8u5oUscJWorC-KSmHjl-RE93O4kmG7wr3MIEfwoW9eyafViIhp8uI|https://stats-spotify.herokuapp.com/#access_token=BQD65R6N8inOwVCHBgznl8ZupMB7P6npFFv_9Wf9ivZRSD2isj9a5u_Yba3ilksTs08WFFE9Tj3-d72v9S_C0mJ5BsHkFXAc0o3mQ10Qt6pSb3-N_FmYXg6UEYcqtaRQbs3F_dq0UBSUMeOfA8bhBok9Rg5aJlGUa_QTWjd69xqCH3k-LgZ0mEUr77oyhEtcGh5kwnTeDU6c2D5bBjGIy7BNK-w2Q58pAnZpnQ&refresh_token=AQDdUltQyIBJHgq0dSVfR4K_2O1WUYk1AlK-tHnpKDimarMufy-E1GgPs5h9uVElDL9O29dgaCbBJW8u5oUscJWorC-KSmHjl-RE93O4kmG7wr3MIEfwoW9eyafViIhp8uI]]
 - [Spotify Stats](https://statsspotify.herokuapp.com/)
 - [SpotifyStats - SpotifyStats](https://spotifystats.maxr1998.de/import)
 - [Spotistats Playlist Project](http://54.219.237.101/)
@@ -88,7 +88,7 @@
 - [Free Sound Clips](https://soundbible.com/)
 - [Free Sound Effects](https://www.pacdv.com/sounds)
 - [Free Sound Effects](https://www.soundgator.com/)
-- [Free Sound Effects (24-bit WAV)](https://99sounds.org/free-sound-effects)
+- [[24-bit WAV)](https://99sounds.org/free-sound-effects|Free Sound Effects (24-bit WAV)]]
 - [incompetech Music Search](https://incompetech.com/music/royalty-free/music.html)
 - [SongWish reMIDI 2 v2.0.5 for MacOS Download - FileCR](https://filecr.com/macos/songwish-remidi2/?id=398042604036)
 - [Sound Fx](https://www.flashkit.com/soundfx)
@@ -98,7 +98,7 @@
 - [www.freesound.org](https://freesound.org/)
 - [:: Team-AiR ::](https://teamaircrack.net/index.php)
 - [4DOWNLOAD](https://www.4download.net/)
-- [Alex Pfeffer - Sick Beats (KONTAKT) - VSTorrent](https://vstorrent.org/alex-pfeffer-sick-beats-kontakt)
+- [[KONTAKT) - VSTorrent](https://vstorrent.org/alex-pfeffer-sick-beats-kontakt|Alex Pfeffer - Sick Beats (KONTAKT) - VSTorrent]]
 - [Applications Windows - SoftArchive](https://sanet.cd/windows)
 - [Audio Plugins Archives - VSTorrent](https://vstorrent.org/category/audio-software/audio-plugins)
 - [Audio Software Archives - VSTorrent](https://vstorrent.org/category/audio-software)
@@ -139,7 +139,7 @@
 - [MegaVST.com - Download Free VST Plugins](https://www.megavst.com/)
 - [melody ml](https://melody.ml/)
 - [Music create: VST instruments | Effects | Samples | Free download software for music creation](https://music-create.org/)
-- [Music Software - Computer Music Resources (Hitsquad)](https://www.hitsquad.com/smm)
+- [[Hitsquad)](https://www.hitsquad.com/smm|Music Software - Computer Music Resources (Hitsquad)]]
 - [Music Streaming Services Data Usage](https://dlogic.lk/projects/music.php)
 - [Native Instruments - Kontakt 5 PORTABLE v5.7.3 STANDALONE / VSTi x86 / x64 [12/20/2017] :: RuTracker.org](https://rutracker.org/forum/viewtopic.php?t=5498083)
 - [Native Instruments - Session Guitarist Strummed Acoustic 2](https://vst-platinum.com/vst-instruments/native-instruments-session-guitarist-strummed-acoustic-2.html)
@@ -151,7 +151,7 @@
 - [RuTracker.org](https://rutracker.org/forum/index.php)
 - [sigma67/spotifyplaylist_to_ytmusic: Clone a Spotify playlist to YouTube Music](https://github.com/sigma67/spotifyplaylist_to_ytmusic)
 - [SoftArchive – SANET](https://sanet.st/)
-- [SONAR & Cakewalk by BandLab (CbB) Resources and Utilities | Cakewalk Forums](http://forum.cakewalk.com/SONAR-Resources-and-Utilities-m3392713.aspx)
+- [[CbB) Resources and Utilities | Cakewalk Forums](http://forum.cakewalk.com/SONAR-Resources-and-Utilities-m3392713.aspx]]
 - [TEAM V.R](https://codec.kiev.ua/adobe.html)
 - [virtual toolkit - Search](https://vsthouse.ru/search/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%20%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
 - [VSTbase - All Music Apps. Download VST Plugins, Instruments, Samples, Sound Libraries and Tutorials](https://vstbase.org/)
