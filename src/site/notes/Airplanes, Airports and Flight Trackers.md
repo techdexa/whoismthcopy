@@ -5,7 +5,7 @@
 
 ## Airplanes, Airports and Flight Trackers
 - [360Radar.co.uk](https://360radar.co.uk/)
-- [[2020) | ProgrammableWebAPI Growth Charts, Industry Research & MoreDeveloper How-to's & Live Presentations](https://www.programmableweb.com/category/transportation/api]]
+- [2020) | ProgrammableWebAPI Growth Charts, Industry Research & MoreDeveloper How-to's & Live Presentations](https://www.programmableweb.com/category/transportation/api)
 - [Ads-b exchange](https://www.adsbexchange.com/)
 - [Airfleets.net](https://www.airfleets.net/)
 - [Airlinecodes.co.uk](https://www.airlinecodes.co.uk/)
@@ -43,7 +43,6 @@
 - [Landings.com](https://www.landings.com/)
 - [lefranz/geneva-dictators](https://github.com/lefranz/geneva-dictators)
 - [List of aircraft registration prefixes - Wikipedia](https://en.wikipedia.org/wiki/List_of_aircraft_registration_prefixes)
-- [[https://list_of_passenger_airlines/#List_of_passenger_airlines.com|https://list_of_passenger_airlines/#List_of_passenger_airlines.com]]
 - [Live Flight Information - Humberside Airport](https://www.humbersideairport.com/live-flight-information)
 - [Live Flight Tracker - Real-Time Flight Tracker Map](https://flightradar.live/en/flight-tracker)
 - [OpenFlights: Airport and airline data](https://openflights.org/data.html)
