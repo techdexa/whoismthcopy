@@ -6,7 +6,11 @@
 ## Apps
 - [Polypad – Scriptable Textpad](https://polypad.io/?ref=freeStuffDev)
 - [Prisma](https://www.prisma.io/)
-- [The Wails Project | Wails](https://wails.io/)## Apps
+- [The Wails Project | Wails](https://wails.io/)
+
+
+
+## Apps
 ### Cross-Platform
 - [acreom — IDE for your workflow](https://acreom.com/)
 - [Anytype Community](https://community.anytype.io/)
