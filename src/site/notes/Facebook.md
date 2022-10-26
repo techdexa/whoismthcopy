@@ -18,4 +18,16 @@
 - [r/programminghelp - How to convert facebook messages to csv after downloading to html](https://www.reddit.com/r/programminghelp/comments/9yg9b5/how_to_convert_facebook_messages_to_csv_after/)
 - [Save the data in plain text files](https://kbroman.org/dataorg/pages/csv_files.html)
 - [View your instagram data in a spreadsheet](https://data.page/instagram-export)
-- [word-cloud](https://freesoft.dev/program/163022608)
+- [word-cloud](https://freesoft.dev/program/163022608)## Facebook
+- [CrowdTangle Video Advanced Search](https://www.crowdtangle.com/videosearch)
+- [DownFacebook Video Downloader Data Extractor](http://www.downfacebook.com/)
+- [Essential Facebook Development Book](http://file.allitebooks.com/20150627/Essential%20Facebook%20Development.pdf)
+- [Facebook API Developers Guide Book](http://file.allitebooks.com/20150627/Facebook%20API%20Developers%20Guide.pdf)
+- [Facebook Graph Search Generator Advanced Search](http://graph.tips/beta)
+- [FB Sleep Stats Facebook Activity Tracker](https://github.com/sqren/fb-sleep-stats)
+- [FindMyFacebookID Facebook ID Finder](https://findmyfbid.com/)
+- [LikeAnaylzer Facebook Metrics](https://likealyzer.com/?lang=en)
+- [People You May Know FB Data Extractor](https://gizmodo.com/keep-track-of-who-facebook-thinks-you-know-with-this-ni-1819422352)
+- [PeopleFindThor Advanced Search](https://peoplefindthor.dk/)
+- [QueryFeed Instagram Search](https://queryfeed.net/)
+- [Zesty Advanced Search](http://zesty.ca/facebook)
