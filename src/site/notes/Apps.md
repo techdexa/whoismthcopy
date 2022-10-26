@@ -42,7 +42,7 @@
 - [A Markdown Editor for the 21st Century](https://www.zettlr.com/)
 - [Agenda - Date-focused Note Taking.](https://agenda.com/)
 - [cryo file manager](https://cryonet.io/?ref=producthunt)
-- [[https://brainio.com/#/|https://brainio.com/#/]]
+- https://brainio.com/#/
 - [Notenik Home](https://notenik.app/)
 - [Tinderbox: The Tool For Notes](http://www.eastgate.com/Tinderbox/index.html)
 ### Online
@@ -81,7 +81,7 @@
 - [You need a wiki](https://youneedawiki.com/app)
 ### Packages
 - [Argdown](https://argdown.org/)
-- [[https://github.com/cotoami/cotoami#flow-timeline-and-stock-structured-content|https://github.com/cotoami/cotoami#flow-timeline-and-stock-structured-content]]
+- https://github.com/cotoami/cotoami#flow-timeline-and-stock-structured-content
 - [Index - Archivy](https://archivy.github.io/)
 - [jKanban - Javascript plugin for Kanban boards](https://www.riccardotartaglia.it/jkanban/?ref=producthunt)
 - [Neuron Zettelkasten](https://neuron.zettel.page/)
