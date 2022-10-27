@@ -15,7 +15,7 @@
 
 - [12 Best Siri Shortcuts and Automations for iPhone Power Users](https://beebom.com/best-siri-shortcuts-automations/)
 - [360000098827 creating triggers on i os](https://support.idevicesinc.com/hc/en-us/articles/360000098827-Creating-Triggers-On-iOS)
-- [[macOS)](https://medium.com/@richardmoult75/5-more-interesting-mac-shortcuts-to-learn-from-e63c4566e16d|5 Inspiring Apple Shortcuts (macOS)]]
+- [5 Inspiring Apple Shortcuts (macOS)](macOS))
 - [5 interesting macOS Shortcuts](https://medium.com/@richardmoult75/5-interesting-macos-shortcuts-24f98854ee2c)
 - [A Beginner's Guide to Shortcuts Automation on iPhone](https://www.makeuseof.com/beginners-guide-shortcuts-automation-iphone/)
 - [Actions by Sindre Sorhus](https://apps.apple.com/us/app/actions/id1586435171)
@@ -25,7 +25,7 @@
 - [Creating macOS Monterey Shortcuts for Multiple files](https://medium.com/@richardmoult75/creating-macos-monterey-shortcuts-for-multiple-files-9ead8f371bf4)
 - [CSV Tools by Tomas Parizek](https://apps.apple.com/us/app/csv-tools/id1521133371)
 - [Data Jar by Simon B. Støvring](https://apps.apple.com/us/app/data-jar/id1453273600)
-- [[Monterey macOS)](https://medium.com/@richardmoult75/setting-up-a-shortcut-monterey-macos-8da87d408215|Dynamic Apple Shortcuts (Monterey macOS)]]
+- [Dynamic Apple Shortcuts (Monterey macOS)](Monterey%20macOS))
 - [Easy Ways to Fix iPhone Automation Not Working in iOS 15](https://itoolab.com/fix/iphone-automation-not-working/)
 - [fastlane - App automation done right](https://fastlane.tools/)
 - [‎GizmoPack](https://apps.apple.com/us/app/gizmopack/id1505218567)
@@ -76,7 +76,7 @@
 - [Files and Cloud Utilities on AppRaven](https://appraven.net/openLink.php?listId=62191feda0d90374a64bf260)
 - [Finale for Last.fm by Noah Rubin Technologies LLC](http://last.fm/)
 - [floatingfile](https://floatingfile.space/?ref=producthunt)
-- [[https://fnd.io/#/us/charts/iphone/new/all|https://fnd.io/#/us/charts/iphone/new/all]]
+- [](https://fnd.io/#/us/charts/iphone/new/all)
 - [FS Bookmarks: A Shortcut to Reopen Files and Folders Directly in the Files App](https://www.macstories.net/ios/fs-bookmarks-a-shortcut-to-reopen-files-and-folders-directly-in-the-files-app/)
 - [‎FSNotes Manager](https://apps.apple.com/us/app/fsnotes-manager/id1346501102)
 - [‎inShort](https://apps.apple.com/us/app/inshort/id423213182)
