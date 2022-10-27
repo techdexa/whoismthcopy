@@ -80,7 +80,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Airplanes, Airports and Flight Trackers](Airplanes,%20Airports%20and%20Flight%20Trackers.md)
 - [Alternatives to Tor](Alternatives%20to%20Tor.md)
 - [Analysing Unique IDs](Analysing%20Unique%20IDs.md)
-- [Analyze Text in images (OCR) opitcal character recognition](Analyze%20Text%20in%20images%20(OCR)%20opitcal%20character%20recognition.md)
+- [Analyze Text in images (OCR)](Analyze%20Text%20in%20images%20(OCR).md)
 - [Ancestry Research](Ancestry%20Research.md)
 - [Android Emulators](Android%20Emulators.md)
 - [[Android-Piracy-FMHY|Android-Piracy-FMHY]]
@@ -200,7 +200,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Finding SSL Certificates](Finding%20SSL%20Certificates.md)
 - [Flickr](Flickr.md)
 - [Fonts](Fonts.md)
-- [Forum, Newsgroup and Discussion Board Search Tools](Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools.md)
+- [Forum, Newsgroup and Discussion Search Tools](Forum,%20Newsgroup%20and%20Discussion%20Search%20Tools.md)
 - [General Video Downloaders and Archivers](General%20Video%20Downloaders%20and%20Archivers.md)
 - [General Webint Tools and Toolkits](General%20Webint%20Tools%20and%20Toolkits.md)
 - [Generators](Generators.md)
