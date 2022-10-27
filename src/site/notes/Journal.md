@@ -5,7 +5,7 @@
 
 ## Journal
 - [glimpses - A simple and minimal journal app for windows](https://getglimpses.com/)
-- [[https://www.journalflow.com/#features|https://www.journalflow.com/#features]]
+- [](https://www.journalflow.com/#features)
 - [Life History App](https://lifehistory.app/app/main/upload-files)
 - [LifeHistoryApp.com - MyHistory](http://www.lifehistoryapp.com/myhistory.html)
 - [Lifelogging / Quantified Self | Lifestream Blog](http://lifestreamblog.com/lifelogging)
