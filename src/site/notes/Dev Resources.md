@@ -12,7 +12,7 @@
 - [Developer Toolbox](https://developertoolbox.app/?ref=producthunt)
 - [devSwag](https://devswag.io/)
 - [Free Developer Stuff](https://freestuff.dev/)
-- [[https://free-for.dev/#/|https://free-for.dev/#/]]
+- [](https://free-for.dev/#/)
 - [ProductSearch](https://productsearch.help/)
 - [Small Dev tools useful for all developers](https://smalldev.tools/)
 - [Web Hosting Discussion Forums, Tutorials, Reviews & Services](https://forumweb.hosting/)
