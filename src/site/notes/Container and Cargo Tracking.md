@@ -11,7 +11,7 @@
 - [CONTAINER TRACKING](https://cargotracking.utopiax.org/containertracking.html)
 - [Container Tracking - Track a Shipping Container Online](https://www.shipit.co.uk/container-tracking.htm)
 - [container-tracking.org/](https://container-tracking.org/)
-- [[https://www.maersk.com/tracking#tracking|https://www.maersk.com/tracking#tracking]]
+- [](https://www.maersk.com/tracking#tracking)
 - [Import Genius](https://www.importgenius.com/)
 - [Locustraxx.com](https://www.locustraxx.com/)
 - [Navipedia](https://gssc.esa.int/navipedia/index.php)
