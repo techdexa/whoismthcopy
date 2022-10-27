@@ -7,10 +7,10 @@
 
 ---
 
-[[► General Tools FMHY|► General Tools FMHY]]
+[[► TOOLS-General Tools|► TOOLS-General Tools]]
 
-[[► Internet Tools FMHY|► Internet Tools FMHY]]
+[[► TOOLS-Internet Tools|► TOOLS-Internet Tools]]
 
-[[► System Tools FMHY|► System Tools FMHY]]
+[[► TOOLS-System Tools|► TOOLS-System Tools]]
 
 ---
