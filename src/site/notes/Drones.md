@@ -6,7 +6,7 @@
 ## Drones
 - [About – UAS VISION](https://www.uasvision.com/about)
 - [Airdata.com](https://airdata.com/)
-- [[Suspected) drone collisions with aircraft](https://aviation-safety.net/database/issue/drones.php|Aviation Safety Network ASN Aviation Safety Database (Suspected) drone collisions with aircraft]]
+- [Aviation Safety Network ASN Aviation Safety Database (Suspected) drone collisions with aircraft](Suspected)%20drone%20collisions%20with%20aircraft)
 - [Community.skyward.io](https://community.skyward.io/)
 - [Drone Crash Database – Drone Wars UK](https://dronewars.net/drone-crash-database)
 - [Drone Database - Proliferated Drones](https://drones.cnas.org/drones)
