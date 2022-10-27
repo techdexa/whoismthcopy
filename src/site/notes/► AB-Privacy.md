@@ -306,19 +306,3 @@
 * [torbirdy](https://trac.torproject.org/projects/tor/wiki/torbirdy) - Connect to Mozilla Thunderbird via Tor
 
 ***
-
-## ▷ [Linux Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_adblock_.2F_privacy)
-
-***
-
-## ▷ [Mac Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_adblock_.2F_privacy)
-
-***
-
-## ▷ [Android Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_privacy)
-
-***
-
-## ▷ [iOS Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_privacy)
-
-***
