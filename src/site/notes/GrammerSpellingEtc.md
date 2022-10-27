@@ -12,7 +12,7 @@
 - [Cambridge Dictionary | English Dictionary, Translations & Thesaurus](https://dictionary.cambridge.org/)
 - [Chat Word Dictionary - Chat Words, Texting Abbreviations, Emoticons, and their Meanings](https://chatworddictionary.com/)
 - [Check correct spelling and definitions at Spellorg.com](https://www.spellorg.com/)
-- [["cuss") words, dirty words, bad words, foul language, obscenity, obscene language, or expletives. It can be called swearing, although this also has a normal meaning of making a "solemn promise".](https://github.com/chucknorris-io/swear-words|chucknorris-io/swear-words: 💩 Profanity means swear words. The adjective is 'profane'. Profanities can also be called curse ("cuss") words, dirty words, bad words, foul language, obscenity, obscene language, or expletives. It can be called swearing, although this also has a normal meaning of making a "solemn promise".]]
+- [chucknorris-io/swear-words: 💩 Profanity means swear words. The adjective is 'profane'. Profanities can also be called curse ("cuss") words, dirty words, bad words, foul language, obscenity, obscene language, or expletives. It can be called swearing, although this also has a normal meaning of making a "solemn promise".](%22cuss%22)%20words,%20dirty%20words,%20bad%20words,%20foul%20language,%20obscenity,%20obscene%20language,%20or%20expletives.%20It%20can%20be%20called%20swearing,%20although%20this%20also%20has%20a%20normal%20meaning%20of%20making%20a%20%22solemn%20promise%22.)
 - [Cryptocurrency Wiki - Blockchain Knowledge Base - Everipedia](https://everipedia.org/)
 - [Deletionpedia.org](https://deletionpedia.org/en/Main_Page)
 - [Describing Words - Find Adjectives to Describe Things](https://describingwords.io/)
@@ -69,7 +69,7 @@
 - [The Devil's Dictionary Dot-Com, Unabridged](http://www.thedevilsdictionary.com/)
 - [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/)
 - [The Idioms - Largest Idiom Dictionary](https://www.theidioms.com/)
-- [[OEIS®)](https://oeis.org/|The On-Line Encyclopedia of Integer Sequences® (OEIS®)]]
+- [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](OEIS%C2%AE))
 - [The Slang Dictionary - Slang.net](https://slang.net/)
 - [The Tech Terms Computer Dictionary](https://techterms.com/)
 - [Thinkmap Visual Thesaurus - An online thesaurus and dictionary of over 145,000 words that you explore using an interactive map.](https://www.visualthesaurus.com/)
