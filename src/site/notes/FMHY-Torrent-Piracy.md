@@ -10,10 +10,10 @@
 
 [[► Torrent Clients FMHY|► Torrent Clients FMHY]]
 
-[[► Torrent Sites FMHY|► Torrent Sites FMHY]]
+[[► VID-Torrent Sites|► VID-Torrent Sites]]
 
-[[► Tracker Invites FMHY|► Tracker Invites FMHY]]
+[[► Torrents Tracker Invites|► Torrents Tracker Invites]]
 
-[[► Helpful Sites  Apps FMHY|► Helpful Sites  Apps FMHY]]
+[[► Torrents Helpful Sites Apps|► Torrents Helpful Sites Apps]]
 
 ---
