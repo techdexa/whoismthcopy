@@ -8,7 +8,7 @@
 - [everyday icons](https://everydayicons.jp/)
 - [Feather.netlify.app](https://feather.netlify.app/)
 - [Flaticon](https://www.flaticon.com/)
-- [[16,944) Free icon. sort by newest first](https://all-free-download.com/free-icon|Free icon for free download about (16,944) Free icon. sort by newest first]]
+- [Free icon for free download about (16,944) Free icon. sort by newest first](16,944)%20Free%20icon.%20sort%20by%20newest%20first)
 - [Free Icons & Vector Files](https://findicons.com/)
 - [Free Icons Download - 800+ Free Icon Sets for download](http://freeiconsdownload.com/)
 - [Free Icons free download, 6164 Free Icons](https://freedesignfile.com/category/free-icons)
