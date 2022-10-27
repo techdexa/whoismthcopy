@@ -8,9 +8,9 @@
 - [CloudConvert](https://cloudconvert.com/)
 - [CSV to GeoJson](http://www.opengeotools.com/csvToGeoJson.php)
 - [CSV To GeoJSON Converter](https://www.convertcsv.com/csv-to-geojson.htm)
-- [[https://sqlizer.io/#/|https://sqlizer.io/#/]]
+- [](https://sqlizer.io/#/)
 - [Epoch Converter](https://www.epochconverter.com/?q=%25s&source=searchbar)
-- [[Figma to React) – Convert Figma designs to React code](https://www.figmachine.com/|Figmachine (Figma to React) – Convert Figma designs to React code]]
+- [Figmachine (Figma to React) – Convert Figma designs to React code](Figma%20to%20React)%20%E2%80%93%20Convert%20Figma%20designs%20to%20React%20code)
 - [Free Online Tools For Developers - to Beautify, Validate, Minify, Analyse, Convert JSON, XML, JavaScript, CSS, HTML, Excel](https://codebeautify.org/)
 - [Free Online Tools, Converters, Calculators, and Generators - A2Z Tools](https://a2z.tools/?ref=producthunt)
 - [Online HTML Editor](https://html-online.com/editor/)
