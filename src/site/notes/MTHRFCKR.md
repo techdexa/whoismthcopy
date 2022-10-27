@@ -67,376 +67,390 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 ---
 
-- [[Academic|Academic]]
-- [[Academic and Grey Literature Research Tools|Academic and Grey Literature Research Tools]]
-- [[Acronyms and Abbreviations|Acronyms and Abbreviations]]
-- [[Activity Logging|Activity Logging]]
-- [[Adblock-Paywalls|Adblock-Paywalls]]
-- [[Adderall|Adderall]]
-- [[Advanced SearchMultipurpose|Advanced SearchMultipurpose]]
-- [[AI FACES people and horses|AI FACES people and horses]]
-- [[AI Systems|AI Systems]]
-- [[Airplanes, Airports and Flight Trackers|Airplanes, Airports and Flight Trackers]]
-- [[Alternatives to Tor|Alternatives to Tor]]
-- [[Analysing Unique IDs|Analysing Unique IDs]]
-- [[Analyze Text in images (OCR) opitcal character recognition|Analyze Text in images (OCR) opitcal character recognition]]
-- [[Ancestry Research|Ancestry Research]]
-- [[Android Emulators|Android Emulators]]
-- [[Annotation and Highlighting|Annotation and Highlighting]]
-- [[Annual Reports|Annual Reports]]
-- [[Antivirus, Malware, Cleanup|Antivirus, Malware, Cleanup]]
-- [[API Tools|API Tools]]
-- [[Apps|Apps]]
-- [[Audio|Audio]]
-- [[Audio Books|Audio Books]]
-- [[Authentication|Authentication]]
-- [[Avatars|Avatars]]
-- [[Aviation Assets|Aviation Assets]]
-- [[Awesome Internet Finds|Awesome Internet Finds]]
-- [[AWSBuckets|AWSBuckets]]
-- [[Background Checks|Background Checks]]
-- [[Backlinks|Backlinks]]
-- [[Bank Accounts & Credit Cards|Bank Accounts & Credit Cards]]
-- [[Bankruptcy Records Search|Bankruptcy Records Search]]
-- [[Barcodes, QR Codes, UID Codes|Barcodes, QR Codes, UID Codes]]
-- [[Bitcoin|Bitcoin]]
-- [[BlackHat Sources (darkWeb)|BlackHat Sources (darkWeb)]]
-- [[Blockchain Searches|Blockchain Searches]]
-- [[Blogging, forum & other communities|Blogging, forum & other communities]]
-- [[bookmarks misc onion|bookmarks misc onion]]
-- [[BOOKMRKS-MTHRFCKR|BOOKMRKS-MOTHERFCKR]]  - Entire file (too big to view on Github)
-- [[Browser|Browser]]
-- [[Business Entity Filings|Business Entity Filings]]
-- [[Business Search Sites|Business Search Sites]]
-- [[Cars|Cars]]
-- [[Cell Phone Towers|Cell Phone Towers]]
-- [[Civil Court Records|Civil Court Records]]
-- [[ClearNet Links to DarkWeb|ClearNet Links to DarkWeb]]
-- [[Cloud|Cloud]]
-- [[Cloud Dev|Cloud Dev]]
-- [[Cloud Services|Cloud Services]]
-- [[Code Editors|Code Editors]]
-- [[Commercial registries|Commercial registries]]
-- [[Communication|Communication]]
-- [[Communities|Communities]]
-- [[Community Toolsets|Community Toolsets]]
-- [[Companies|Companies]]
-- [[Company Search Tools|Company Search Tools]]
-- [[Computer and OS Related|Computer and OS Related]]
-- [[Container and Cargo Tracking|Container and Cargo Tracking]]
-- [[Content|Content]]
-- [[Content Blogs, RSS and Feeds|Content Blogs, RSS and Feeds]]
-- [[Contribute to OSINT Frameworks|Contribute to OSINT Frameworks]]
-- [[Conventions & Events|Conventions & Events]]
-- [[Conversion|Conversion]]
-- [[Coordinate Based Search|Coordinate Based Search]]
-- [[Creating World Clouds|Creating World Clouds]]
-- [[Crime & Criminal Records|Crime & Criminal Records]]
-- [[Crisis Alerts and Travel Advisory|Crisis Alerts and Travel Advisory]]
-- [[Cryptocurrency|Cryptocurrency]]
-- [[Cryptocurrency & Blockchain|Cryptocurrency & Blockchain]]
-- [[Dark Web|Dark Web]]
-- [[Darkweb|Darkweb]]
-- [[Darkweb links|Darkweb links]]
-- [[Dashboards|Dashboards]]
-- [[Data Breaches & Leaks|Data Breaches & Leaks]]
-- [[Data Integration and Visualisers|Data Integration and Visualisers]]
-- [[Data Related|Data Related]]
-- [[Data Visualization|Data Visualization]]
-- [[Database|Database]]
-- [[Databreach|Databreach]]
-- [[Deans Deep Web|Deans Deep Web]]
-- [[Decentralized|Decentralized]]
-- [[Decrypt Hash|Decrypt Hash]]
-- [[Deployment|Deployment]]
-- [[Design|Design]]
-- [[Designs|Designs]]
-- [[Dev Design|Dev Design]]
-- [[Dev Resources|Dev Resources]]
-- [[Dev Tools|Dev Tools]]
-- [[Dev Web|Dev Web]]
-- [[Developer|Developer]]
-- [[DevOps|DevOps]]
-- [[Digital Forensics|Digital Forensics]]
-- [[Digital Forensics (DFIR)|Digital Forensics (DFIR)]]
-- [[Direct Documents|Direct Documents]]
-- [[Discover other OSINT Frameworks|Discover other OSINT Frameworks]]
-- [[Disk Encryption|Disk Encryption]]
-- [[Disposable Email|Disposable Email]]
-- [[Divolt|Divolt]]
-- [[DocArticles|DocArticles]]
-- [[Document Checking|Document Checking]]
-- [[Documenting The Investigation|Documenting The Investigation]]
-- [[Documents and Structured Data|Documents and Structured Data]]
-- [[Domains|Domains]]
-- [[Downloading|Downloading]]
-- [[Downloads|Downloads]]
-- [[Drivers License & Passport|Drivers License & Passport]]
-- [[Drones|Drones]]
-- [[Ebooks|Ebooks]]
-- [[EDU|EDU]]
-- [[Education Networks|Education Networks]]
-- [[Email Scrapers|Email Scrapers]]
-- [[Email Searches|Email Searches]]
-- [[Email Tracking|Email Tracking]]
-- [[Encrypted Communication|Encrypted Communication]]
-- [[Event Search|Event Search]]
-- [[Exploit Search Engines|Exploit Search Engines]]
-- [[Extracting Files|Extracting Files]]
-- [[Facebook|Facebook]]
-- [[Facial Recognition|Facial Recognition]]
-- [[Fake Emailers & Validators|Fake Emailers & Validators]]
-- [[File Conversion & Translation|File Conversion & Translation]]
-- [[File Organization|File Organization]]
-- [[Financial|Financial]]
-- [[Finding GIFs and Memes|Finding GIFs and Memes]]
-- [[Finding SSL Certificates|Finding SSL Certificates]]
-- [[Flickr|Flickr]]
-- [[Fonts|Fonts]]
-- [[Forum, Newsgroup and Discussion Board Search Tools|Forum, Newsgroup and Discussion Board Search Tools]]
-- [[General Video Downloaders and Archivers|General Video Downloaders and Archivers]]
-- [[General Webint Tools and Toolkits|General Webint Tools and Toolkits]]
-- [[Generators|Generators]]
-- [[Geolocation|Geolocation]]
-- [[Geospatial datasatelite data|Geospatial datasatelite data]]
-- [[Git|Git]]
-- [[GIT & Github Tools|GIT & Github Tools]]
-- [[GItHub Tools|GItHub Tools]]
-- [[Glossaries and Dictionaries|Glossaries and Dictionaries]]
-- [[Google|Google]]
-- [[GrammerSpellingEtc|GrammerSpellingEtc]]
-- [[Hacking|Hacking]]
-- [[Hacking Forums on the Clearnet|Hacking Forums on the Clearnet]]
-- [[Hackintosh|Hackintosh]]
-- [[Happn|Happn]]
-- [[Hard Drives|Hard Drives]]
-- [[Health|Health]]
-- [[Hinge|Hinge]]
-- [[Host-Domains|Host-Domains]]
-- [[How-To's and Continious Learning|How-To's and Continious Learning]]
-- [[HTML|HTML]]
-- [[HTML & CSS|HTML & CSS]]
-- [[HTTP|HTTP]]
-- [[Icons|Icons]]
-- [[Identifying Publish Date|Identifying Publish Date]]
-- [[Identifying Technologies Behind Websites|Identifying Technologies Behind Websites]]
-- [[Image Analysis|Image Analysis]]
-- [[Image Search and Reverse Image Search|Image Search and Reverse Image Search]]
-- [[Images|Images]]
-- [[Indexing-WebCrawling|Indexing-WebCrawling]]
-- [[Information material|Information material]]
-- [[Inspiration|Inspiration]]
-- [[Instagram|Instagram]]
-- [[Instagram Search|Instagram Search]]
-- [[Interesting websites|Interesting websites]]
-- [[International Phone Directories|International Phone Directories]]
-- [[International Search Engine|International Search Engine]]
-- [[Investigating Objects and Symbols|Investigating Objects and Symbols]]
-- [[iOS|iOS]]
-- [[IoT Search Engines|IoT Search Engines]]
-- [[IP Address|IP Address]]
-- [[IPOs and Funding|IPOs and Funding]]
-- [[Jailbreak|Jailbreak]]
-- [[Java|Java]]
-- [[Javascript|Javascript]]
-- [[Journal|Journal]]
-- [[JSON|JSON]]
-- [[Keyword Discovery & Text Analysis|Keyword Discovery & Text Analysis]]
-- [[Labor Unions|Labor Unions]]
-- [[Leak Testing|Leak Testing]]
-- [[LEAKS & DECLASSIFIED|LEAKS & DECLASSIFIED]]
-- [[Learning|Learning]]
-- [[Legal Research Tools and Resources|Legal Research Tools and Resources]]
-- [[Liens & Delinquencies|Liens & Delinquencies]]
-- [[Link Analysis Graph Platforms|Link Analysis Graph Platforms]]
-- [[LinkedIn|LinkedIn]]
-- [[Links & Lists|Links & Lists]]
-- [[Linux|Linux]]
-- [[Live Streaming and Webcams|Live Streaming and Webcams]]
-- [[Location History|Location History]]
-- [[Location Spoofing|Location Spoofing]]
-- [[Login Sharing|Login Sharing]]
-- [[Logo Search and Identification Tools|Logo Search and Identification Tools]]
-- [[Logos|Logos]]
-- [[Mac Apps|Mac Apps]]
-- [[MALTEGO and Transforms|MALTEGO and Transforms]]
-- [[Map Builders & Downloaders|Map Builders & Downloaders]]
-- [[Map Image Feature Extraction|Map Image Feature Extraction]]
-- [[Map Platforms|Map Platforms]]
-- [[Maritime Assets|Maritime Assets]]
-- [[Markdown|Markdown]]
-- [[Markdown Tools|Markdown Tools]]
-- [[Marketing Spend|Marketing Spend]]
-- [[Media|Media]]
-- [[Media Monitoring|Media Monitoring]]
-- [[Memex|Memex]]
-- [[Mergers & Acquisitions|Mergers & Acquisitions]]
-- [[Messaging and Chat Tools|Messaging and Chat Tools]]
-- [[Middlepoint Locators|Middlepoint Locators]]
-- [[Military Records|Military Records]]
-- [[Military Research|Military Research]]
-- [[Misc|Misc]]
-- [[Miscellaneous Dating|Miscellaneous Dating]]
-- [[Mobile Apps|Mobile Apps]]
-- [[Mockup's|Mockup's]]
-- [[Motorcyle Assets|Motorcyle Assets]]
-- [[MTHRFCKR|MTHRFCKR]]
-- [[Multimedia|Multimedia]]
-- [[Multiple|Multiple]]
-- [[Multipurpose OSINT Frameworks|Multipurpose OSINT Frameworks]]
-- [[Music|Music]]
-- [[Name|Name]]
-- [[Network Reconnaisance Frameworks|Network Reconnaisance Frameworks]]
-- [[Newspaper Sites|Newspaper Sites]]
-- [[Non-Profit Entities|Non-Profit Entities]]
-- [[Notetaking|Notetaking]]
-- [[Obsidian|Obsidian]]
-- [[OK Cupid|OK Cupid]]
-- [[Onion Search Engines  Links|Onion Search Engines  Links]]
-- [[Online Marketplace|Online Marketplace]]
-- [[Online Records|Online Records]]
-- [[OPSec Resources|OPSec Resources]]
-- [[OS Other|OS Other]]
-- [[OSHA and Environmental|OSHA and Environmental]]
-- [[OSINT|OSINT]]
-- [[OSINT Hacking|OSINT Hacking]]
-- [[OSINT Misc|OSINT Misc]]
-- [[OSINT TOOL SITES|OSINT TOOL SITES]]
-- [[OSINT Toolkit|OSINT Toolkit]]
-- [[Pallets|Pallets]]
-- [[Papers and Journals|Papers and Journals]]
-- [[Password Management|Password Management]]
-- [[Patents & Copyrights|Patents & Copyrights]]
-- [[Patterns|Patterns]]
-- [[Pay Telephones|Pay Telephones]]
-- [[PDF|PDF]]
-- [[PDF Management|PDF Management]]
-- [[PDF Sites|PDF Sites]]
-- [[Pentesting|Pentesting]]
-- [[People|People]]
-- [[Periscope|Periscope]]
-- [[Phone Area Codes|Phone Area Codes]]
-- [[Phone Number|Phone Number]]
-- [[Phone Privacy|Phone Privacy]]
-- [[Physical Entry & Locks|Physical Entry & Locks]]
-- [[Pinboard|Pinboard]]
-- [[PKMS|PKMS]]
-- [[Placeholder|Placeholder]]
-- [[Plenty of Fish|Plenty of Fish]]
-- [[PNGs|PNGs]]
-- [[Podcasts|Podcasts]]
-- [[PR Reputation & Exposure|PR Reputation & Exposure]]
-- [[Product Hunt|Product Hunt]]
-- [[Productivity|Productivity]]
-- [[Professional License|Professional License]]
-- [[Profiling & Social Engineering|Profiling & Social Engineering]]
-- [[Programming|Programming]]
-- [[PROPERTY|PROPERTY]]
-- [[Property Records|Property Records]]
-- [[Public Domain Image Databases|Public Domain Image Databases]]
-- [[Public Transit - Bus|Public Transit - Bus]]
-- [[Publications|Publications]]
-- [[Python|Python]]
-- [[QUICK ACCESS to OSINT FRAMEWORK|QUICK ACCESS to OSINT FRAMEWORK]]
-- [[Radio & Scanner|Radio & Scanner]]
-- [[Rail Assets|Rail Assets]]
-- [[Railways|Railways]]
-- [[Real Shit|Real Shit]]
-- [[Reddit|Reddit]]
-- [[Reference|Reference]]
-- [[Reference Tools|Reference Tools]]
-- [[Regex|Regex]]
-- [[Report & Presentation Tools|Report & Presentation Tools]]
-- [[Requests for User Information Information for Law Enforcement|Requests for User Information Information for Law Enforcement]]
-- [[Researching|Researching]]
-- [[Resources|Resources]]
-- [[Resume & Job Boards|Resume & Job Boards]]
-- [[Reverse Email Search|Reverse Email Search]]
-- [[Reverse Image & Facial Recognition Search|Reverse Image & Facial Recognition Search]]
-- [[Reverse IP Search|Reverse IP Search]]
-- [[Reverse Phone Number Lookup|Reverse Phone Number Lookup]]
-- [[Reverse Username Search|Reverse Username Search]]
-- [[Road Assets|Road Assets]]
-- [[Russian Social MediaSearch ENginesPhoneNumber Lookup|Russian Social MediaSearch ENginesPhoneNumber Lookup]]
-- [[Salary Indexes|Salary Indexes]]
-- [[Salary Search|Salary Search]]
-- [[Satellite-Level Viewers|Satellite-Level Viewers]]
-- [[Search|Search]]
-- [[Search Engines|Search Engines]]
-- [[Search engines - General|Search engines - General]]
-- [[Search engines - Image search|Search engines - Image search]]
-- [[Search engines - IRC|Search engines - IRC]]
-- [[Search engines - Online marketplaces|Search engines - Online marketplaces]]
-- [[Search engines - People|Search engines - People]]
-- [[Search engines - Realestate|Search engines - Realestate]]
-- [[Searching within Screenshots|Searching within Screenshots]]
-- [[SearchInternet|SearchInternet]]
-- [[Secure Browsing|Secure Browsing]]
-- [[Secure Erase|Secure Erase]]
-- [[Securities|Securities]]
-- [[Self-Hosted|Self-Hosted]]
-- [[SEO Tools|SEO Tools]]
-- [[Server|Server]]
-- [[Ships|Ships]]
-- [[Shutterstock|Shutterstock]]
-- [[Site Mapping Tools|Site Mapping Tools]]
-- [[Skype|Skype]]
-- [[SnapChat|SnapChat]]
-- [[Snippets|Snippets]]
-- [[Social Media|Social Media]]
-- [[Social Networks|Social Networks]]
-- [[Speech to Text Tools|Speech to Text Tools]]
-- [[Spreadsheet|Spreadsheet]]
-- [[Start.me Resources|Start.me Resources]]
-- [[State and Local Government Contracts|State and Local Government Contracts]]
-- [[State Registries of Political Contributions|State Registries of Political Contributions]]
-- [[State Registries of Political Lobbyists|State Registries of Political Lobbyists]]
-- [[Stock Images|Stock Images]]
-- [[Stock Photos|Stock Photos]]
-- [[Street-Level Viewers|Street-Level Viewers]]
-- [[Subdomain Enumeration|Subdomain Enumeration]]
-- [[Surveillance Tools|Surveillance Tools]]
-- [[SVG|SVG]]
-- [[Templates|Templates]]
-- [[Terminal|Terminal]]
-- [[Text|Text]]
-- [[Text Messages|Text Messages]]
-- [[Text to Speech Tools|Text to Speech Tools]]
-- [[The World Wide Web|The World Wide Web]]
-- [[Timeline|Timeline]]
-- [[Tinder|Tinder]]
-- [[Tools|Tools]]
-- [[TOR & Dark Web|TOR & Dark Web]]
-- [[Trademarks and Servicemarks|Trademarks and Servicemarks]]
-- [[Traffic Cameras|Traffic Cameras]]
-- [[Twitter|Twitter]]
-- [[Upload|Upload]]
-- [[URL|URL]]
-- [[Vectors|Vectors]]
-- [[Video Downloaders|Video Downloaders]]
-- [[Video Editors and Converters|Video Editors and Converters]]
-- [[Video Search and Reverse Video Search|Video Search and Reverse Video Search]]
-- [[Viewers|Viewers]]
-- [[Virtual Machines|Virtual Machines]]
-- [[Virtual Numbers|Virtual Numbers]]
-- [[Voter Records & Registration|Voter Records & Registration]]
-- [[WARN Notices|WARN Notices]]
-- [[Web Animation|Web Animation]]
-- [[Web Intelligence|Web Intelligence]]
-- [[Webcams|Webcams]]
-- [[WebDev|WebDev]]
-- [[Website|Website]]
-- [[Website Monitoring|Website Monitoring]]
-- [[WhatsApp|WhatsApp]]
-- [[WiFi & internet connectivity|WiFi & internet connectivity]]
-- [[WiFi Networks|WiFi Networks]]
-- [[Wifi Search|Wifi Search]]
-- [[Windows Software|Windows Software]]
-- [[Working with Radio|Working with Radio]]
-- [[WP Resources|WP Resources]]
-- [[Writing|Writing]]
-- [[YouTube|YouTube]]
-- [[Zip Codes|Zip Codes]]
+- [Academic](Academic.md)
+- [Academic and Grey Literature Research Tools](Academic%20and%20Grey%20Literature%20Research%20Tools.md)
+- [Acronyms and Abbreviations](Acronyms%20and%20Abbreviations.md)
+- [Activity Logging](Activity%20Logging.md)
+- [[Adblock-FMHY|Adblock-FMHY]]
+- [Adblock-Paywalls](Adblock-Paywalls.md)
+- [Adderall](Adderall.md)
+- [Advanced SearchMultipurpose](Advanced%20SearchMultipurpose.md)
+- [AI FACES people and horses](AI%20FACES%20people%20and%20horses.md)
+- [AI Systems](AI%20Systems.md)
+- [Airplanes, Airports and Flight Trackers](Airplanes,%20Airports%20and%20Flight%20Trackers.md)
+- [Alternatives to Tor](Alternatives%20to%20Tor.md)
+- [Analysing Unique IDs](Analysing%20Unique%20IDs.md)
+- [Analyze Text in images (OCR) opitcal character recognition](Analyze%20Text%20in%20images%20(OCR)%20opitcal%20character%20recognition.md)
+- [Ancestry Research](Ancestry%20Research.md)
+- [Android Emulators](Android%20Emulators.md)
+- [[Android-Piracy-FMHY|Android-Piracy-FMHY]]
+- [Annotation and Highlighting](Annotation%20and%20Highlighting.md)
+- [Annual Reports](Annual%20Reports.md)
+- [Antivirus, Malware, Cleanup](Antivirus,%20Malware,%20Cleanup.md)
+- [API Tools](API%20Tools.md)
+- [Apps](Apps.md)
+- [Audio](Audio.md)
+- [Audio Books](Audio%20Books.md)
+- [[Android-Piracy-FMHY|Android-Piracy-FMHY]]
+- [Authentication](Authentication.md)
+- [Avatars](Avatars.md)
+- [Aviation Assets](Aviation%20Assets.md)
+- [Awesome Internet Finds](Awesome%20Internet%20Finds.md)
+- [AWSBuckets](AWSBuckets.md)
+- [Background Checks](Background%20Checks.md)
+- [Backlinks](Backlinks.md)
+- [Bank Accounts & Credit Cards](Bank%20Accounts%20&%20Credit%20Cards.md)
+- [Bankruptcy Records Search](Bankruptcy%20Records%20Search.md)
+- [Barcodes, QR Codes, UID Codes](Barcodes,%20QR%20Codes,%20UID%20Codes.md)
+- [[BASE64-FMHY|BASE64-FMHY]]
+- [Bitcoin](Bitcoin.md)
+- [BlackHat Sources (darkWeb)](BlackHat%20Sources%20(darkWeb).md)
+- [Blockchain Searches](Blockchain%20Searches.md)
+- [Blogging, forum & other communities](Blogging,%20forum%20&%20other%20communities.md)
+- [bookmarks misc onion](bookmarks%20misc%20onion.md)
+- [BOOKMRKS-MOTHERFCKR](BOOKMRKS-MTHRFCKR.md.md)  - Entire file (too big to view on Github)
+- [Browser](Browser.md)
+- [Business Entity Filings](Business%20Entity%20Filings.md)
+- [Business Search Sites](Business%20Search%20Sites.md)
+- [Cars](Cars.md)
+- [Cell Phone Towers](Cell%20Phone%20Towers.md)
+- [Civil Court Records](Civil%20Court%20Records.md)
+- [ClearNet Links to DarkWeb](ClearNet%20Links%20to%20DarkWeb.md)
+- [Cloud](Cloud.md)
+- [Cloud Dev](Cloud%20Dev.md)
+- [Cloud Services](Cloud%20Services.md)
+- [Code Editors](Code%20Editors.md)
+- [Commercial registries](Commercial%20registries.md)
+- [Communication](Communication.md)
+- [Communities](Communities.md)
+- [Community Toolsets](Community%20Toolsets.md)
+- [Companies](Companies.md)
+- [Company Search Tools](Company%20Search%20Tools.md)
+- [Computer and OS Related](Computer%20and%20OS%20Related.md)
+- [Container and Cargo Tracking](Container%20and%20Cargo%20Tracking.md)
+- [Content](Content.md)
+- [Content Blogs, RSS and Feeds](Content%20Blogs,%20RSS%20and%20Feeds.md)
+- [Contribute to OSINT Frameworks](Contribute%20to%20OSINT%20Frameworks.md)
+- [Conventions & Events](Conventions%20&%20Events.md)
+- [Conversion](Conversion.md)
+- [Coordinate Based Search](Coordinate%20Based%20Search.md)
+- [Creating World Clouds](Creating%20World%20Clouds.md)
+- [Crime & Criminal Records](Crime%20&%20Criminal%20Records.md)
+- [Crisis Alerts and Travel Advisory](Crisis%20Alerts%20and%20Travel%20Advisory.md)
+- [Cryptocurrency](Cryptocurrency.md)
+- [Cryptocurrency & Blockchain](Cryptocurrency%20&%20Blockchain.md)
+- [Dark Web](Dark%20Web.md)
+- [Darkweb](Darkweb.md)
+- [Darkweb links](Darkweb%20links.md)
+- [Dashboards](Dashboards.md)
+- [Data Breaches & Leaks](Data%20Breaches%20&%20Leaks.md)
+- [Data Integration and Visualisers](Data%20Integration%20and%20Visualisers.md)
+- [Data Related](Data%20Related.md)
+- [Data Visualization](Data%20Visualization.md)
+- [Database](Database.md)
+- [Databreach](Databreach.md)
+- [Deans Deep Web](Deans%20Deep%20Web.md)
+- [Decentralized](Decentralized.md)
+- [Decrypt Hash](Decrypt%20Hash.md)
+- [Deployment](Deployment.md)
+- [Design](Design.md)
+- [Designs](Designs.md)
+- [Dev Design](Dev%20Design.md)
+- [Dev Resources](Dev%20Resources.md)
+- [Dev Tools](Dev%20Tools.md)
+- [Dev Web](Dev%20Web.md)
+- [[DEV-Tools-FMHY|DEV-Tools-FMHY]]
+- [Developer](Developer.md)
+- [DevOps](DevOps.md)
+- [Digital Forensics](Digital%20Forensics.md)
+- [Digital Forensics (DFIR)](Digital%20Forensics%20(DFIR).md)
+- [Direct Documents](Direct%20Documents.md)
+- [Discover other OSINT Frameworks](Discover%20other%20OSINT%20Frameworks.md)
+- [Disk Encryption](Disk%20Encryption.md)
+- [Disposable Email](Disposable%20Email.md)
+- [Divolt](Divolt.md)
+- [DocArticles](DocArticles.md)
+- [Document Checking](Document%20Checking.md)
+- [Documenting The Investigation](Documenting%20The%20Investigation.md)
+- [Documents and Structured Data](Documents%20and%20Structured%20Data.md)
+- [Domains](Domains.md)
+- [[Download-Piracy-FMHY|Download-Piracy-FMHY]]
+- [Downloading](Downloading.md)
+- [Downloads](Downloads.md)
+- [Drivers License & Passport](Drivers%20License%20&%20Passport.md)
+- [Drones](Drones.md)
+- [Ebooks](Ebooks.md)
+- [EDU](EDU.md)
+- [[EDU-Piracy-FMHY|EDU-Piracy-FMHY]]
+- [Education Networks](Education%20Networks.md)
+- [Email Scrapers](Email%20Scrapers.md)
+- [Email Searches](Email%20Searches.md)
+- [Email Tracking](Email%20Tracking.md)
+- [Encrypted Communication](Encrypted%20Communication.md)
+- [Event Search](Event%20Search.md)
+- [Exploit Search Engines](Exploit%20Search%20Engines.md)
+- [Extracting Files](Extracting%20Files.md)
+- [Facebook](Facebook.md)
+- [Facial Recognition](Facial%20Recognition.md)
+- [Fake Emailers & Validators](Fake%20Emailers%20&%20Validators.md)
+- [File Conversion & Translation](File%20Conversion%20&%20Translation.md)
+- [File Organization](File%20Organization.md)
+- [Financial](Financial.md)
+- [Finding GIFs and Memes](Finding%20GIFs%20and%20Memes.md)
+- [Finding SSL Certificates](Finding%20SSL%20Certificates.md)
+- [Flickr](Flickr.md)
+- [Fonts](Fonts.md)
+- [Forum, Newsgroup and Discussion Board Search Tools](Forum,%20Newsgroup%20and%20Discussion%20Board%20Search%20Tools.md)
+- [General Video Downloaders and Archivers](General%20Video%20Downloaders%20and%20Archivers.md)
+- [General Webint Tools and Toolkits](General%20Webint%20Tools%20and%20Toolkits.md)
+- [Generators](Generators.md)
+- [Geolocation](Geolocation.md)
+- [Geospatial datasatelite data](Geospatial%20datasatelite%20data.md)
+- [Git](Git.md)
+- [GIT & Github Tools](GIT%20&%20Github%20Tools.md)
+- [GItHub Tools](GItHub%20Tools.md)
+- [Glossaries and Dictionaries](Glossaries%20and%20Dictionaries.md)
+- [Google](Google.md)
+- [GrammerSpellingEtc](GrammerSpellingEtc.md)
+- [Hacking](Hacking.md)
+- [Hacking Forums on the Clearnet](Hacking%20Forums%20on%20the%20Clearnet.md)
+- [Hackintosh](Hackintosh.md)
+- [Happn](Happn.md)
+- [Hard Drives](Hard%20Drives.md)
+- [Health](Health.md)
+- [Hinge](Hinge.md)
+- [Host-Domains](Host-Domains.md)
+- [How-To's and Continious Learning](How-To's%20and%20Continious%20Learning.md)
+- [HTML](HTML.md)
+- [HTML & CSS](HTML%20&%20CSS.md)
+- [HTTP](HTTP.md)
+- [Icons](Icons.md)
+- [Identifying Publish Date](Identifying%20Publish%20Date.md)
+- [Identifying Technologies Behind Websites](Identifying%20Technologies%20Behind%20Websites.md)
+- [Image Analysis](Image%20Analysis.md)
+- [Image Search and Reverse Image Search](Image%20Search%20and%20Reverse%20Image%20Search.md)
+- [Images](Images.md)
+- [[IMG-TOOLS-FMHY|IMG-TOOLS-FMHY]]
+- [Indexing-WebCrawling](Indexing-WebCrawling.md)
+- [Information material](Information%20material.md)
+- [Inspiration](Inspiration.md)
+- [Instagram](Instagram.md)
+- [Instagram Search](Instagram%20Search.md)
+- [Interesting websites](Interesting%20websites.md)
+- [International Phone Directories](International%20Phone%20Directories.md)
+- [International Search Engine](International%20Search%20Engine.md)
+- [Investigating Objects and Symbols](Investigating%20Objects%20and%20Symbols.md)
+- [iOS](iOS.md)
+- [IoT Search Engines](IoT%20Search%20Engines.md)
+- [IP Address](IP%20Address.md)
+- [IPOs and Funding](IPOs%20and%20Funding.md)
+- [Jailbreak](Jailbreak.md)
+- [Java](Java.md)
+- [Javascript](Javascript.md)
+- [Journal](Journal.md)
+- [JSON](JSON.md)
+- [Keyword Discovery & Text Analysis](Keyword%20Discovery%20&%20Text%20Analysis.md)
+- [Labor Unions](Labor%20Unions.md)
+- [Leak Testing](Leak%20Testing.md)
+- [LEAKS & DECLASSIFIED](LEAKS%20&%20DECLASSIFIED.md)
+- [Learning](Learning.md)
+- [Legal Research Tools and Resources](Legal%20Research%20Tools%20and%20Resources.md)
+- [Liens & Delinquencies](Liens%20&%20Delinquencies.md)
+- [Link Analysis Graph Platforms](Link%20Analysis%20Graph%20Platforms.md)
+- [LinkedIn](LinkedIn.md)
+- [Links & Lists](Links%20&%20Lists.md)
+- [Linux](Linux.md)
+- [[Linux-FMHY|Linux-FMHY]]
+- [Live Streaming and Webcams](Live%20Streaming%20and%20Webcams.md)
+- [Location History](Location%20History.md)
+- [Location Spoofing](Location%20Spoofing.md)
+- [Login Sharing](Login%20Sharing.md)
+- [Logo Search and Identification Tools](Logo%20Search%20and%20Identification%20Tools.md)
+- [Logos](Logos.md)
+- [Mac Apps](Mac%20Apps.md)
+- [MALTEGO and Transforms](MALTEGO%20and%20Transforms.md)
+- [Map Builders & Downloaders](Map%20Builders%20&%20Downloaders.md)
+- [Map Image Feature Extraction](Map%20Image%20Feature%20Extraction.md)
+- [Map Platforms](Map%20Platforms.md)
+- [Maritime Assets](Maritime%20Assets.md)
+- [Markdown](Markdown.md)
+- [Markdown Tools](Markdown%20Tools.md)
+- [Marketing Spend](Marketing%20Spend.md)
+- [Media](Media.md)
+- [Media Monitoring](Media%20Monitoring.md)
+- [Memex](Memex.md)
+- [Mergers & Acquisitions](Mergers%20&%20Acquisitions.md)
+- [Messaging and Chat Tools](Messaging%20and%20Chat%20Tools.md)
+- [Middlepoint Locators](Middlepoint%20Locators.md)
+- [Military Records](Military%20Records.md)
+- [Military Research](Military%20Research.md)
+- [Misc](Misc.md)
+- [[MISC-FMHY|MISC-FMHY]]
+- [Miscellaneous Dating](Miscellaneous%20Dating.md)
+- [Mobile Apps](Mobile%20Apps.md)
+- [Mockup's](Mockup's.md)
+- [Motorcyle Assets](Motorcyle%20Assets.md)
+- [MTHRFCKR](MTHRFCKR.md)
+- [Multimedia](Multimedia.md)
+- [Multiple](Multiple.md)
+- [Multipurpose OSINT Frameworks](Multipurpose%20OSINT%20Frameworks.md)
+- [Music](Music.md)
+- [Name](Name.md)
+- [Network Reconnaisance Frameworks](Network%20Reconnaisance%20Frameworks.md)
+- [Newspaper Sites](Newspaper%20Sites.md)
+- [Non-Profit Entities](Non-Profit%20Entities.md)
+- [Notetaking](Notetaking.md)
+- [Obsidian](Obsidian.md)
+- [OK Cupid](OK%20Cupid.md)
+- [Onion Search Engines  Links](Onion%20Search%20Engines%20%20Links.md)
+- [Online Marketplace](Online%20Marketplace.md)
+- [Online Records](Online%20Records.md)
+- [OPSec Resources](OPSec%20Resources.md)
+- [OS Other](OS%20Other.md)
+- [OSHA and Environmental](OSHA%20and%20Environmental.md)
+- [OSINT](OSINT.md)
+- [OSINT Hacking](OSINT%20Hacking.md)
+- [OSINT Misc](OSINT%20Misc.md)
+- [OSINT TOOL SITES](OSINT%20TOOL%20SITES.md)
+- [OSINT Toolkit](OSINT%20Toolkit.md)
+- [Pallets](Pallets.md)
+- [Papers and Journals](Papers%20and%20Journals.md)
+- [Password Management](Password%20Management.md)
+- [Patents & Copyrights](Patents%20&%20Copyrights.md)
+- [Patterns](Patterns.md)
+- [Pay Telephones](Pay%20Telephones.md)
+- [PDF](PDF.md)
+- [PDF Management](PDF%20Management.md)
+- [PDF Sites](PDF%20Sites.md)
+- [Pentesting](Pentesting.md)
+- [People](People.md)
+- [Periscope](Periscope.md)
+- [Phone Area Codes](Phone%20Area%20Codes.md)
+- [Phone Number](Phone%20Number.md)
+- [Phone Privacy](Phone%20Privacy.md)
+- [Physical Entry & Locks](Physical%20Entry%20&%20Locks.md)
+- [Pinboard](Pinboard.md)
+- [PKMS](PKMS.md)
+- [Placeholder](Placeholder.md)
+- [Plenty of Fish](Plenty%20of%20Fish.md)
+- [PNGs](PNGs.md)
+- [Podcasts](Podcasts.md)
+- [PR Reputation & Exposure](PR%20Reputation%20&%20Exposure.md)
+- [Product Hunt](Product%20Hunt.md)
+- [Productivity](Productivity.md)
+- [Professional License](Professional%20License.md)
+- [Profiling & Social Engineering](Profiling%20&%20Social%20Engineering.md)
+- [Programming](Programming.md)
+- [PROPERTY](PROPERTY.md)
+- [Property Records](Property%20Records.md)
+- [Public Domain Image Databases](Public%20Domain%20Image%20Databases.md)
+- [Public Transit - Bus](Public%20Transit%20-%20Bus.md)
+- [Publications](Publications.md)
+- [Python](Python.md)
+- [QUICK ACCESS to OSINT FRAMEWORK](QUICK%20ACCESS%20to%20OSINT%20FRAMEWORK.md)
+- [Radio & Scanner](Radio%20&%20Scanner.md)
+- [Rail Assets](Rail%20Assets.md)
+- [Railways](Railways.md)
+- [Real Shit](Real%20Shit.md)
+- [Reddit](Reddit.md)
+- [Reference](Reference.md)
+- [Reference Tools](Reference%20Tools.md)
+- [Regex](Regex.md)
+- [Report & Presentation Tools](Report%20&%20Presentation%20Tools.md)
+- [Requests for User Information Information for Law Enforcement](Requests%20for%20User%20Information%20Information%20for%20Law%20Enforcement.md)
+- [Researching](Researching.md)
+- [Resources](Resources.md)
+- [Resume & Job Boards](Resume%20&%20Job%20Boards.md)
+- [Reverse Email Search](Reverse%20Email%20Search.md)
+- [Reverse Image & Facial Recognition Search](Reverse%20Image%20&%20Facial%20Recognition%20Search.md)
+- [Reverse IP Search](Reverse%20IP%20Search.md)
+- [Reverse Phone Number Lookup](Reverse%20Phone%20Number%20Lookup.md)
+- [Reverse Username Search](Reverse%20Username%20Search.md)
+- [Road Assets](Road%20Assets.md)
+- [Russian Social MediaSearch ENginesPhoneNumber Lookup](Russian%20Social%20MediaSearch%20ENginesPhoneNumber%20Lookup.md)
+- [Salary Indexes](Salary%20Indexes.md)
+- [Salary Search](Salary%20Search.md)
+- [Satellite-Level Viewers](Satellite-Level%20Viewers.md)
+- [Search](Search.md)
+- [Search Engines](Search%20Engines.md)
+- [Search engines - General](Search%20engines%20-%20General.md)
+- [Search engines - Image search](Search%20engines%20-%20Image%20search.md)
+- [Search engines - IRC](Search%20engines%20-%20IRC.md)
+- [Search engines - Online marketplaces](Search%20engines%20-%20Online%20marketplaces.md)
+- [Search engines - People](Search%20engines%20-%20People.md)
+- [Search engines - Realestate](Search%20engines%20-%20Realestate.md)
+- [Searching within Screenshots](Searching%20within%20Screenshots.md)
+- [SearchInternet](SearchInternet.md)
+- [Secure Browsing](Secure%20Browsing.md)
+- [Secure Erase](Secure%20Erase.md)
+- [Securities](Securities.md)
+- [Self-Hosted](Self-Hosted.md)
+- [SEO Tools](SEO%20Tools.md)
+- [Server](Server.md)
+- [Ships](Ships.md)
+- [Shutterstock](Shutterstock.md)
+- [Site Mapping Tools](Site%20Mapping%20Tools.md)
+- [Skype](Skype.md)
+- [SnapChat](SnapChat.md)
+- [Snippets](Snippets.md)
+- [Social Media](Social%20Media.md)
+- [Social Networks](Social%20Networks.md)
+- [Speech to Text Tools](Speech%20to%20Text%20Tools.md)
+- [Spreadsheet](Spreadsheet.md)
+- [Start.me Resources](Start.me%20Resources.md)
+- [State and Local Government Contracts](State%20and%20Local%20Government%20Contracts.md)
+- [State Registries of Political Contributions](State%20Registries%20of%20Political%20Contributions.md)
+- [State Registries of Political Lobbyists](State%20Registries%20of%20Political%20Lobbyists.md)
+- [Stock Images](Stock%20Images.md)
+- [Stock Photos](Stock%20Photos.md)
+- [[STORAGE-FMHY|STORAGE-FMHY]]
+- [Street-Level Viewers](Street-Level%20Viewers.md)
+- [Subdomain Enumeration](Subdomain%20Enumeration.md)
+- [Surveillance Tools](Surveillance%20Tools.md)
+- [SVG](SVG.md)
+- [Templates](Templates.md)
+- [Terminal](Terminal.md)
+- [Text](Text.md)
+- [Text Messages](Text%20Messages.md)
+- [Text to Speech Tools](Text%20to%20Speech%20Tools.md)
+- [The World Wide Web](The%20World%20Wide%20Web.md)
+- [Timeline](Timeline.md)
+- [Tinder](Tinder.md)
+- [Tools](Tools.md)
+- [[TOOLS-FMHY|TOOLS-FMHY]]
+- [TOR & Dark Web](TOR%20&%20Dark%20Web.md)
+- [[Torrent-Piracy-FMHY|Torrent-Piracy-FMHY]]
+- [Trademarks and Servicemarks](Trademarks%20and%20Servicemarks.md)
+- [Traffic Cameras](Traffic%20Cameras.md)
+- [Twitter](Twitter.md)
+- [Upload](Upload.md)
+- [URL](URL.md)
+- [Vectors](Vectors.md)
+- [Video Downloaders](Video%20Downloaders.md)
+- [Video Editors and Converters](Video%20Editors%20and%20Converters.md)
+- [[Video-Piracy-FMHY|Video-Piracy-FMHY]]
+- [Video Search and Reverse Video Search](Video%20Search%20and%20Reverse%20Video%20Search.md)
+- [Viewers](Viewers.md)
+- [Virtual Machines](Virtual%20Machines.md)
+- [Virtual Numbers](Virtual%20Numbers.md)
+- [Voter Records & Registration](Voter%20Records%20&%20Registration.md)
+- [WARN Notices](WARN%20Notices.md)
+- [Web Animation](Web%20Animation.md)
+- [Web Intelligence](Web%20Intelligence.md)
+- [Webcams](Webcams.md)
+- [WebDev](WebDev.md)
+- [Website](Website.md)
+- [Website Monitoring](Website%20Monitoring.md)
+- [WhatsApp](WhatsApp.md)
+- [WiFi & internet connectivity](WiFi%20&%20internet%20connectivity.md)
+- [WiFi Networks](WiFi%20Networks.md)
+- [Wifi Search](Wifi%20Search.md)
+- [Windows Software](Windows%20Software.md)
+- [Working with Radio](Working%20with%20Radio.md)
+- [WP Resources](WP%20Resources.md)
+- [Writing](Writing.md)
+- [YouTube](YouTube.md)
+- [Zip Codes](Zip%20Codes.md)
 
 ---
 
