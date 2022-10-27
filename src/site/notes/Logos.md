@@ -5,5 +5,5 @@
 
 ## Logos
 - [Brands of the World™ | Download vector logos and logotypes](https://www.brandsoftheworld.com/)
-- [[AI, EPS, SVG, PNG )](http://www.logoeps.net/|Company Logo Downloads - Vector Logos, Arms (AI, EPS, SVG, PNG )]]
+- [Company Logo Downloads - Vector Logos, Arms (AI, EPS, SVG, PNG )](AI,%20EPS,%20SVG,%20PNG%20))
 - [Logodownload.org](https://logodownload.org/)
