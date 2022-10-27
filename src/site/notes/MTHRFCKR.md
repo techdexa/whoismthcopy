@@ -92,7 +92,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Academic and Grey Literature Research Tools](Academic%20and%20Grey%20Literature%20Research%20Tools.md)
 - [Acronyms and Abbreviations](Acronyms%20and%20Abbreviations.md)
 - [Activity Logging](Activity%20Logging.md)
-- [[Adblock-FMHY|Adblock-FMHY]]
+- [[FMHY-Adblock|FMHY-Adblock]]
 - [Adblock-Paywalls](Adblock-Paywalls.md)
 - [Adderall](Adderall.md)
 - [Advanced SearchMultipurpose](Advanced%20SearchMultipurpose.md)
@@ -104,7 +104,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Analyze Text in images (OCR)](Analyze%20Text%20in%20images%20(OCR).md)
 - [Ancestry Research](Ancestry%20Research.md)
 - [Android Emulators](Android%20Emulators.md)
-- [[Android-Piracy-FMHY|Android-Piracy-FMHY]]
+- [[FMHY-MOBILE-Piracy|FMHY-MOBILE-Piracy]]
 - [Annotation and Highlighting](Annotation%20and%20Highlighting.md)
 - [Annual Reports](Annual%20Reports.md)
 - [Antivirus, Malware, Cleanup](Antivirus,%20Malware,%20Cleanup.md)
@@ -112,7 +112,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Apps](Apps.md)
 - [Audio](Audio.md)
 - [Audio Books](Audio%20Books.md)
-- [[Android-Piracy-FMHY|Android-Piracy-FMHY]]
+- [[FMHY-MOBILE-Piracy|FMHY-MOBILE-Piracy]]
 - [Authentication](Authentication.md)
 - [Avatars](Avatars.md)
 - [Aviation Assets](Aviation%20Assets.md)
@@ -180,7 +180,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Dev Resources](Dev%20Resources.md)
 - [Dev Tools](Dev%20Tools.md)
 - [Dev Web](Dev%20Web.md)
-- [[DEV-Tools-FMHY|DEV-Tools-FMHY]]
+- [[FMHY-DEV-Tools|FMHY-DEV-Tools]]
 - [Developer](Developer.md)
 - [DevOps](DevOps.md)
 - [Digital Forensics](Digital%20Forensics.md)
@@ -195,14 +195,14 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Documenting The Investigation](Documenting%20The%20Investigation.md)
 - [Documents and Structured Data](Documents%20and%20Structured%20Data.md)
 - [Domains](Domains.md)
-- [[Download-Piracy-FMHY|Download-Piracy-FMHY]]
+- [[FMHY-Download-Piracy|FMHY-Download-Piracy]]
 - [Downloading](Downloading.md)
 - [Downloads](Downloads.md)
 - [Drivers License & Passport](Drivers%20License%20&%20Passport.md)
 - [Drones](Drones.md)
 - [Ebooks](Ebooks.md)
 - [EDU](EDU.md)
-- [[EDU-Piracy-FMHY|EDU-Piracy-FMHY]]
+- [[FMHY-EDU-Piracy|FMHY-EDU-Piracy]]
 - [Education Networks](Education%20Networks.md)
 - [Email Scrapers](Email%20Scrapers.md)
 - [Email Searches](Email%20Searches.md)
@@ -251,7 +251,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Image Analysis](Image%20Analysis.md)
 - [Image Search and Reverse Image Search](Image%20Search%20and%20Reverse%20Image%20Search.md)
 - [Images](Images.md)
-- [[IMG-TOOLS-FMHY|IMG-TOOLS-FMHY]]
+- [[FMHY-IMG-TOOLS|FMHY-IMG-TOOLS]]
 - [Indexing-WebCrawling](Indexing-WebCrawling.md)
 - [Information material](Information%20material.md)
 - [Inspiration](Inspiration.md)
@@ -281,7 +281,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [LinkedIn](LinkedIn.md)
 - [Links & Lists](Links%20&%20Lists.md)
 - [Linux](Linux.md)
-- [[Linux-FMHY|Linux-FMHY]]
+- [[FMHY-Linux|FMHY-Linux]]
 - [Live Streaming and Webcams](Live%20Streaming%20and%20Webcams.md)
 - [Location History](Location%20History.md)
 - [Location Spoofing](Location%20Spoofing.md)
@@ -306,7 +306,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Military Records](Military%20Records.md)
 - [Military Research](Military%20Research.md)
 - [Misc](Misc.md)
-- [[MISC-FMHY|MISC-FMHY]]
+- [[FMHY-MISC|FMHY-MISC]]
 - [Miscellaneous Dating](Miscellaneous%20Dating.md)
 - [Mobile Apps](Mobile%20Apps.md)
 - [Mockup's](Mockup's.md)
@@ -438,9 +438,9 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Timeline](Timeline.md)
 - [Tinder](Tinder.md)
 - [Tools](Tools.md)
-- [[TOOLS-FMHY|TOOLS-FMHY]]
+- [[FMHY-TOOLS|FMHY-TOOLS]]
 - [TOR & Dark Web](TOR%20&%20Dark%20Web.md)
-- [[Torrent-Piracy-FMHY|Torrent-Piracy-FMHY]]
+- [[FMHY-Torrent-Piracy|FMHY-Torrent-Piracy]]
 - [Trademarks and Servicemarks](Trademarks%20and%20Servicemarks.md)
 - [Traffic Cameras](Traffic%20Cameras.md)
 - [Twitter](Twitter.md)
@@ -449,7 +449,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 - [Vectors](Vectors.md)
 - [Video Downloaders](Video%20Downloaders.md)
 - [Video Editors and Converters](Video%20Editors%20and%20Converters.md)
-- [[Video-Piracy-FMHY|Video-Piracy-FMHY]]
+- [[FMHY-Video-Piracy|FMHY-Video-Piracy]]
 - [Video Search and Reverse Video Search](Video%20Search%20and%20Reverse%20Video%20Search.md)
 - [Viewers](Viewers.md)
 - [Virtual Machines](Virtual%20Machines.md)
