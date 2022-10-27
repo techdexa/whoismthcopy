@@ -16,7 +16,7 @@
 - [JS Bin](https://jsbin.com/?html,output)
 - [Just For Fun](https://justforfun.io/)
 - [Kore - An easy to use web platform for C and Python](https://kore.io/)
-- [[);](https://musicforprogramming.net/latest/|musicForProgramming();]]
+- [musicForProgramming();]();)
 - [pkg.go.dev](https://pkg.go.dev/?utm_source=godoc)
 - [Teknik](https://www.teknik.io/)
 - [The Go Play Space](https://goplay.space/)
@@ -38,4 +38,4 @@
 - [HTML Sanitizer Tool](https://defuse.ca/html-sanitize.htm)
 - [Melobytes.com - Music inspiration apps](https://melobytes.com/en)
 - [Meta](https://miraheze.org/)
-- [[Jupyter Notebook)](https://jupyter.org/|Project Jupyter (Jupyter Notebook)]]
+- [Project Jupyter (Jupyter Notebook)](Jupyter%20Notebook))
