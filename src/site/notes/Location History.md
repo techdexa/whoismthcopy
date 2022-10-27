@@ -10,7 +10,7 @@
 - [GPS Visualizer](https://www.gpsvisualizer.com/)
 - [KartaView](https://kartaview.org/landing)
 - [Location History Visualizer | Heatmap](https://locationhistoryvisualizer.com/heatmap/)
-- [[https://locationhistoryvisualizer.com/#about|https://locationhistoryvisualizer.com/#about]]
+- [](https://locationhistoryvisualizer.com/#about)
 - [Location profiling tool by DataThings](https://demo.datathings.com/lumo/)
 - [MyGeodata Cloud - GIS Data Warehouse, Converter, Maps](https://mygeodata.cloud/)
 - [OpenLayers - Welcome](https://openlayers.org/)
