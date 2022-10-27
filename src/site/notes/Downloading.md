@@ -12,7 +12,7 @@
 - [Getfbstuff.com/facebook-private-video-](https://getfbstuff.com/facebook-private-video-)
 ### Downloading Videos from Instagram
 - [Downvids](https://www.downvids.net/)
-- [[or videos) along with their captions and other metadata from Instagram.](https://github.com/instaloader/instaloader|GitHub - instaloader/instaloader: Download pictures (or videos) along with their captions and other metadata from Instagram.]]
+- [GitHub - instaloader/instaloader: Download pictures (or videos) along with their captions and other metadata from Instagram.](or%20videos)%20along%20with%20their%20captions%20and%20other%20metadata%20from%20Instagram.)
 - [InstaSave](https://instasave.xyz/)
 - [The best Instagram downloader on the net! try it now!](https://www.downloadvideosfrom.com/Instagram.php)
 ### Downloading Videos from Reddit
