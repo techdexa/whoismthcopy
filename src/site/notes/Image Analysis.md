@@ -7,7 +7,7 @@
 ### Image and Photo Editing
 - [AddText](https://addtext.com/)
 - [Affinity](https://affinity.serif.com/)
-- [[https://alicevision.org/#meshroom|https://alicevision.org/#meshroom]]
+- [](https://alicevision.org/#meshroom)
 - [BatchPhoto Espresso — Free Online Image Converter & Editor](https://www.batchphoto.com/espresso)
 - [Blurity!](https://www.blurity.com/)
 - [Bzzt! Image Editor - SingularLabs](https://singularlabs.com/software/bzzt-image-editor)
@@ -97,7 +97,7 @@
 - [ExifTool by Phil Harvey](https://exiftool.org/)
 - [exiftool download | SourceForge.net](https://sourceforge.net/projects/exiftool)
 - [FastPreview](https://tn123.org/fastpreview)
-- [[https://29a.ch/photo-forensics#level-sweep|https://29a.ch/photo-forensics#level-sweep]]
+- [](https://29a.ch/photo-forensics#level-sweep)
 - [GeoImgr](https://www.geoimgr.com/)
 - [GeoSetter](https://www.geosetter.de/)
 - [Ghiro](https://www.getghiro.org/)
@@ -115,7 +115,7 @@
 - [Java Exif Viewer download | SourceForge.net](https://sourceforge.net/projects/jexifviewer)
 - [Metadata Analysis](https://www.metadataanalysis.com/)
 - [Metadata Viewer](https://www.extractmetadata.com/)
-- [[https://metapicz.com/#landing|https://metapicz.com/#landing]]
+- [](https://metapicz.com/#landing)
 - [Onlineexifviewer.com](https://onlineexifviewer.com/)
 - [Photo-location.net](https://photo-location.net/)
 - [PhotoME](https://www.photome.de/)
