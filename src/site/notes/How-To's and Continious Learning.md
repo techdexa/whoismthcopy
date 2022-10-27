@@ -7,7 +7,7 @@
 ### Cheetsheet
 - [1541 Programming Cheat Sheets - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/programming/)
 - [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)
-- [[Know Thy Complexities!) @ericdrowell](https://www.bigocheatsheet.com/|Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell]]
+- [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](Know%20Thy%20Complexities!)%20@ericdrowell)
 - [Cheatsheets - roy4801's cheatsheet](https://docs.roy4801.tw/cheatsheets)
 - [cppreference.com](https://en.cppreference.com/w)
 - [Devhints — TL;DR for developer documentation](https://devhints.io/)
@@ -57,7 +57,7 @@
 - [Master Keyboard Shortcuts with KeyCombiner](https://keycombiner.com/)
 - [mhinz/vim-galore: All things Vim!](https://github.com/mhinz/vim-galore)
 - [Org Mode tools!](https://orgmode.org/worg/org-tools/index.html)
-- [[CLI) Tools For Modern Web Development — Smashing Magazine](https://www.smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/|Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development — Smashing Magazine]]
+- [Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development — Smashing Magazine](CLI)%20Tools%20For%20Modern%20Web%20Development%20%E2%80%94%20Smashing%20Magazine)
 - [Quanta Magazine | Science and Math News](https://www.quantamagazine.org/)
 - [Regex Learn - Step by step, from zero to advanced.](https://regexlearn.com/)
 - [showthedocs](http://showthedocs.com/)
