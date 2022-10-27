@@ -28,7 +28,7 @@
 - [regex101: build, test, and debug regex](https://regex101.com/)
 - [Sizzy — The last developer tool you need.](https://sizzy.co/)
 - [Take Your Github Repository To The Next Level 🚀️ - DEV Community](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge)
-- [[200+) - 🔥🎁 / Roadmap to dev 🚀 - DEV Community](https://dev.to/worldindev/the-ultimate-compilation-of-cheat-sheets-100-268g|The ultimate Cheat sheets compilation (200+) - 🔥🎁 / Roadmap to dev 🚀 - DEV Community]]
+- [The ultimate Cheat sheets compilation (200+) - 🔥🎁 / Roadmap to dev 🚀 - DEV Community](200+)%20-%20%F0%9F%94%A5%F0%9F%8E%81%20/%20Roadmap%20to%20dev%20%F0%9F%9A%80%20-%20DEV%20Community)
 - [This Connection Is Not Private](https://www.aerobatic.com/)
 - [What is Azure Static Web Apps? | Microsoft Docs](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
 - [Whatdoestheinternetthink.net - What does the internet think?](http://www.whatdoestheinternetthink.net/)
@@ -38,7 +38,7 @@
 - [Browse Public Dutch Discord Servers](https://discordservers.com/search/dutch)
 - [DISBOARD](https://disboard.org/)
 - [disboard.org/nl/search](https://disboard.org/nl/search)
-- [[script)](https://dht.chylex.com/|Discord History search (script)]]
+- [Discord History search (script)](script))
 - [Discord Lookup](https://discord.id/)
 - [Discord.st](https://discord.st/)
 - [DiscordBee - Public Discord Server List](https://discordbee.com/servers?q=dutch)
@@ -55,7 +55,7 @@
 - [Social Telegram Directory - Telegramic](https://telegramic.org/)
 - [Telegram Channels: A list of 2400+ channels in English](https://telegramchannels.me/channels)
 - [Telegram Groups List](https://tgram.io/)
-- [[https://xtea.io/ts_en.html#gsc.tab=0|https://xtea.io/ts_en.html#gsc.tab=0]]
+- [](https://xtea.io/ts_en.html#gsc.tab=0)
 - [Telegram Search. Search for posts](https://tgstat.com/search)
 - [Telegram: Contact @direct_llinks](https://t.me/direct_llinks)
 - [Telegram: Contact @TGMoviesBot](https://t.me/TGMoviesBot)
