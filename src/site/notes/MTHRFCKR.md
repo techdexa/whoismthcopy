@@ -78,7 +78,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 [[FMHY-MISC|FMHY-MISC]]
 [[FMHY-MOBILE-Piracy|FMHY-MOBILE-Piracy]]
 [[FMHY-Reading-Piracy|FMHY-Reading-Piracy]]
-[[FMHY-Storage|FMHY-Storage]]
+[[FMHY-Storage/FMHY-Storage|FMHY-Storage]]
 [[FMHY-TOOLS|FMHY-TOOLS]]
 [[FMHY-Torrent-Piracy|FMHY-Torrent-Piracy]]
 [[FMHY-Video-Piracy|FMHY-Video-Piracy]]
