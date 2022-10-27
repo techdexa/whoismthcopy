@@ -21,11 +21,11 @@
 
 [[► MISC-Cooking|► MISC-Cooking]]
 
-[[►  MISC-Health|►  MISC-Health]]
+[[► MISC-Health|► MISC-Health]]
 
 [[► MISC-Maps|► MISC-Maps]]
 
-[[►  MISC-Fonts|►  MISC-Fonts]]
+[[► MISC-Fonts|► MISC-Fonts]]
 
 [[► MISC-Extensions|► MISC-Extensions]]
 
