@@ -56,7 +56,7 @@
 - [SANS SIFT Workstation](https://www.sans.org/tools/sift-workstation)
 - [SELinux Project](https://github.com/SELinuxProject)
 - [SerenityOS](https://serenityos.org/)
-- [[SANS DFIR)](https://digital-forensics.sans.org/community/downloads|SIFT Workstation Download (SANS DFIR)]]
+- [SIFT Workstation Download (SANS DFIR)](SANS%20DFIR))
 - [SOF-ELK](https://github.com/philhagen/sof-elk)
 - [Subgraph](https://subgraph.com/)
 - [Tails](https://tails.boum.org/)
@@ -73,12 +73,12 @@
 
 ### Linux Training
 
-- [[With Examples)](https://www.thegeekstuff.com/2010/11/50-linux-commands|50 Most Frequently Used UNIX / Linux Commands (With Examples)]]
-- [[but) Useful Linux Commands | Bodhi LinuxBasic (but) Useful Linux Commands ]]
+- [50 Most Frequently Used UNIX / Linux Commands (With Examples)](With%20Examples))
+- [ Bodhi LinuxBasic (but) Useful Linux Commands | Bodhi Linux](https://www.bodhilinux.com/w/basic-but-useful-linux-commands|Basic (but) Useful Linux Commands | Bodhi LinuxBasic (but) Useful Linux Commands | Bodhi Linux](but)%20Useful%20Linux%20Commands%20)
 - [explainshell.com - sudo apt-get update && sudo apt-get upgrade](https://explainshell.com/explain?cmd=sudo+apt-get+update+%26%26+sudo+apt-get+upgrade)
 - [filetype:pdf linux commands - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=filetype%3Apdf+linux+commands)
 - [HakTip - Linux Terminal 101 - Getting Started - YouTube](https://www.youtube.com/watch?list=PLW5y1tjAOzI2ZYTlMdGzCV8AJuoqW5lKB&v=b5NmtmNwMgU)
-- [[LFS101) - Linux Foundation - Training](https://training.linuxfoundation.org/training/introduction-to-linux|Introduction to Linux (LFS101) - Linux Foundation - Training]]
+- [Introduction to Linux (LFS101) - Linux Foundation - Training](LFS101)%20-%20Linux%20Foundation%20-%20Training)
 - [Linux Commands Cheat Sheet | Linux Training Academy](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet)
 - [Linuxjourney](https://linuxjourney.com/)
 - [Switching From Windows to Nix or a Newbie to Linux - 20 Useful Commands for Linux Newbies](https://www.tecmint.com/useful-linux-commands-for-newbies)
