@@ -10,7 +10,7 @@
 - [Design Resources](https://designresources.io/?ref=producthunt)
 - [Design rocks](https://www.design.rocks/)
 - [https://www.appimagehub.com](https://www.appimagehub.com/)
-- [[https://mega.nz/#F!yDgHWILD!ZH3Z1Tdmv9S9R0-CVGOFVQ|https://mega.nz/#F!yDgHWILD!ZH3Z1Tdmv9S9R0-CVGOFVQ]]
+- [](https://mega.nz/#F!yDgHWILD!ZH3Z1Tdmv9S9R0-CVGOFVQ)
 - [Namecheap](https://www.namecheap.com/)
 - [One Drive](https://jia666-my.sharepoint.com/_layouts/15/Throttle.htm)
 - [Stock Photo and Image Portfolio by Andrew Derr](https://www.shutterstock.com/g/hirohideki)
