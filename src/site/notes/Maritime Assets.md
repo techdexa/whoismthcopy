@@ -5,8 +5,8 @@
 
 ## Maritime Assets
 - [AIS Hub](http://www.aishub.net/)
-- [[HIN) Search](https://www.boatfax.com/index.php?Itemid=184&option=com_bfx_checkit|BoatFax Hull ID Number (HIN) Search]]
-- [[document.domain); at Directnic](http://arundale.com/docs/ais/ais_decoder.html|document.write(document.domain); at Directnic]]
+- [BoatFax Hull ID Number (HIN) Search](HIN)%20Search)
+- [document.write(document.domain); at Directnic](document.domain);%20at%20Directnic)
 - [Florida Hull Number Search](http://pas.fdle.state.fl.us/pas/restricted/PAS/StolenBoats.jsf)
 - [MarineTraffic](https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4)
 - [My Home – IHS Maritime & Trade](http://maritime.ihs.com/)
