@@ -63,7 +63,7 @@
 - [WindowSwap](https://www.window-swap.com/)
 - [Windy.com](https://www.windy.com/)
 - [Wisuki](https://wisuki.com/)
-- [[https://www.hereinreality.com/webcams#.Xm_6UFVKjIU|https://www.hereinreality.com/webcams#.Xm_6UFVKjIU]]
+- [](https://www.hereinreality.com/webcams#.Xm_6UFVKjIU)
 - [World Webcams: Live Stream Events, Sports, Festivals, NYE Webcast Feeds](https://www.myworldwebcams.com/)
 - [World-webcams.net](https://www.world-webcams.net/)
 - [World-webcams.nsspot.net](https://world-webcams.nsspot.net/)
