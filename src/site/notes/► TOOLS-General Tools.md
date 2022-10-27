@@ -255,10 +255,6 @@
 
 ***
 
-## ▷ [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools)
-
-***
-
 ## ▷ Video Tools
 
 * ⭐ **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Tool Index
@@ -613,14 +609,6 @@
 
 ***
 
-## ▷ [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools)
-
-***
-
-## ▷ [Educational Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_educational_tools)
-
-***
-
 ## ▷ Career Tools
 
 * ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
@@ -709,9 +697,5 @@
 * [protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - Crypto Protocols
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
 * [Wasabi](https://wasabiwallet.io/) - FOSS Bitcoin Wallet
-
-***
-
-## ▷ [Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools)
 
 ***
