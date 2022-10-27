@@ -61,11 +61,6 @@
 
 ***
 
-## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_torrenting)
-
-***
-
-
 
 # ► Torrent Sites FMHY
 
@@ -161,25 +156,5 @@
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
 * [magnetico](https://github.com/boramalper/magnetico) or [Torrentinim](https://github.com/sergiotapia/torrentinim) - Self-Hosted Torrent Search Engine
 * [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - Telegram Torrent Search Bot
-
-***
-
-## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_sites)
-
-***
-
-## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_torrenting)
-
-***
-
-## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_educational_torrenting)
-
-***
-
-## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_torrent_games)
-
-***
-
-## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_audio_torrenting)
 
 ***
