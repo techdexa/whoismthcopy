@@ -64,7 +64,7 @@
 - [SAP Software & Solutions](https://www.sap.com/)
 - [Self-service BI & Analytics Software – Zoho Analytics](https://www.zoho.com/analytics)
 - [Self-Service Data Analytics Platform](https://www.alteryx.com/)
-- [[https://www.talend.com/products/data-preparation#free-|https://www.talend.com/products/data-preparation#free-]]
+- [](https://www.talend.com/products/data-preparation#free-)
 - [Targit.com](https://www.targit.com/)
 - [Tellius.com](https://www.tellius.com/)
 - [ThoughtSpot](https://www.thoughtspot.com/)
@@ -96,7 +96,7 @@
 - [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie)
 - [Mozenda](https://www.mozenda.com/)
 - [Octoparse](https://www.octoparse.com/)
-- [[pdf,doc,xls...) - Free Download](https://www.outwit.com/products/docs|OutWit Docs: Extract Document Collections (pdf,doc,xls...) - Free Download]]
+- [OutWit Docs: Extract Document Collections (pdf,doc,xls...) - Free Download](pdf,doc,xls...)%20-%20Free%20Download)
 - [OutWit Hub - Find, grab and organize all kinds of data and media from online sources.](https://www.outwit.com/products/hub)
 - [Portia](https://scrapinghub.com/portia)
 - [PROWEBSCRAPER](https://prowebscraper.com/)
@@ -126,7 +126,7 @@
 - [SchemaCrawler](https://www.schemacrawler.com/)
 - [State of Databases 2022](https://stateofdb.com/)
 ### Graphs
-- [[https://datacopia.com/#/|https://datacopia.com/#/]]
+- [](https://datacopia.com/#/)
 - [Gephi - The Open Graph Viz Platform](https://gephi.github.io/)
 - [Home](https://rawgraphs.io/)
 - [Koia Data Analysis](https://www.koia.io/intro/index.html)
@@ -142,7 +142,7 @@
 - [Convert Excel time to UTC time](https://gist.github.com/erikvullings/825283249a5b4617d0f36bcba4fa8be8)
 - [ConvertCSV APIs](https://www.convertcsv.io/?ref=producthunt)
 - [CSV Schema](https://csv-schema.surge.sh/)
-- [[CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s) - Libraries & Tools](https://github.com/csvspecs/awesome-csv|csvspecs/awesome-csv: Awesome Comma-Separated Values (CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s) - Libraries & Tools]]
+- [csvspecs/awesome-csv: Awesome Comma-Separated Values (CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s) - Libraries & Tools](CSV)%20-%20What's%20Next?%20-%20Frequently%20Asked%20Questions%20(F.A.Q.s)%20-%20Libraries%20&%20Tools)
 - [data organization](https://kbroman.org/dataorg/)
 - [Excel Formula Generator - Excel Formula AI Bot](https://excelformulabot.com/)
 - [Flatfile Data Onboarding for Product Managers](https://flatfile.com/teams/product/?ref=ph_home&utm_campaign=producthunt-display_q1-2022-flatfile-promotion-march&utm_content=traffic&utm_medium=display&utm_source=partner&utm_term=product-experience-mofu_variant-1)
@@ -267,4 +267,4 @@
 - [Vortex](https://www.dotmatics.com/products/vortex)
 - [WarmMachine](https://www.warmmachine.org/)
 - [XML Editor, JSON Editor, Code Generator, Data Integration and Web Services Toolkit](https://www.liquid-technologies.com/)
-- [[https://zenobase.com/#/|https://zenobase.com/#/]]
+- [](https://zenobase.com/#/)
