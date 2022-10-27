@@ -7,18 +7,18 @@
 
 ---
 
-[[Data Integration and Visualisers|Data Integration and Visualisers]]
+[Data Integration and Visualisers](Data%20Integration%20and%20Visualisers.md)
 
-[[Facebook|Facebook]]
+[Facebook](Facebook.md)
 
-[[Financial|Financial]]
+[Financial](Financial.md)
 
-[[iOS|iOS]]
+[iOS](iOS.md)
 
-[[Journal|Journal]]
+[Journal](Journal.md)
 
-[[Location History|Location History]]
+[Location History](Location%20History.md)
 
-[[Text Messages|Text Messages]]
+[Text Messages](Text%20Messages.md)
 
 ---
