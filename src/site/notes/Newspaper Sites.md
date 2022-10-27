@@ -19,10 +19,10 @@
 - [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](http://archive.org/)
 - [Los Angeles Times archive from 1881-2022](https://latimes.newspapers.com/)
 - [Magazines & Newspapers | Mobilism](https://forum.mobilism.org/viewforum.php?f=123)
-- [[Serial and Government Publications Division, Library of Congress)](https://www.loc.gov/rr/news/oltitles.html|Newspaper Archives/Indexes/Morgues - Newspaper and Current Periodical Reading Room (Serial and Government Publications Division, Library of Congress)]]
+- [Newspaper Archives/Indexes/Morgues - Newspaper and Current Periodical Reading Room (Serial and Government Publications Division, Library of Congress)](Serial%20and%20Government%20Publications%20Division,%20Library%20of%20Congress))
 - [Newspaper Map](https://newspapermap.com/)
 - [Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers)
-- [[https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_worldwide_news_sites_index|https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_worldwide_news_sites_index]]
+- [](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_worldwide_news_sites_index)
 - [Where to Find Historical Newspapers Online for each US State](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 - [World Newspapers and Magazines on your Finger Tip | World-Newspapers.com](https://world-newspapers.com/)
 - [Газеты на английском/Newspapers English / FR /DE](https://vk.com/engnewspapers)
