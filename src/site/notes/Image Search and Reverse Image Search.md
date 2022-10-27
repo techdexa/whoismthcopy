@@ -21,7 +21,7 @@
 - [Photo-map.ru](https://photo-map.ru/)
 - [Places2: A Large-Scale Database for Scene Understanding](https://places2.csail.mit.edu/explore.html)
 - [Places2.csail.mit.edu](https://places2.csail.mit.edu/)
-- [[free online tool)](https://ezgif.com/reverse|Reverse Animated GIFs (free online tool)]]
+- [Reverse Animated GIFs (free online tool)](free%20online%20tool))
 - [Reverse Image Analyser | OSINT Combine](https://www.osintcombine.com/reverse-image-analyzer)
 - [Reverse Image Search](https://www.reverse-image-search.com/)
 - [Revimg.com](https://www.revimg.com/)
