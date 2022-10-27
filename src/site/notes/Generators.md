@@ -10,7 +10,7 @@
 - [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e)
 - [Data Fake Generator](https://datafakegenerator.com/)
 - [Domain Hack Generator - The last tool you will ever need!](https://domainhacks.info/)
-- [[Instant Ideas, no Ads) - DomainWheel](https://domainwheel.com/|Domain Name Generator (Instant Ideas, no Ads) - DomainWheel]]
+- [Domain Name Generator (Instant Ideas, no Ads) - DomainWheel](Instant%20Ideas,%20no%20Ads)%20-%20DomainWheel)
 - [Elfqirin](https://elfqrin.com/)
 - [Emkei's Fake Mailer](https://emkei.cz/)
 - [Fake Name Generator](https://namefake.com/)
