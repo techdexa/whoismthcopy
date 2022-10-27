@@ -18,7 +18,7 @@
 - [GitHub - public-apis/public-apis: A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 - [Integrate the IFTTT API with the Spotify API - Pipedream](https://pipedream.com/apps/ifttt/integrations/spotify)
 - [Intellexer – Text Mining Solutions for Everyone](https://www.intellexer.com/)
-- [[https://portal.azure.com/Error/UE_404?aspxerrorpath=%2F#home|https://portal.azure.com/Error/UE_404?aspxerrorpath=%2F#home]]
+- [](https://portal.azure.com/Error/UE_404?aspxerrorpath=%252F#home)
 - [n0shake/Public-APIs: 📚 A public list of APIs from round the web.](https://github.com/n0shake/Public-APIs)
 - [NocoDB | Turns your SQL database into a Nocode platform. Free & Open Source.](https://www.nocodb.com/)
 - [Overview - My Workspace](https://web.postman.co/workspace/My-Workspace~17584f92-4718-4f95-8dc2-c1c5cdd9d09e/overview?workspaceOnboarding=show)
@@ -31,7 +31,7 @@
 - [Web API | Spotify for Developers](https://developer.spotify.com/documentation/web-api/)
 - [Youtube to Mp3 Converter Api](https://api.vevioz.com/)
 ### Automation
-- [[mattermost not required!)](https://github.com/42wim/matterbridge|42wim/matterbridge: bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)]]
+- [42wim/matterbridge: bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)](mattermost%20not%20required!))
 - [A Global Leader in Intelligent Automation & RPA | Automation Anywhere](https://www.automationanywhere.com/)
 - [Abhishek says...](https://integrately.com/?ref=pxwtps)
 - [ActiveWorkflow - Turn complex requirements to workflows without leaving the comfort of your technology stack.](https://www.activeworkflow.org/)
@@ -43,7 +43,7 @@
 - [balenaHub: an easier way to find and publish fleets and projects for edge devices](https://hub.balena.io/what-is-balenahub)
 - [Bardeen | Automate your repetitive tasks with one click](https://www.bardeen.ai/)
 - [bip.io - For People and Robots](https://bip.io/)
-- [[https://bablosoft.com/shop/BrowserAutomationStudio#screenshots|https://bablosoft.com/shop/BrowserAutomationStudio#screenshots]]
+- [](https://bablosoft.com/shop/BrowserAutomationStudio#screenshots)
 - [Build & scale high value integrations | tray.io](https://tray.io/)
 - [Butternut - Keep control of your automation](https://butternut.tech/integrations)
 - [Butternut | Keep control of your automation](https://butternut.tech/)
@@ -62,12 +62,12 @@
 - [Fusebit - Build integrations for your app with ease](https://fusebit.io/)
 - [Google Apps Scripts Collection - The Best Google Scripts](http://www.labnol.org/internet/google-scripts/28281)
 - [Hammerspoon](http://www.hammerspoon.org/)
-- [[https://pingme.lmno.pk/#/|https://pingme.lmno.pk/#/]]
+- [](https://pingme.lmno.pk/#/)
 - [Home - Cognifirm](https://cognifirm.com/)
 - [Home | Packal](http://www.packal.org/)
-- [[et al) - Web - Automators Talk](https://talk.automators.fm/t/how-i-track-my-life-with-integromat-airtable-shortcuts-and-timing-et-al/5507/31|How I track my life with Integromat, Airtable, Shortcuts and Timing (et al) - Web - Automators Talk]]
+- [How I track my life with Integromat, Airtable, Shortcuts and Timing (et al) - Web - Automators Talk](et%20al)%20-%20Web%20-%20Automators%20Talk)
 - [Huginn: An Open-Source, Self-Hosted IFTTT - DZone Web Dev](https://dzone.com/articles/huginn-an-open-source-self-hosted-ifttt)
-- [[HIP) | APIANT](https://apiant.com/index]]
+- [ APIANT](https://apiant.com/index|Hybrid Integration Platform (HIP) | APIANT](HIP)%20)
 - [Instantly follow up on Facebook Lead Ads and act while the lead is hot](https://www.stargate365.com/)
 - [Integration, automation, & API management | Martini | Toro Cloud](https://www.torocloud.com/martini)
 - [Integromat - Automate your workflow](https://www.integromat.com/en)
@@ -103,7 +103,7 @@
 - [Try Diagram - The most complete Nocode API builder](https://www.ondiagram.com/)
 - [TypedWebhook.tools: a tool to test webhooks and generate payload types](https://typedwebhook.tools/)
 - [Unito: Build and Optimize Workflows Across Tools and Teams](https://unito.io/)
-- [[https://www.softwareag.cloud/site/product/webmethods-io-integration.html#/|https://www.softwareag.cloud/site/product/webmethods-io-integration.html#/]]
+- [](https://www.softwareag.cloud/site/product/webmethods-io-integration.html#/)
 - [What is a Webhook?](https://ifttt.com/explore/what-is-a-webhook)
 - [Workflow Automation & App Integration Software | ZapUp by 500apps](https://zapup.com/)
 - [Workflow Tips for Beginners | Sayz Lim](https://sayzlim.net/workflow-tips-beginners)
@@ -141,15 +141,15 @@
 - [00 - Start here - Obsidian Publish](https://publish.obsidian.md/hub/00+-+Start+here)
 - [Automate Your Life](https://automatelife.net/)
 - [Automators Talk](https://talk.automators.fm/)
-- [[iOS) (@Best_Shortcuts)](https://twitter.com/Best_Shortcuts|Best Shortcuts (iOS) (@Best_Shortcuts)]]
-- [[@chartyios)](https://twitter.com/chartyios|Charty (@chartyios)]]
-- [[@datajarapp)](https://twitter.com/datajarapp|Data Jar (@datajarapp)]]
-- [[@draftsapp)](https://twitter.com/draftsapp|Drafts (@draftsapp)]]
+- [Best Shortcuts (iOS) (@Best_Shortcuts)](iOS)%20(@Best_Shortcuts))
+- [Charty (@chartyios)](@chartyios))
+- [Data Jar (@datajarapp)](@datajarapp))
+- [Drafts (@draftsapp)](@draftsapp))
 - [Drafts Community](https://forums.getdrafts.com/)
 - [Drafts Directory: Drafts Directory](https://actions.getdrafts.com/)
 - [Drafts Script Reference](https://scripting.getdrafts.com/)
 - [GitHub: Where the world builds software](https://github.com/)
-- [[@GizmoPack)](https://twitter.com/GizmoPack|GizmoPack (@GizmoPack)]]
+- [GizmoPack (@GizmoPack)](@GizmoPack))
 - [Home](https://docs.getdrafts.com/)
 - [Home](https://yarnpkg.com/)
 - [Homepage](https://www.matthewcassinelli.com/)
@@ -159,14 +159,14 @@
 - [https://www.reddit.com/r/shortcuts/](https://www.reddit.com/r/shortcuts)
 - [https://www.reddit.com/r/ToolboxPro/](https://www.reddit.com/r/ToolboxPro)
 - [ifttt - npm search](https://www.npmjs.com/search?q=ifttt)
-- [[@IFTTT)](https://twitter.com/IFTTT|IFTTT (@IFTTT)]]
+- [IFTTT (@IFTTT)](@IFTTT))
 - [IFTTT projects](https://www.hackster.io/ifttt)
-- [[@macpowerusers)](https://twitter.com/macpowerusers|Mac Power Users (@macpowerusers)]]
+- [Mac Power Users (@macpowerusers)](@macpowerusers))
 - [MacStories](https://www.macstories.net/tag/shortcuts)
 - [MPU Talk](https://talk.macpowerusers.com/)
 - [Newest 'ifttt' Questions](https://stackoverflow.com/questions/tagged/ifttt)
 - [npm](https://www.npmjs.com/)
-- [[@obsdmd)](https://twitter.com/obsdmd|Obsidian (@obsdmd)]]
+- [Obsidian (@obsdmd)](@obsdmd))
 - [Product Hunt – The best new products in tech.](https://www.producthunt.com/search)
 - [Pushcut - Help & Support: Automation Server](https://www.pushcut.io/support_automation_server.html)
 - [Pushcut - Help & Support: Notifications, Shortcuts & Triggers](https://www.pushcut.io/support_notifications.html)
@@ -174,20 +174,20 @@
 - [Pushcut - Help & Support: Widgets](https://www.pushcut.io/support_widgets.html)
 - [Pushcut - Notification Guides & Examples](https://www.pushcut.io/guides_notifications.html)
 - [Pushcut - Widget Guides & Examples](https://www.pushcut.io/guides_widgets.html)
-- [[@pushcut_app)](https://twitter.com/pushcut_app|pushcut.io (@pushcut_app)]]
-- [[@RosemaryOrchard)](https://twitter.com/RosemaryOrchard|Rosemary Orchard (@RosemaryOrchard)]]
+- [pushcut.io (@pushcut_app)](@pushcut_app))
+- [Rosemary Orchard (@RosemaryOrchard)](@RosemaryOrchard))
 - [RoutineHub](https://routinehub.co/)
-- [[@routinehub)](https://twitter.com/routinehub|RoutineHub (@routinehub)]]
-- [[@shareshortcuts)](https://twitter.com/shareshortcuts|shareshortcuts (@shareshortcuts)]]
-- [[@shortcutify)](https://twitter.com/shortcutify|Shortcutify (@shortcutify)]]
-- [[@siri_shortcuts)](https://twitter.com/siri_shortcuts|Shortcuts Gallery (@siri_shortcuts)]]
+- [RoutineHub (@routinehub)](@routinehub))
+- [shareshortcuts (@shareshortcuts)](@shareshortcuts))
+- [Shortcutify (@shortcutify)](@shortcutify))
+- [Shortcuts Gallery (@siri_shortcuts)](@siri_shortcuts))
 - [ShortcutsGallery.com - Download and share Siri Shortcuts](https://shortcutsgallery.com/)
 - [Sourcegraph](https://sourcegraph.com/search)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [Taio - Markdown & Text Actions](https://taio.app/)
-- [[@TaioApp)](https://twitter.com/TaioApp|Taio (@TaioApp)]]
+- [Taio (@TaioApp)](@TaioApp))
 - [Tools](https://toolboxpro.app/tools)
-- [[@UpdateKit)](https://twitter.com/UpdateKit|UpdateKit API for Shortcuts (@UpdateKit)]]
+- [UpdateKit API for Shortcuts (@UpdateKit)](@UpdateKit))
 - [UpdateKit API v1 • Mike Beasley](https://www.mikebeas.com/updatekit-api/v1)
 ### RSS
 #### RSS Tools
@@ -205,7 +205,7 @@
 - [★ Reeder](https://reederapp.com/)
 - [BazQux Reader](https://bazqux.com/)
 - [Cappuccinoapp.com](https://cappuccinoapp.com/)
-- [[en-US)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds|Drop Feeds – Get this Extension for 🦊 Firefox (en-US)]]
+- [Drop Feeds – Get this Extension for 🦊 Firefox (en-US)](en-US))
 - [Feed Reader](https://feedreader.com/)
 - [Feedbin](https://feedbin.com/)
 - [Feedbro - RSS Feed Reader with built-in Rule Engine](https://nodetics.com/feedbro)
@@ -217,10 +217,10 @@
 - [Fraidycat](https://fraidyc.at/)
 - [GitHub - feedjira/feedjira: A feed parsing library](https://github.com/feedjira/feedjira)
 - [GitHub - felfele/feeds: A completely free and independent mobile RSS reader with no algorithmic timeline](https://github.com/felfele/feeds)
-- [[RSS/Atom)](https://github.com/FredJul/Flym|GitHub - FredJul/Flym: Flym News Reader is a light Android feed reader (RSS/Atom)]]
+- [GitHub - FredJul/Flym: Flym News Reader is a light Android feed reader (RSS/Atom)](RSS/Atom))
 - [GitHub - jtanza/rufus: Rufus - fetches the paper for you!](https://github.com/jtanza/rufus)
 - [GitHub - lawzava/mynews: Personalized news feed parser & broadcast](https://github.com/lawzava/mynews)
-- [[Linux Feed Reader), a news reader for GTK/GNOME](https://github.com/lwindolf/liferea|GitHub - lwindolf/liferea: Liferea (Linux Feed Reader), a news reader for GTK/GNOME]]
+- [GitHub - lwindolf/liferea: Liferea (Linux Feed Reader), a news reader for GTK/GNOME](Linux%20Feed%20Reader),%20a%20news%20reader%20for%20GTK/GNOME)
 - [GitHub - martinrotter/rssguard: RSS Guard is simple feed reader which supports web-based feed services.](https://github.com/martinrotter/rssguard)
 - [GitHub - nkanaev/yarr: yet another rss reader](https://github.com/nkanaev/yarr)
 - [GitHub - Ranchero-Software/NetNewsWire: RSS reader for macOS and iOS.](https://github.com/Ranchero-Software/NetNewsWire)
@@ -278,7 +278,7 @@
 - [How to Create an RSS Feed for Your Site From Scratch](https://www.makeuseof.com/tag/how-to-create-an-rss-feed-for-your-site-from-scratch)
 - [How to Create an RSS Feed for Your Site From Scratch](https://www.makeuseof.com/tag/how-to-create-an-rss-feed-for-your-site-from-scratch/amp/)
 - [How to generate an RSS feed for your blog](https://www.contentful.com/blog/2021/03/05/generate-blog-rss-feed-with-javascript-and-netlify/)
-- [[https://www.cloudwards.net/how-to-set-up-an-rss-feed/#setting-up-an-rss-feed|https://www.cloudwards.net/how-to-set-up-an-rss-feed/#setting-up-an-rss-feed]]
+- [](https://www.cloudwards.net/how-to-set-up-an-rss-feed/#setting-up-an-rss-feed)
 - [Ino Reader](https://www.inoreader.com/)
 - [Kill the Newsletter!](https://www.kill-the-newsletter.com/)
 - [Mail Chimp](https://mailchimp.com/)
