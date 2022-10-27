@@ -58,10 +58,6 @@
 
 ***
 
-## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)
-
-***
-
 ## ▷ 3D Models
 
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models) - 3D Model Download Sites
