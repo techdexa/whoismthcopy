@@ -7,18 +7,18 @@
 
 ---
 
-[[Apps|Apps]]
+[Apps](Apps.md)
 
-[[Audio|Audio]]
+[Audio](Audio.md)
 
-[[Cloud Dev|Cloud Dev]]
+[Cloud Dev](Cloud%20Dev.md)
 
-[[Decentralized|Decentralized]]
+[Decentralized](Decentralized.md)
 
-[[Deployment|Deployment]]
+[Deployment](Deployment.md)
 
-[[Search|Search]]
+[Search](Search.md)
 
-[[Tools|Tools]]
+[Tools](Tools.md)
 
 ---
