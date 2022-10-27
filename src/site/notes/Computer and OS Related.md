@@ -7,20 +7,20 @@
 
 ---
 
-[[File Organization|File Organization]]
+[File Organization](File%20Organization.md)
 
-[[Hackintosh|Hackintosh]]
+[Hackintosh](Hackintosh.md)
 
-[[Hard Drives|Hard Drives]]
+[Hard Drives](Hard%20Drives.md)
 
-[[Jailbreak|Jailbreak]]
+[Jailbreak](Jailbreak.md)
 
-[[Linux|Linux]]
+[Linux](Linux.md)
 
-[[Mac Apps|Mac Apps]]
+[Mac Apps](Mac%20Apps.md)
 
-[[Mobile Apps|Mobile Apps]]
+[Mobile Apps](Mobile%20Apps.md)
 
-[[OS Other|OS Other]]
+[OS Other](OS%20Other.md)
 
-[[Windows Software|Windows Software]]
+[Windows Software](Windows%20Software.md)
