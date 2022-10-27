@@ -13,7 +13,7 @@
 - [Globaledge.msu.edu/global-resources/resource/1274](http://globaledge.msu.edu/global-resources/resource/1274)
 - [GuideStar nonprofit reports and Forms 990 for donors, grantmakers, and businesses](http://www.guidestar.org/Home.aspx)
 - [Pibuzz.com/government-salaries/](http://pibuzz.com/government-salaries)
-- [[https://radaris.com/#findBussH|https://radaris.com/#findBussH]]
+- https://radaris.com/#findBussH
 - [Www.canada.ca/en/services/business/research.html](http://www.canada.ca/en/services/business/research.html)
 - [Www.clearhq.org/Directory](http://www.clearhq.org/Directory)
 - [Www.dnb.ca/](http://www.dnb.ca/)
