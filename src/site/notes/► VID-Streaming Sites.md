@@ -297,7 +297,3 @@
 * [Blind User Audio Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blind_user_audio_drives) or [Audiovault](https://audiovault.net/) - Descriptive Audio for Blind Users
 
 ***
-
-## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_streaming)
-
-***
