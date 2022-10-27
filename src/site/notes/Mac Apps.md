@@ -10,7 +10,7 @@
 - [[ Mac Software ] | AppNee Freeware Group.](https://appnee.com/category/mac-software)
 - [All Mac World - MAC Apps One Click Away](https://allmacworld.com/)
 - [Applications macOS - SoftArchive](https://sanet.st/applications/filter/page-1?subcategory%5B0%5D=mac-software)
-- [[macOS Big Sur)](https://appstorrent.ru/|AppStorrent - Games and software for Mac (macOS Big Sur)]]
+- [AppStorrent - Games and software for Mac (macOS Big Sur)](macOS%20Big%20Sur))
 - [Best Open Source Mac Software 2022](https://sourceforge.net/directory/os:mac/)
 - [Cmacked - Cracked Mac Apps & Games](https://apps.cmacked.com/)
 - [Cracked iOS & Mac App Store Apps Free Download | AppCake](https://www.iphonecake.com/)
@@ -22,7 +22,7 @@
 - [Haxmac | Cracked Mac Apps Store](https://haxmac.cc/)
 - [Mac Informer - Application downloads and editorial reviews for macOS](https://macdownload.informer.com/)
 - [Mac Torrent Download - Torrents for Mac Apps, Games, Plugins](https://mac-torrent-download.net/)
-- [[like Ninite for Mac)](https://macapps.link/|macapps.link · Get Mac apps automatically (like Ninite for Mac)]]
+- [macapps.link · Get Mac apps automatically (like Ninite for Mac)](like%20Ninite%20for%20Mac))
 - [MacDrop - Cracked Mac Apps & Games](https://macdrop.net/)
 - [MacOS - Scnlog.me](https://scnlog.me/apps/macos)
 - [MacOS apps, utilities and programs Free Download - FileCR](https://filecr.com/macos?id=260042742353)
@@ -42,7 +42,7 @@
 - [‎HandyText Tool](https://apps.apple.com/us/app/handytext-tool/id1596294097?mt=12)
 - [Hex Fiend, a fast and clever hex editor for macOS](https://hexfiend.com/)
 - [Keyboard Maestro 10.0.2: Work Faster with Macros for macOS](https://www.keyboardmaestro.com/main/)
-- [[http://www.mactechnologies.com/index.php?page=downloads#regexrx|http://www.mactechnologies.com/index.php?page=downloads#regexrx]]
+- [](http://www.mactechnologies.com/index.php?page=downloads#regexrx)
 - [Manipulist](https://apps.apple.com/gb/app/manipulist/id1577983405)
 - [‎MarkDownload](https://apps.apple.com/us/app/markdownload/id1554029832?mt=12)
 - [Onivim 2 - Modal Editing from the Future](https://www.onivim.io/)
@@ -59,5 +59,5 @@
 - [‎TelepaText - editor, speech](https://apps.apple.com/us/app/telepatext-editor-speech/id908007516?mt=12)
 - [‎TextLab](https://apps.apple.com/us/app/textlab/id1024903185?mt=12)
 - [‎TextLab 2](https://apps.apple.com/us/app/textlab-2/id1582888285?mt=12)
-- [[https://ueli.app/#/|https://ueli.app/#/]]
+- [](https://ueli.app/#/)
 - [‎Wunderbucket](https://apps.apple.com/us/app/wunderbucket/id1545630520?mt=12)
