@@ -48,4 +48,4 @@
 - [Unstoppable Domains](https://unstoppabledomains.com/)
 - [WebsiteHydra - Website Hosting Solutions by Secure Dragon LLC.](https://websitehydra.com/)
 - [Weebly](https://weebly.com/)
-- [[https://x10hosting.com/#features|https://x10hosting.com/#features]]
+- [](https://x10hosting.com/#features)
