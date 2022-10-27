@@ -22,7 +22,7 @@
 - [neo4j.com](https://neo4j.com/)
 - [ORA-LITE: Software](https://www.casos.cs.cmu.edu/projects/ora/software.php)
 - [Processing](https://processingjs.org/)
-- [[https://www.indiegogo.com/projects/rawgraphs-2-0-a-web-app-for-data-visualization#/|https://www.indiegogo.com/projects/rawgraphs-2-0-a-web-app-for-data-visualization#/]]
+- [](https://www.indiegogo.com/projects/rawgraphs-2-0-a-web-app-for-data-visualization#/)
 - [ScribbleMaps](https://www.scribblemaps.com/)
 - [Sentinel Visualiser](https://www.fmsasg.com/)
 - [Spatial.ly](https://spatial.ly/)
@@ -30,7 +30,7 @@
 - [TouchGraph.com](https://www.touchgraph.com/seo)
 - [VIS Desktop](https://docs.alephdata.org/guide/vis-desktop)
 - [Visallo: Investigative Data Analysis Tool | Data-Driven Software](https://www.visallo.com/)
-- [[@VisualCap)](https://twitter.com/visualcap|Visual Capitalist (@VisualCap)]]
+- [Visual Capitalist (@VisualCap)](@VisualCap))
 - [Visual.ly](https://visual.ly/)
 - [Vizualize.me](https://vizualize.me/)
 - [yEd Graph Editor](https://www.yworks.com/products/yed)
