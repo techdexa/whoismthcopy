@@ -4,4 +4,4 @@
 
 
 ## Hacking
-- [[http://map.norsecorp.com/#/?geo=eu|http://map.norsecorp.com/#/?geo=eu]]
+- [](http://map.norsecorp.com/#/?geo=eu)
