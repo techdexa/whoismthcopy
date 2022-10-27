@@ -14,7 +14,7 @@
 - [Free HD stock footage](https://vimeo.com/groups/freehd)
 - [Free stock videos · Pexels Videos](https://www.pexels.com/videos)
 - [General Footage](https://www.beachfrontbroll.com/p/general-stock-video.html)
-- [[https://mazwai.com/#/grid|https://mazwai.com/#/grid]]
+- [](https://mazwai.com/#/grid)
 - [mixkit.co](https://mixkit.co/free-stock-video)
 - [Motionplaces.com](https://www.motionplaces.com/)
 - [movietools.info/](https://movietools.info/)
@@ -39,7 +39,7 @@
 - [Free Design Resources : Vector : Psd : Icons | Graphichive.Net](https://graphichive.net/)
 - [Free Print Templates - Graphic Design - Stock Vectors - Web Design Elements](https://graphicflux.com/)
 - [Freepik](https://br.freepik.com/)
-- [[https://github.com/goabstract/Awesome-Design-Tools#stock-videos|https://github.com/goabstract/Awesome-Design-Tools#stock-videos]]
+- [](https://github.com/goabstract/Awesome-Design-Tools#stock-videos)
 - [Graphic4share.com - Download Graphic for Free vectors, photoshop, icons, fonts, templates, software, tutorials, design, images, stock photos, wallpapers, magazines, e-books, wordpress themes, joomla](https://graphic4share.com/)
 - [GraphicBurger](https://graphicburger.com/)
 - [Graphicsfamily.com](https://graphicsfamily.com/)
@@ -96,7 +96,7 @@
 - [www.lifeofvids.com/](https://www.lifeofvids.com/)
 #### Shooting and Editing Tools
 - [3d animation software | Learn how to make animations | Moviestorm for filmmakers](https://www.moviestorm.co.uk/)
-- [[paid employer brand video service)](https://www.altrulabs.com/|Altru- (paid employer brand video service)]]
+- [Altru- (paid employer brand video service)](paid%20employer%20brand%20video%20service))
 - [DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve)
 - [HitFilm Express: Free editing & VFX software](https://fxhome.com/hitfilm-express)
 - [iMovie](https://www.apple.com/imovie)
@@ -130,7 +130,7 @@
 - [NewTubers](https://www.reddit.com/r/NewTubers)
 - [r/videography](https://www.reddit.com/r/videography)
 - [The DV Info Net Forum](https://www.dvinfo.net/forum)
-- [[non professionals)](https://www.reddit.com/r/VideoEditing|Video Editing (non professionals)]]
+- [Video Editing (non professionals)](non%20professionals))
 - [Video Editing Community](https://discordapp.com/invite/9WhN8bp)
 - [Video Editing Forums: Digital Director](https://www.videoforums.co.uk/)
 #### Video Hosting Platforms
