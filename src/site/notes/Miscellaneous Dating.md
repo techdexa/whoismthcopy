@@ -69,7 +69,7 @@
 - [Slixa](https://www.slixa.com/)
 - [SocialSex](http://www.socialsex.com/)
 - [Southern GFE](https://www.southerngfe.com/)
-- [[https://www.sudyapp.com/#/|https://www.sudyapp.com/#/]]
+- [](https://www.sudyapp.com/#/)
 - [Sudy Cougar](https://sudyapp.com/blog/sudy-cougar-steadily-climbs-app-store-social-networking-app-rankings)
 - [Sudy Gay - Google Play](https://play.google.com/store/apps/details?hl=en&id=com.sudy.gay)
 - [Sugar D](http://sugard.co/)
