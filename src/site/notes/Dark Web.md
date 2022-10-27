@@ -19,7 +19,7 @@
 - [GitHub - DedSecInside/TorBot: Dark Web OSINT Tool](https://github.com/DedSecInside/TorBoT)
 - [GitHub - dirtyfilthy/freshonions-torscraper: Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion](https://github.com/dirtyfilthy/freshonions-torscraper)
 - [GitHub - itsmehacker/DarkScrape: OSINT Tool For Scraping Dark Websites](https://github.com/itsmehacker/DarkScrape)
-- [[regular or onion) webpages through TOR network](https://github.com/MikeMeliz/TorCrawl.py|GitHub - MikeMeliz/TorCrawl.py: Crawl and extract (regular or onion) webpages through TOR network]]
+- [GitHub - MikeMeliz/TorCrawl.py: Crawl and extract (regular or onion) webpages through TOR network](regular%20or%20onion)%20webpages%20through%20TOR%20network)
 - [Hidden Wiki](https://thehiddenwiki.org/)
 - [hiddenwikitor.com/](https://hiddenwikitor.com/)
 - [hIMEI29A/gichidan](https://github.com/hIMEI29A/gichidan)
