@@ -66,11 +66,3 @@
 * [BitFord](https://github.com/astro/bitford) - Chrome
 
 ***
-
-## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
-
-***
-
-## ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_torrenting)
-
-***
