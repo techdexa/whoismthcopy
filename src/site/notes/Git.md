@@ -6,7 +6,7 @@
 ## Git
 ### AWESOME
 - [Awesome Resources | A collection of awesome resources added by many contributors to help others find resources material about different programming langauges and frameworks.](https://shahednasser.github.io/awesome-resources)
-- [[https://awesomelists.top/#/|https://awesomelists.top/#/]]
+- [](https://awesomelists.top/#/)
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
 - [GitHub - abdelhai/awesome-bots: Awesome Links about bots.](https://github.com/abdelhai/awesome-bots)
 - [GitHub - ad-si/awesome-lego: Curated list of awesome LEGO resources](https://github.com/ad-si/awesome-lego)
@@ -394,7 +394,7 @@
 - [Git](https://raindrop.io/whoisdsmith/git-22103088)
 - [GitBook - Where software teams break knowledge silos.](https://www.gitbook.com/)
 - [GitExplorer](https://gitexplorer.com/)
-- [[Happy-Social-Media) is a browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feeds.](https://github.com/Ademking/happydia|GitHub - Ademking/happydia: Happydia (Happy-Social-Media) is a browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feeds.]]
+- [GitHub - Ademking/happydia: Happydia (Happy-Social-Media) is a browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feeds.](Happy-Social-Media)%20is%20a%20browser%20extension%20that%20helps%20you%20out%20by%20cleaning%20up%20sad,%20triggering,%20and%20sometimes%20just%20plain%20annoying%20news%20from%20your%20social%20media%20feeds.)
 - [GitHub - ayoy/fontedit: A desktop app to import, edit and export fonts as byte arrays for use in embedded systems](https://github.com/ayoy/fontedit)
 - [GitHub - bijij/ViewImage: Extension to re-implement the "View Image" and "Search by image" buttons into google images.](https://github.com/bijij/ViewImage)
 - [GitHub - chrissimpkins/codeface: Typefaces for source code beautification](https://github.com/chrissimpkins/codeface)
@@ -404,20 +404,20 @@
 - [GitHub - digitaldisarray/OSINT-Tools: Some of my favorite OSINT tools.](https://github.com/digitaldisarray/OSINT-Tools)
 - [GitHub - DIYgod/RSSHub: 🍰 Everything is RSSible](https://github.com/DIYgod/RSSHub)
 - [GitHub - Emupedia/emupedia.github.io: The purpose of Emupedia is to serve as a nonprofit meta-resource, hub and community for those interested mainly in video game preservation which aims to digitally collect, archive and preserve games and software to make them available online accessible by a user-friendly UI that simulates several retro operating systems for educational purposes.](https://github.com/Emupedia/emupedia.github.io)
-- [[Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com](https://github.com/fireeye/commando-vm|GitHub - fireeye/commando-vm: Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com]]
+- [GitHub - fireeye/commando-vm: Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com](Commando%20VM),%20a%20fully%20customizable%20Windows-based%20pentesting%20virtual%20machine%20distribution.%20commandovm@fireeye.com)
 - [GitHub - gavinsharp/SuperStop: SuperStop](https://github.com/gavinsharp/SuperStop)
 - [GitHub - GitSquared/sherlock-js: Find usernames across over 170 social networks - Fast & flexible remake of sdushantha/sherlock](https://github.com/GitSquared/sherlock-js)
 - [GitHub - Hack-with-Github/Powerful-Plugins: Powerful plugins and add-ons for hackers](https://github.com/Hack-with-Github/Powerful-Plugins)
 - [GitHub - Ibit-to/google-unlocked: Google Unlocked browser extension uncensor google search results](https://github.com/Ibit-to/google-unlocked)
 - [GitHub - internetarchive/wayback-machine-webextension: A web browser extension for Chrome, Firefox, Edge, and Safari 14.](https://github.com/internetarchive/wayback-machine-webextension)
 - [GitHub - iojw/socialscan: Check email address and username availability on online platforms with 100% accuracy](https://github.com/iojw/socialscan)
-- [[GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.](https://github.com/jay0lee/got-your-back|GitHub - jay0lee/got-your-back: Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.]]
+- [GitHub - jay0lee/got-your-back: Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.](GYB)%20is%20a%20command%20line%20tool%20for%20backing%20up%20your%20Gmail%20messages%20to%20your%20computer%20using%20Gmail's%20API%20over%20HTTPS.)
 - [GitHub - jswanner/DontFuckWithPaste: Google Chrome extension that prevents the blocking of pasting into input fields](https://github.com/jswanner/DontFuckWithPaste)
 - [GitHub - keitharm/myTube: Youtube without all the bloat](https://github.com/keitharm/mytube)
 - [GitHub - lawfx/YoutubeNonStop: Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?](https://github.com/lawfx/YoutubeNonStop)
 - [GitHub - new-xkit/XKit: Fork of XKit, the extension framework for Tumblr](https://github.com/new-xkit/XKit)
 - [GitHub - nid666/PiracyArchive: A complete backup of the Reddit r/Piracy sub](https://github.com/nid666/PiracyArchive)
-- [[2011) | NNTP / Usenet / Newsgroup indexer.](https://github.com/nZEDb/nZEDb]]
+- [ NNTP / Usenet / Newsgroup indexer.](https://github.com/nZEDb/nZEDb|GitHub - nZEDb/nZEDb: nZEDb - a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.](2011)%20)
 - [GitHub - PetterKraabol/Twitch-Chat-Downloader: Download chat messages from past broadcasts on Twitch](https://github.com/PetterKraabol/Twitch-Chat-Downloader)
 - [GitHub - rahiel/archiveror: Archiveror will help you preserve the webpages you love. 💾](https://github.com/rahiel/archiveror)
 - [GitHub - sindresorhus/caprine: Elegant Facebook Messenger desktop app](https://github.com/sindresorhus/caprine)
@@ -725,7 +725,7 @@
 - [PunchClock](https://github.com/panicinc/PunchClock)
 - [PureLayout](https://github.com/PureLayout/PureLayout)
 - [pybrain](https://github.com/pybrain/pybrain)
-- [[https://pyfunceble.github.io/#/|https://pyfunceble.github.io/#/]]
+- [](https://pyfunceble.github.io/#/)
 - [pyphi](https://github.com/wmayner/pyphi)
 - [pyreco](https://github.com/Mondego/pyreco)
 - [pyrecovery](https://github.com/grp/pyrecovery)
