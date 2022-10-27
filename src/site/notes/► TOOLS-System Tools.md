@@ -604,17 +604,3 @@
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
 
 ***
-
-## ▷ [Linux Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_tools_.2F_apps)
-
-***
-
-## ▷ [Mac Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_tools_.2F_apps)
-
-***
-
-## ▷ [Android Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_tools)
-
-***
-
-## ▷ [iOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_tools)
