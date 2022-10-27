@@ -36,7 +36,7 @@
 - [Inoreader](https://www.inoreader.com/dashboard)
 - [Is website down right now? Check this out on UpDown Radar](https://updownradar.com/)
 - [Magical Music Theory Tools to Learn Music Online for Free](https://muted.io/)
-- [[javascript:(function(|Open in Pilgrim]]%7Bvar%20url%3D%22http://pilgrim.are.na/%22%2BencodeURIComponent(window.location.href)%3Bwindow.open(url,%27_blank%27)%3B%7D)())
+- [Open in Pilgrim](javascript:(function()%7Bvar%20url%3D%22http://pilgrim.are.na/%22%2BencodeURIComponent(window.location.href)%3Bwindow.open(url,%27_blank%27)%3B%7D)())
 - [Personal Data](https://personaldata.info/)
 - [Pilgrim](https://pilgrim.are.na/)
 - [Radio Garden – Three Rivers MI](https://radio.garden/visit/three-rivers-mi/vhrHGVRG)
@@ -47,7 +47,7 @@
 - [Spotify Downloader - Download Spotify songs, playlists, and albums](https://spotify-downloader.com/)
 - [Spytify - Record Spotify - Overview](https://jwallet.github.io/spy-spotify/overview.html)
 - [The Hitchhiker’s Guide to Online Anonymity | The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
-- [[https://updoot.app/app#_|https://updoot.app/app#_]]
+- [](https://updoot.app/app#_)
 - [URL Extractor - Free Online URL Extractor Tool](https://www.bulkdachecker.com/url-extractor/)
 - [vagabondHustler/subsearch: Download subtitles for movies and shows, automatically with one easy mouse click.](https://github.com/vagabondHustler/subsearch)
 ---
