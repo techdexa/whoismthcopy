@@ -5,7 +5,7 @@
 
 ## Crisis Alerts and Travel Advisory
 - [| ACT Emergency Services Agency](https://esa.act.gov.au/?fullmap=true)
-- [[https://acleddata.com/#/dashboard|https://acleddata.com/#/dashboard]]
+- [](https://acleddata.com/#/dashboard)
 - [Fetching title...](https://www.state.gov/countries-areas)
 - [Fetching title...](https://www.gp-digital.org/world-map-of-encryption)
 - [Foreign travel advice](https://www.gov.uk/foreign-travel-advice)
