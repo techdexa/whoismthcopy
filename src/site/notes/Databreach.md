@@ -8,7 +8,7 @@
 - [Burner Mail](https://burnermail.io/resources/data-breach-checker)
 - [CrackStation](https://crackstation.net/)
 - [Hashing and Anonymity toolkit](https://md5hashing.net/)
-- [[Leak Search Engine)](https://checkleaked.cc/|LeakCheck: (Leak Search Engine)]]
+- [LeakCheck: (Leak Search Engine)](Leak%20Search%20Engine))
 - [Leaked.site](https://leaked.site/)
 - [Leaks](https://leaks.sh/)
 - [MyPwd](https://mypwd.io/)
