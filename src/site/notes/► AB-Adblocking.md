@@ -71,19 +71,3 @@
 * [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 
 ***
-
-## ▷ [Linux Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_adblock_.2F_privacy)
-
-***
-
-## ▷ [Mac Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_adblock_.2F_privacy)
-
-***
-
-## ▷ [Android Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_adblocking)
-
-***
-
-## ▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_adblocking)
-
-***
