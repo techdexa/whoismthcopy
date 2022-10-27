@@ -16,7 +16,7 @@
 - [GitHub - eschultze/URLextractor: Information gathering & website reconnaissance | https://phishstats.info/](https://github.com/eschultze/URLextractor)
 - [GitHub - FooBallZ/pulsar: Network footprint scanner platform. Discover domains and run your custom checks periodically.](https://github.com/FooBallZ/pulsar)
 - [GitHub - i3visio/osrframework: OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches.](https://github.com/i3visio/osrframework)
-- [[beta release)](https://github.com/InQuest/omnibus|GitHub - InQuest/omnibus: The OSINT Omnibus (beta release)]]
+- [GitHub - InQuest/omnibus: The OSINT Omnibus (beta release)](beta%20release))
 - [GitHub - InQuest/ThreatIngestor: Extract and aggregate threat intelligence.](https://github.com/InQuest/ThreatIngestor)
 - [GitHub - intelowlproject/IntelOwl: Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale](https://github.com/intelowlproject/IntelOwl)
 - [GitHub - j3ssie/metabigor: Intelligence tool but without API key](https://github.com/j3ssie/metabigor)
@@ -33,7 +33,7 @@
 - [GitHub - OWASP/Amass: In-depth Attack Surface Mapping and Asset Discovery](https://github.com/OWASP/Amass)
 - [GitHub - penafieljlm/inquisitor: Opinionated organisation-centric OSINT footprinting inspired from recon-ng and Maltego](https://github.com/penafieljlm/inquisitor)
 - [GitHub - pownjs/recon: A powerful target reconnaissance framework powered by graph theory.](https://github.com/pownjs/recon)
-- [[OSINT) Framework](https://github.com/saeeddhqan/Maryam|GitHub - saeeddhqan/Maryam: Maryam : Open-source Intelligence(OSINT) Framework]]
+- [GitHub - saeeddhqan/Maryam: Maryam : Open-source Intelligence(OSINT) Framework](OSINT)%20Framework)
 - [GitHub - Te-k/harpoon: CLI tool for open source and threat intelligence](https://github.com/Te-k/harpoon)
 - [GitHub - Tuhinshubhra/RED_HAWK: All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers](https://github.com/Tuhinshubhra/RED_HAWK)
 - [GitHub - twelvesec/gasmask: Information gathering tool - OSINT](https://github.com/twelvesec/gasmask)
