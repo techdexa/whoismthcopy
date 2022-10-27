@@ -4,10 +4,10 @@
 
 
 ## Mockup's
-- [[PSD, AI, SVG, PNG) - Medialoot](https://medialoot.com/free-resources|1068+ Most-Popular Free Design Resources to Download (PSD, AI, SVG, PNG) - Medialoot]]
+- [1068+ Most-Popular Free Design Resources to Download (PSD, AI, SVG, PNG) - Medialoot](PSD,%20AI,%20SVG,%20PNG)%20-%20Medialoot)
 - [CreativeBooster](https://creativebooster.net/)
 - [DB Freebies Design Resources from Behance and Dribbble](https://designerly.com/)
-- [[https://www.realthread.com/templates#apparel-templates|https://www.realthread.com/templates#apparel-templates]]
+- [](https://www.realthread.com/templates#apparel-templates)
 - [Free Graphics](https://www.pixeden.com/free-graphics)
 - [Free Mockup Templates on Pixelbuddha](https://pixelbuddha.net/mockups)
 - [Free PSD](https://uispace.net/free-psd)
