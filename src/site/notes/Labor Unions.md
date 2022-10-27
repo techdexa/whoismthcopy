@@ -5,4 +5,4 @@
 
 ## Labor Unions
 - [DOL Labor Union Search](https://olms.dol-esa.gov/olpdr)
-- [[https://unions.org/#directory|https://unions.org/#directory]]
+- [](https://unions.org/#directory)
