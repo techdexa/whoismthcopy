@@ -229,7 +229,7 @@
 - [Origin](https://origin.com/)
 - [OSINT & SOCMINT TOOLING](https://osint.support/)
 - [rethinkdns](https://bravedns.com/)
-- [[https://en.savefrom.net/user.php?helper=userjs#download|https://en.savefrom.net/user.php?helper=userjs#download]]
+- [](https://en.savefrom.net/user.php?helper=userjs#download)
 - [Snowflake](https://snowflake.com/)
 - [Tampermonkey](https://tampermonkey.net/)
 - [Tampermonkey.com](https://tampermonkey.com/)
