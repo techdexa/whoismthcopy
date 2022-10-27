@@ -63,7 +63,7 @@
 - [The Law Engine!](https://thelawengine.com/)
 - [The Lawphil Project](https://www.lawphil.net/)
 - [The Oyez](https://www.oyez.org/)
-- [[Lexadin)](https://www.lexadin.nl/wlg|The World Law Guide (Lexadin)]]
+- [The World Law Guide (Lexadin)](Lexadin))
 - [TheLawPages](https://www.thelawpages.com/)
 - [Trialinternational.org](https://trialinternational.org/)
 - [Trust Online](https://www.trustonline.org.uk/)
