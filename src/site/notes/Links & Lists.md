@@ -4,17 +4,17 @@
 
 
 ## Links & Lists
-- [[https://rentry.co/4dqmi#](https://rentry.co/4dqmi|https://rentry.co/4dqmi#](https://rentry.co/4dqmi#sites-apps-that-need-to-be-tested]]
+- [](https://rentry.co/4dqmi#%5D(https://rentry.co/4dqmi#%5D(https://rentry.co/4dqmi#sites-apps-that-need-to-be-tested)
 - [Aviva Directory](https://www.avivadirectory.com/)
 - [awesome-osint/README.md at master · jivoi/awesome-osint](https://github.com/jivoi/awesome-osint/blob/master/README.md)
 - [Big Lists of Website | Download Big Lists of Websites](http://biglistofwebsites.com/)
-- [[https://bin.disroot.org/?3082f04205be7af6=#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34|https://bin.disroot.org/?3082f04205be7af6=#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34]]
+- [](https://bin.disroot.org/?3082f04205be7af6=#BE4AhsPwWYXdLUjmmDLRyQNjvG6vaHnQkQAkyCTCUq34)
 - [cata-list](https://cata-list.github.io/)
 - [DDNEvolution : Best Free Download Community](https://www.ddnevolution.cc/)
 - [Edit](https://rentry.co/4dqmi/edit)
 - [Edit links](https://rentry.co/y3mph/edit)
-- [[https://bin.disroot.org/?21bf11599f4add1b=#A76CcMsSTvaLKrvjMrtX51Qr7dyUTVYgTkt52nLWry1k|https://bin.disroot.org/?21bf11599f4add1b=#A76CcMsSTvaLKrvjMrtX51Qr7dyUTVYgTkt52nLWry1k]]
-- [[https://bin.snopyta.org/?b1c49ff40392b339=#95sifuGegiAwJ6FyKqbLNoRNtVJNJBGbhird365oU6eM|https://bin.snopyta.org/?b1c49ff40392b339=#95sifuGegiAwJ6FyKqbLNoRNtVJNJBGbhird365oU6eM]]
+- [](https://bin.disroot.org/?21bf11599f4add1b=#A76CcMsSTvaLKrvjMrtX51Qr7dyUTVYgTkt52nLWry1k)
+- [](https://bin.snopyta.org/?b1c49ff40392b339=#95sifuGegiAwJ6FyKqbLNoRNtVJNJBGbhird365oU6eM)
 - [GitHub - imuledx/OSINT_sources](https://github.com/imuledx/OSINT_sources)
 - [GitHub - SiloGit/curated_OSINT_resources: A continuously curated list of my favorite links and resources relating to Open Source Intelligence gathering.](https://github.com/SiloGit/curated_OSINT_resources)
 - [Internet Curated](https://internetcurated.com/)
