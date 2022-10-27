@@ -155,14 +155,6 @@
 
 ***
 
-## ▷ [Linux Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_software)
-
-***
-
-## ▷ [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_software)
-
-***
-
 ## ▷ GFX Design Software
 
 * Note - Some of these also host editing courses
