@@ -105,23 +105,3 @@
 * [SunXDCC](http://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
 
 ***
-
-## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)
-
-***
-
-## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading)
-
-***
-
-## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_downloading)
-
-***
-
-## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
-
-***
-
-## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_audio_downloading)
-
-***
