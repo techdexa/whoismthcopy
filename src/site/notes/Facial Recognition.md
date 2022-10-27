@@ -10,7 +10,7 @@
 - [Face Detection & Recognition Homepage](https://facedetection.com/)
 - [Face Recognition Homepage](https://www.face-rec.org/)
 - [Face Searching - Face++ Cognitive Services](https://www.faceplusplus.com/face-searching)
-- [[Greenwolf)](https://github.com/Greenwolf/social_mapper|GitHub - Greenwolf/social_mapper: A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)]]
+- [GitHub - Greenwolf/social_mapper: A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)](Greenwolf))
 - [GitHub - lorenzoromani1983/wwww: A facial recognition tool based on Python and Elasticsearch for image-based data gathering and correlation](https://github.com/lorenzoromani1983/wwww)
 - [How Old.net](https://www.how-old.net/)
 - [Image Recognize](https://imagerecognize.com/)
