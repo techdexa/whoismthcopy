@@ -35,7 +35,7 @@
 - [FreeFullPDF](https://freefullpdf.com/)
 - [GitHub - alephdata/aleph: Search and browse documents and data; find the people and companies you look for.](https://github.com/alephdata/aleph)
 - [GitHub - gchenfc/sci-hub-now: Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅](https://github.com/gchenfc/sci-hub-now)
-- [[CV)](https://github.com/ideacvr/awesome-detection-transformer|GitHub - IDEACVR/awesome-detection-transformer: Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)]]
+- [GitHub - IDEACVR/awesome-detection-transformer: Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)](CV))
 - [GitHub - papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love)
 - [Global ETD Search](http://search.ndltd.org/)
 - [Google Scholar](https://scholar.google.com/)
@@ -47,7 +47,7 @@
 - [Home | National Security Archive](https://nsarchive.gwu.edu/)
 - [Home | Open Payments Data - CMS](https://openpaymentsdata.cms.gov/)
 - [Home Page](https://datacatalog.worldbank.org/)
-- [[Full Text) with Zotero](https://medium.com/@gagarine/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7|How to Use Sci-Hub to download PDF (Full Text) with Zotero]]
+- [How to Use Sci-Hub to download PDF (Full Text) with Zotero](Full%20Text)%20with%20Zotero)
 - [http://www.bioline.org.br/](http://www.bioline.org.br/)
 - [https://archives.parliament.uk/](https://archives.parliament.uk/)
 - [https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0](https://cse.google.com/cse?cx=000013508089310229747%3Aqf70z1tyrs0)
@@ -65,7 +65,7 @@
 - [MDPI - Publisher of Open Access Journals](https://www.mdpi.com/)
 - [Mendeley - Reference Management Software](https://www.mendeley.com/)
 - [Mendeley Data](https://data.mendeley.com/)
-- [[OALib)](https://www.oalib.com/|Open Access Library (OALib)]]
+- [Open Access Library (OALib)](OALib))
 - [OpenAIRE | Find and Share research](https://explore.openaire.eu/)
 - [OpenMD.com Health Search Engine](https://openmd.com/)
 - [PANDORA Web Archive](http://pandora.nla.gov.au/)
@@ -80,7 +80,7 @@
 - [Sci-Hub](https://t.me/freescience)
 - [Sci-Hub](https://t.me/scihubot)
 - [Sci-Hub | Открытый доступ к научной информации](https://vk.com/sci_hub)
-- [[en-US)](https://addons.mozilla.org/en-us/firefox/addon/sci-hub-scholar|Sci-Hub Scholar – Get this Extension for 🦊 Firefox (en-US)]]
+- [Sci-Hub Scholar – Get this Extension for 🦊 Firefox (en-US)](en-US))
 - [Sci-Hub: common ownership of the means of production,free access to articles of consumption](https://sci-hub.se/)
 - [Science.gov: USA.gov for Science - Government Science Portal](https://www.science.gov/)
 - [Scinapse | Academic search engine for paper](https://scinapse.io/)
