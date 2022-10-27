@@ -30,7 +30,7 @@
 - [Resilient file hosting - BayFiles](https://bayfiles.com/)
 - [Scan Result - Better Drive](https://betterdrive.app/ScanResult)
 - [Secure cloud file storage and sharing - DooDrive](https://doodrive.com/)
-- [[videos, photos, documents)](https://en.fromsmash.com/|Smash: File transfer (videos, photos, documents)]]
+- [Smash: File transfer (videos, photos, documents)](videos,%20photos,%20documents))
 - [Upload & Share PDF | DocDroid](https://www.docdroid.net/)
 - [Upload Files - LetsUpload Unlimited Cloud Storage](https://letsupload.io/)
 - [Upload Files - MegaUp](https://megaup.net/)
