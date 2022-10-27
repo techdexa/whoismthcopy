@@ -22,7 +22,7 @@
 - [Font » Free Download Vector Stock Image Photoshop Icon](https://graphicex.com/font)
 - [Font Finder 🔎 by What Font Is](https://www.whatfontis.com/)
 - [Font generator](https://fsymbols.com/generators)
-- [[Fancy text)](https://www.fontgeneratoronline.com/|Font Generator (Fancy text)]]
+- [Font Generator (Fancy text)](Fancy%20text))
 - [Font Library](https://fontlibrary.org/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [FontBase](https://fontba.se/)
