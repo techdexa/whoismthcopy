@@ -7,36 +7,36 @@
 
 ---
 
-[[Designs|Designs]]
+[Designs](Designs.md)
 
-[[Fonts|Fonts]]
+[Fonts](Fonts.md)
 
-[[Icons|Icons]]
+[Icons](Icons.md)
 
-[[Images|Images]]
+[Images](Images.md)
 
-[[Logos|Logos]]
+[Logos](Logos.md)
 
-[[Mockup's|Mockup's]]
+[Mockup's](Mockup's.md)
 
-[[Multimedia|Multimedia]]
+[Multimedia](Multimedia.md)
 
-[[Pallets|Pallets]]
+[Pallets](Pallets.md)
 
-[[Patterns|Patterns]]
+[Patterns](Patterns.md)
 
-[[Placeholder|Placeholder]]
+[Placeholder](Placeholder.md)
 
-[[PNGs|PNGs]]
+[PNGs](PNGs.md)
 
-[[Shutterstock|Shutterstock]]
+[Shutterstock](Shutterstock.md)
 
-[[Stock Photos|Stock Photos]]
+[Stock Photos](Stock%20Photos.md)
 
-[[SVG|SVG]]
+[SVG](SVG.md)
 
-[[Templates|Templates]]
+[Templates](Templates.md)
 
-[[Vectors|Vectors]]
+[Vectors](Vectors.md)
 
 ---
