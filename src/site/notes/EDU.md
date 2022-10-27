@@ -42,7 +42,7 @@
 - [Free PLR Downloads | Download Free PLR & MRR Products](https://freeplrdownloads.com/)
 - [GitHub - learn-anything/books: Awesome Books](https://github.com/learn-anything/books)
 - [GitHub - mytechnotalent/Reverse-Engineering: A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.](https://github.com/mytechnotalent/reverse-engineering-tutorial)
-- [[https://github.com/owainlewis/awesome-artificial-intelligence#free-content|https://github.com/owainlewis/awesome-artificial-intelligence#free-content]]
+- [](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)
 - [Google Colaboratory Notebooks and Repositories](https://github.com/firmai/awesome-google-colab)
 - [Group selection](https://powerinbooks.xyz/temp)
 - [HathiTrust Digital Library | Millions of books online](https://www.hathitrust.org/)
@@ -73,7 +73,7 @@
 - [Medical Study Zone](https://medicalstudyzone.com/)
 - [medRxiv](https://www.medrxiv.org/)
 - [Memory of the World Library](https://library.memoryoftheworld.org/)
-- [[https://library.memoryoftheworld.org/#/books/|https://library.memoryoftheworld.org/#/books/]]
+- [](https://library.memoryoftheworld.org/#/books/)
 - [Monoskop Log](https://monoskop.org/log)
 - [My Knowledge Wiki | Everything I know](https://wiki.nikiv.dev/)
 - [Non-Fiction](https://vk.com/non_fic)
@@ -112,7 +112,7 @@
 - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
 - [The Online Books Page: Search](https://onlinebooks.library.upenn.edu/search.html)
 - [The Ultimate Guide to Virtual Museum Resources | MCN](https://mcn.edu/a-guide-to-virtual-museum-resources)
-- [[https://www.reddit.com/r/freemediaheckyeah/wiki/tools-misc#wiki_.25b7_language_learning|https://www.reddit.com/r/freemediaheckyeah/wiki/tools-misc#wiki_.25b7_language_learning]]
+- [](https://www.reddit.com/r/freemediaheckyeah/wiki/tools-misc#wiki_.25b7_language_learning)
 - [Welcome to OpenDOAR - v2.sherpa](https://v2.sherpa.ac.uk/opendoar)
 - [Wikibooks](https://en.wikibooks.org/)
 - [Wikiversity](https://www.wikiversity.org/)
