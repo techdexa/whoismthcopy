@@ -39,11 +39,11 @@
 - [FullMetal](https://drive.fullmetal.workers.dev/0:)
 - [Generator.driveindex.ga](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index)
 - [Generator.driveindex.ga](https://generator.driveindex.ga/)
-- [[unlimited uploading space) - Pastelink.net](https://pastelink.net/2zw21|Google Team Drives (unlimited uploading space) - Pastelink.net]]
-- [[https://groups.google.com/forum?nomobile=true#!forum/sharing-viewer/join](https://groups.google.com/forum?nomobile=true|https://groups.google.com/forum?nomobile=true#!forum/sharing-viewer/join](https://groups.google.com/forum?nomobile=true#!forum/sharing-viewer/join]]
-- [[https://groups.google.com/forum#!forum/sammytorrents](https://groups.google.com/forum|https://groups.google.com/forum#!forum/sammytorrents](https://groups.google.com/forum#!forum/sammytorrents]]
+- [Google Team Drives (unlimited uploading space) - Pastelink.net](unlimited%20uploading%20space)%20-%20Pastelink.net)
+- [](https://groups.google.com/forum?nomobile=true#!forum/sharing-viewer/join%5D(https://groups.google.com/forum?nomobile=true#!forum/sharing-viewer/join%5D(https://groups.google.com/forum?nomobile=true#!forum/sharing-viewer/join)
+- [](https://groups.google.com/forum#!forum/sammytorrents%5D(https://groups.google.com/forum#!forum/sammytorrents%5D(https://groups.google.com/forum#!forum/sammytorrents)
 - [Groups.google.com/forum/embed/?place=forum/seedboxsl](https://groups.google.com/forum/embed?place=forum%2Fseedboxsl)
-- [[https://groups.google.com/forum/m#!forum/leecherhood](https://groups.google.com/forum/m|https://groups.google.com/forum/m#!forum/leecherhood](https://groups.google.com/forum/m#!forum/leecherhood]]
+- [](https://groups.google.com/forum/m#!forum/leecherhood%5D(https://groups.google.com/forum/m#!forum/leecherhood%5D(https://groups.google.com/forum/m#!forum/leecherhood)
 - [Hackgence.com | Create Google Shared Drives - Educational](https://td.hackgence.com/)
 - [Happyboy.hb4all.workers.dev](https://happyboy.hb4all.workers.dev/)
 - [HK Teamdrive Group - Google Groups](https://groups.google.com/g/hkteamdrive1group)
