@@ -9,11 +9,11 @@
 - [AutoCheck.com](https://www.autocheck.com/vehiclehistory?siteID=0)
 - [autodna](https://www.autodna.com/)
 - [BigRigVin](https://bigrigvin.com/)
-- [[BJA)](https://www.vehiclehistory.gov/|Bureau of Justice Assistance (BJA)]]
+- [BJA)](https://www.vehiclehistory.gov/)
 - [Car Tax Check](https://cartaxcheck.co.uk/)
 - [Carfax](https://www.carfax.com/)
 - [check that vin](https://checkthatvin.com/)
-- [[https://codes-in-the-world.html/#.Wsz3O4jwY2w|https://codes-in-the-world.html/#.Wsz3O4jwY2w]]
+- https://codes-in-the-world.html
 - [Federal-Mogul Motorparts](https://store.drivparts.com/fmstorefront)
 - [Free MOT Checker & MOT History Reports - IsMyCar.co.uk](https://www.ismycar.co.uk/mot-checker)
 - [How Many Left?](https://www.howmanyleft.co.uk/)
@@ -22,9 +22,9 @@
 - [Nomerogram.ru](https://www.nomerogram.ru/)
 - [Poctra.com](https://poctra.com/)
 - [Recall Information for Safety & Defects](https://owners.honda.com/service-maintenance/recalls)
-- [[Vehicle Identification Number)](https://vinrcl.safercar.gov/vin|Recalls Look-up by VIN (Vehicle Identification Number)]]
+- [[Vehicle Identification Number)](https://vinrcl.safercar.gov/vin)
 - [Run a Free VIN Check Instantly](https://vincheck.info/)
-- [[Damage claims history) - SGI](https://www.sgi.sk.ca/vin|Saskatchewan VIN search (Damage claims history) - SGI]]
+- [[Damage claims history) - SGI](https://www.sgi.sk.ca/vin)
 - [Vehicle Enquiry](https://vehicleenquiry.service.gov.uk/)
 - [vehicle history](https://www.vehiclehistory.com/)
 - [Vehicle History Report & VIN Check](https://www.kbb.com/vehicle-history-report)
