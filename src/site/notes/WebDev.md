@@ -3,6 +3,47 @@
 ---
 
 # WebDev
+---
+
+TOC
+
+- [[WebDev#Backlinks|Backlinks]]
+- [[WebDev#Cloud|Cloud]]
+- [[WebDev#Dashboards|Dashboards]]
+	- [[WebDev#Dashboards|Dashboard Tools]]
+	- [[WebDev#Dashboards|Finding SSL Certificates]]
+	- [[WebDev#Dashboards|Host-Domains]]
+	- [[WebDev#Dashboards|HTML & CSS]]
+	- [[WebDev#Dashboards|HTTP]]
+		- [[WebDev#HTTP|APIs]]
+		- [[WebDev#HTTP|Automation]]
+		- [[WebDev#HTTP|IFTTT]]
+		- [[WebDev#HTTP|Resources]]
+		- [[WebDev#HTTP|RSS]]
+		- [[WebDev#HTTP|RSS Tools]]
+		- [[WebDev#HTTP|RSS Indexes and Search Tools]]
+		- [[WebDev#HTTP|RSS Readers]]
+		- [[WebDev#HTTP|Webhooks]]
+	- [[WebDev#Dashboards|Indexing-WebCrawling]]
+	- [[WebDev#Dashboards|Inspiration]]
+	- [[WebDev#Dashboards|Self-Hosted]]
+	- [[WebDev#Dashboards|SEO Tools]]
+	- [[WebDev#Dashboards|Server]]
+	- [[WebDev#Dashboards|Site Mapping Tools]]
+	- [[WebDev#Dashboards|Web Animation]]
+	- [[WebDev#Dashboards|Website]]
+		- [[WebDev#Website|Ctrlaltback-space]]
+		- [[WebDev#Website|BlueHost]]
+		- [[WebDev#Website|Project-Audio]]
+		- [[WebDev#Website|Landing Page]]
+		- [[WebDev#Website|Static Sites]]
+		- [[WebDev#Website|Status Page]]
+		- [[WebDev#Website|Wordpress Builds]]
+	- [[WebDev#Dashboards|Website Monitoring]]
+		- [[WebDev#Website Monitoring|Monitoring]]
+
+
+---
 
 - [DEVURL](https://devurl.netlify.app/)
 
