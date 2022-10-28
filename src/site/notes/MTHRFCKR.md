@@ -73,7 +73,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 ---
 
 
-
+- [[Awesome Design Tools|Awesome Design Tools]]
 - [[Content|Content]]
 	- [[Communities|Communities]]
 	- [[Content Blogs, RSS and Feeds|Content Blogs, RSS and Feeds]]
@@ -85,6 +85,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 	- [[Programming|Programming]]
 	- [[Resources|Resources]]
 	- [[WebDev|WebDev]]
+[[Links from WebOasis|Links from WebOasis]]
 - [[MTHRFCKR|MTHRFCKR]]
 - [[Music|Music]]
 	- [[Music DL|Music DL]]
@@ -97,6 +98,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 	- [[Memex|Memex]]
 	- [[Notetaking|Notetaking]]
 	- [[Obsidian|Obsidian]]
+- [[Private Generator Tracker|Private Generator Tracker]]
 - [[Projects|Projects]]
 	- [[Data Integration and Visualisers|Data Integration and Visualisers]] 
 	- [[Financial|Financial]] 
@@ -123,6 +125,7 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 	- [[Publications|Publications]]
 	- [[Reference Tools|Reference Tools]]
 - [[Search Engines|Search Engines]]
+- [[Social media and photos|Social media and photos]]
 - [[Technology|Technology]]
 - [[The World Wide Web|The World Wide Web]]
 	- [[Awesome Internet Finds|Awesome Internet Finds]]
@@ -130,7 +133,9 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 	- [[Downloads|Downloads]]
 	- [[Google|Google]]
 - [[Tools|Tools]]
+- [[UI Graphics|UI Graphics]]
 - [[WebDev|WebDev]]
+- [[YouTube Video  Audio Downloaders|YouTube Video  Audio Downloaders]]
 
 ---
 
