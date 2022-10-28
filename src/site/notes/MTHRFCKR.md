@@ -15,14 +15,11 @@
 
 </div>
 
-
-
-
-
-
+---
 
 <h2 align="center">Information and Inspiration</h2>
 
+---
 
 
 Early Inspiration came from Webby of weboas.is (RIP)
@@ -42,6 +39,8 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 
 ---
 <h2 align="center">Notes</h2>
+
+---
 
 **My Old Bookmarking Workflow Was:**
 
