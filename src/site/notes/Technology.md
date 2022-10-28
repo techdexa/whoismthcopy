@@ -3,7 +3,62 @@
 ---
 
 # Technology
+---
 
+TOC
+
+- [[Technology#Mobile|Mobile]]
+	- [[Technology#Mobile|SMS]]
+	- [[Technology#Mobile|Jailbreak]]
+	- [[Technology#Mobile|Location History]]
+	- [[Technology#Mobile|Mobile Apps]]
+		- [[Technology#Mobile Apps|Android]]
+		- [[Technology#Mobile Apps|iOS]]
+		- [[Technology#Mobile Apps|iOS Apps]]
+		- [[Technology#Mobile Apps|iOS Shortcuts]]
+	- [[Technology#Mobile|Text Messages]]
+- [[Technology#PC|PC]]
+	- [[Technology#PC|Hardware]]
+		- [[Technology#Hardware|Hard Drives]]
+	- [[Technology#PC|Operating Systems]]
+		- [[Technology#Operating Systems|Linux]]
+		- [[Technology#Operating Systems|Linux]]
+		- [[Technology#Operating Systems|Linux Tools]]
+		- [[Technology#Operating Systems|Distros]]
+		- [[Technology#Operating Systems|Domain, IP & Web Searches]]
+		- [[Technology#Operating Systems|Email Recon]]
+		- [[Technology#Operating Systems|Facebook]]
+		- [[Technology#Operating Systems|Instagram]]
+		- [[Technology#Operating Systems|LinkedIn]]
+		- [[Technology#Operating Systems|Pastebin Scraping]]
+		- [[Technology#Operating Systems|People Recon]]
+		- [[Technology#Operating Systems|Phone Number Recon]]
+		- [[Technology#Operating Systems|Recon-NG]]
+		- [[Technology#Operating Systems|Shodan]]
+		- [[Technology#Operating Systems|Sn0int]]
+		- [[Technology#Operating Systems|Spiderfoot]]
+		- [[Technology#Operating Systems|Telegram]]
+		- [[Technology#Operating Systems|Twitter]]
+		- [[Technology#Operating Systems|Username Recon]]
+		- [[Technology#Operating Systems|Linux Training]]
+		- [[Technology#Operating Systems|OS Other]]
+	- [[Technology#PC|Software]]
+		- [[Technology#Software|File Organization]]
+		- [[Technology#Software|Hackintosh]]
+		- [[Technology#Software|Mac Apps]]
+		- [[Technology#Software|OSX]]
+		- [[Technology#Software|Windows Software]]
+		- [[Technology#Software|Cross Platform]]
+		- [[Technology#Software|Customizing OS]]
+		- [[Technology#Software|Drivers]]
+		- [[Technology#Software|File Management]]
+		- [[Technology#Software|Mobile & Desktop Tracking Software]]
+		- [[Technology#Software|Software (Free or Open Source)]]
+		- [[Technology#Software|Software Repacks]]
+		- [[Technology#Software|Windows]]
+
+
+---
 ## Mobile
 
 ### SMS
