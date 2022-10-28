@@ -90,6 +90,8 @@ Big Shoutout For The OSINT Resources goes out to Dean Da Costa and technisette
 	- [[Music DL|Music DL]]
 	- [[Pro Audio|Pro Audio]]
 - [[OSINT and Hacking|OSINT and Hacking]]
+	- [[OSINT|OSINT]]
+	- [[Start.me Resources|Start.me Resources]]
 - [[PKMS|PKMS]]
 	- [[Acronyms and Abbreviations|Acronyms and Abbreviations]] 
 	- [[Apps|Apps]] 
